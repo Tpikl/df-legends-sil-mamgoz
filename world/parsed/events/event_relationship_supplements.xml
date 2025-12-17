@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<historical_event_relationship_supplements>
+  <historical_event_relationship_supplement>
+  		<event>2392</event>
+  		<occasion_type>246</occasion_type>
+  		<site>8</site>
+  		<reason>81</reason>
+  	</historical_event_relationship_supplement>
+	
+  <historical_event_relationship_supplement>
+  		<event>3431</event>
+  		<occasion_type>246</occasion_type>
+  		<site>8</site>
+  		<reason>81</reason>
+  	</historical_event_relationship_supplement>
+	
+  <historical_event_relationship_supplement>
+  		<event>3466</event>
+  		<occasion_type>246</occasion_type>
+  		<site>8</site>
+  		<reason>81</reason>
+  	</historical_event_relationship_supplement>
+	
+  <historical_event_relationship_supplement>
+  		<event>4460</event>
+  		<occasion_type>246</occasion_type>
+  		<site>8</site>
+  		<reason>81</reason>
+  	</historical_event_relationship_supplement>
+	
+  <historical_event_relationship_supplement>
+  		<event>4854</event>
+  		<occasion_type>246</occasion_type>
+  		<site>8</site>
+  		<reason>81</reason>
+  	</historical_event_relationship_supplement>
+
+</historical_event_relationship_supplements>

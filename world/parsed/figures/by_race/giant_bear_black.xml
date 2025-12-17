@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>206</id>
+  		<name>rino ponderspins</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>MALE</caste>
+  		<appeared>13</appeared>
+  		<birth_year>8</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>28</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>272</id>
+  		<name>sungentranced</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>FEMALE</caste>
+  		<appeared>21</appeared>
+  		<birth_year>20</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>48</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>291</id>
+  		<name>one routrevere the scoured</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>MALE</caste>
+  		<appeared>26</appeared>
+  		<birth_year>24</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>53</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>426</id>
+  		<name>espo flayerlance</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>MALE</caste>
+  		<appeared>53</appeared>
+  		<birth_year>47</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>73</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>42</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>36</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>801</id>
+  		<name>lema nutlabored</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>FEMALE</caste>
+  		<appeared>135</appeared>
+  		<birth_year>129</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>151</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>910</id>
+  		<name>agash sootycudgel</name>
+  		<race>GIANT_BEAR_BLACK</race>
+  		<caste>FEMALE</caste>
+  		<appeared>154</appeared>
+  		<birth_year>150</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>175</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

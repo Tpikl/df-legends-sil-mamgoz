@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>360</id>
+  		<name>nom heavenscrowns</name>
+  		<race>PORCUPINE_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>38</appeared>
+  		<birth_year>31</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>39</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>38</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

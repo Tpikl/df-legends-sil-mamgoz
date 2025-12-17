@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<regions>
+  <region>
+  		<id>0</id>
+  		<name>the strong sea</name>
+  		<type>Ocean</type>
+  	</region>
+	
+  <region>
+  		<id>1</id>
+  		<name>the tundra of focus</name>
+  		<type>Tundra</type>
+  	</region>
+	
+  <region>
+  		<id>2</id>
+  		<name>the evaporated frost</name>
+  		<type>Tundra</type>
+  	</region>
+	
+  <region>
+  		<id>3</id>
+  		<name>the winter of organs</name>
+  		<type>Tundra</type>
+  	</region>
+	
+  <region>
+  		<id>4</id>
+  		<name>the steppes of crystal</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>5</id>
+  		<name>the modest silky blizzards</name>
+  		<type>Tundra</type>
+  	</region>
+	
+  <region>
+  		<id>6</id>
+  		<name>the murk of temptation</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>7</id>
+  		<name>the swamps of gripping</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>8</id>
+  		<name>the distant blizzards</name>
+  		<type>Tundra</type>
+  	</region>
+	
+  <region>
+  		<id>9</id>
+  		<name>the plain of busting</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>10</id>
+  		<name>the mire of yore</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>11</id>
+  		<name>the swamp of idols</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>12</id>
+  		<name>the rhythmic swamps</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>13</id>
+  		<name>the bald beak</name>
+  		<type>Mountains</type>
+  	</region>
+	
+  <region>
+  		<id>14</id>
+  		<name>the high steppe</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>15</id>
+  		<name>the wilted steppes</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>16</id>
+  		<name>the forest of parity</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>17</id>
+  		<name>the plain of brands</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>18</id>
+  		<name>the weak forests</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>19</id>
+  		<name>the wall of nets</name>
+  		<type>Mountains</type>
+  	</region>
+	
+  <region>
+  		<id>20</id>
+  		<name>the hills of competing</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>21</id>
+  		<name>the ivory mire</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>22</id>
+  		<name>the scraped fields</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>23</id>
+  		<name>the hill of passion</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>24</id>
+  		<name>the horns of gleaming</name>
+  		<type>Mountains</type>
+  	</region>
+	
+  <region>
+  		<id>25</id>
+  		<name>the jungle of soldiers</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>26</id>
+  		<name>the socketed forest</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>27</id>
+  		<name>the enjoyable prairie</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>28</id>
+  		<name>the quick hills</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>29</id>
+  		<name>the swamps of entering</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>30</id>
+  		<name>the old plains</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>31</id>
+  		<name>the dunes of glee</name>
+  		<type>Desert</type>
+  	</region>
+	
+  <region>
+  		<id>32</id>
+  		<name>the fiery beak</name>
+  		<type>Mountains</type>
+  	</region>
+	
+  <region>
+  		<id>33</id>
+  		<name>the prairie of bleaching</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>34</id>
+  		<name>the hill of moths</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>35</id>
+  		<name>the responsible fields</name>
+  		<type>Grassland</type>
+  	</region>
+	
+  <region>
+  		<id>36</id>
+  		<name>the hill of vising</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>37</id>
+  		<name>the forests of dousing</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>38</id>
+  		<name>the mindful hill</name>
+  		<type>Hills</type>
+  	</region>
+	
+  <region>
+  		<id>39</id>
+  		<name>the scholarly forests</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>40</id>
+  		<name>the idle mire</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>41</id>
+  		<name>the famous jungle</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>42</id>
+  		<name>the dispersed jungles</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>43</id>
+  		<name>the charcoal forests</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>44</id>
+  		<name>the jungle of shells</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>45</id>
+  		<name>the jungle of paging</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>46</id>
+  		<name>the jungles of flight</name>
+  		<type>Forest</type>
+  	</region>
+	
+  <region>
+  		<id>47</id>
+  		<name>the willful mire</name>
+  		<type>Wetland</type>
+  	</region>
+	
+  <region>
+  		<id>48</id>
+  		<name>the nourishing jungle</name>
+  		<type>Forest</type>
+  	</region>
+
+</regions>

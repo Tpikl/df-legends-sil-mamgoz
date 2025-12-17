@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1347</id>
+  		<year>27</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1544</id>
+  		<year>30</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3978</id>
+  		<year>66</year>
+  		<seconds72>193200</seconds72>
+  		<type>remove hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+</historical_events>

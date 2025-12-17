@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>12507</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>hf performed horrible experiments</type>
+  		<group_hfid>762</group_hfid>
+  		<site_id>17</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12522</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>hf performed horrible experiments</type>
+  		<group_hfid>762</group_hfid>
+  		<site_id>16</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12923</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf performed horrible experiments</type>
+  		<group_hfid>261</group_hfid>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+</historical_events>

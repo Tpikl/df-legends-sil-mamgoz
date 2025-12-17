@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>962</id>
+  		<name>bedotha drinkdistance</name>
+  		<race>SQUIRREL_RED_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>161</appeared>
+  		<birth_year>131</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>202</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

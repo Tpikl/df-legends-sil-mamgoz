@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<entities>
+  <entity>
+  		<id>0</id>
+  		<name>the beige girders</name>
+  	</entity>
+	
+  <entity>
+  		<id>1</id>
+  		<name>the veiled garlic</name>
+  	</entity>
+	
+  <entity>
+  		<id>2</id>
+  		<name>the grasping sea</name>
+  	</entity>
+	
+  <entity>
+  		<id>3</id>
+  	</entity>
+	
+  <entity>
+  		<id>4</id>
+  	</entity>
+	
+  <entity>
+  		<id>5</id>
+  	</entity>
+	
+  <entity>
+  		<id>6</id>
+  	</entity>
+	
+  <entity>
+  		<id>7</id>
+  	</entity>
+	
+  <entity>
+  		<id>8</id>
+  	</entity>
+	
+  <entity>
+  		<id>9</id>
+  	</entity>
+	
+  <entity>
+  		<id>10</id>
+  	</entity>
+	
+  <entity>
+  		<id>11</id>
+  	</entity>
+	
+  <entity>
+  		<id>12</id>
+  	</entity>
+	
+  <entity>
+  		<id>13</id>
+  	</entity>
+	
+  <entity>
+  		<id>14</id>
+  	</entity>
+	
+  <entity>
+  		<id>15</id>
+  	</entity>
+	
+  <entity>
+  		<id>16</id>
+  	</entity>
+	
+  <entity>
+  		<id>17</id>
+  	</entity>
+	
+  <entity>
+  		<id>18</id>
+  	</entity>
+	
+  <entity>
+  		<id>19</id>
+  	</entity>
+	
+  <entity>
+  		<id>20</id>
+  	</entity>
+	
+  <entity>
+  		<id>21</id>
+  	</entity>
+	
+  <entity>
+  		<id>22</id>
+  	</entity>
+	
+  <entity>
+  		<id>23</id>
+  	</entity>
+	
+  <entity>
+  		<id>24</id>
+  	</entity>
+	
+  <entity>
+  		<id>25</id>
+  	</entity>
+	
+  <entity>
+  		<id>26</id>
+  		<name>the tombs-roads of equivalence</name>
+  	</entity>
+	
+  <entity>
+  		<id>27</id>
+  		<name>the orb of heroes</name>
+  	</entity>
+	
+  <entity>
+  		<id>28</id>
+  		<name>faybin</name>
+  	</entity>
+	
+  <entity>
+  		<id>29</id>
+  		<name>thofolobogus</name>
+  	</entity>
+	
+  <entity>
+  		<id>30</id>
+  		<name>the unswerving fells</name>
+  	</entity>
+	
+  <entity>
+  		<id>31</id>
+  		<name>the hazy music</name>
+  	</entity>
+	
+  <entity>
+  		<id>32</id>
+  		<name>the bewildering nation</name>
+  	</entity>
+	
+  <entity>
+  		<id>33</id>
+  		<name>the group of sandals</name>
+  	</entity>
+	
+  <entity>
+  		<id>34</id>
+  		<name>the glowing cacti</name>
+  	</entity>
+	
+  <entity>
+  		<id>35</id>
+  		<name>the sorcerous crystal</name>
+  	</entity>
+	
+  <entity>
+  		<id>36</id>
+  		<name>the east council</name>
+  	</entity>
+	
+  <entity>
+  		<id>37</id>
+  		<name>the fated fragrance</name>
+  	</entity>
+	
+  <entity>
+  		<id>38</id>
+  		<name>the chamber of harmonizing</name>
+  	</entity>
+	
+  <entity>
+  		<id>39</id>
+  		<name>the bejeweled standard</name>
+  	</entity>
+	
+  <entity>
+  		<id>40</id>
+  		<name>the mechanical armory</name>
+  	</entity>
+	
+  <entity>
+  		<id>41</id>
+  		<name>the oaken tundra</name>
+  	</entity>
+	
+  <entity>
+  		<id>42</id>
+  		<name>the council of defenses</name>
+  	</entity>
+	
+  <entity>
+  		<id>43</id>
+  		<name>the guild of fealty</name>
+  	</entity>
+	
+  <entity>
+  		<id>44</id>
+  		<name>the council of stoking</name>
+  	</entity>
+	
+  <entity>
+  		<id>45</id>
+  		<name>the hall of burns</name>
+  	</entity>
+	
+  <entity>
+  		<id>46</id>
+  		<name>the scintillating fellowship</name>
+  	</entity>
+	
+  <entity>
+  		<id>47</id>
+  		<name>the helmed roses</name>
+  	</entity>
+	
+  <entity>
+  		<id>48</id>
+  		<name>the order of irons</name>
+  	</entity>
+	
+  <entity>
+  		<id>49</id>
+  		<name>the doctrines of slaughter</name>
+  	</entity>
+	
+  <entity>
+  		<id>50</id>
+  		<name>the hall of rumors</name>
+  	</entity>
+	
+  <entity>
+  		<id>51</id>
+  		<name>the hall of thunder</name>
+  	</entity>
+	
+  <entity>
+  		<id>52</id>
+  		<name>the crystalline knights</name>
+  	</entity>
+	
+  <entity>
+  		<id>53</id>
+  		<name>the fellowship of nights</name>
+  	</entity>
+	
+  <entity>
+  		<id>54</id>
+  		<name>the helmed boards</name>
+  	</entity>
+	
+  <entity>
+  		<id>55</id>
+  		<name>the oars of living</name>
+  	</entity>
+	
+  <entity>
+  		<id>56</id>
+  		<name>the lucky wires</name>
+  	</entity>
+	
+  <entity>
+  		<id>57</id>
+  		<name>the city of glazes</name>
+  	</entity>
+	
+  <entity>
+  		<id>58</id>
+  		<name>the uncommon rooms</name>
+  	</entity>
+	
+  <entity>
+  		<id>59</id>
+  		<name>the defensive diamonds</name>
+  	</entity>
+	
+  <entity>
+  		<id>60</id>
+  		<name>the systemic helms</name>
+  	</entity>
+	
+  <entity>
+  		<id>61</id>
+  		<name>the constructive tombs</name>
+  	</entity>
+	
+  <entity>
+  		<id>62</id>
+  		<name>the rough crazy bodices</name>
+  	</entity>
+
+</entities>

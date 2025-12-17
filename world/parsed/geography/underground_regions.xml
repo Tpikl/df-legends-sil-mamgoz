@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<underground_regions>
+  <underground_region>
+  		<id>0</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>1</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>2</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>3</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>4</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>5</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>6</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>7</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>8</id>
+  		<type>cavern</type>
+  		<depth>1</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>9</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>10</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>11</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>12</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>13</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>14</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>15</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>16</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>17</id>
+  		<type>cavern</type>
+  		<depth>2</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>18</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>19</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>20</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>21</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>22</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>23</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>24</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>25</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>26</id>
+  		<type>cavern</type>
+  		<depth>3</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>27</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>28</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>29</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>30</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>31</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>32</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>33</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>34</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>35</id>
+  		<type>magma</type>
+  		<depth>4</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>36</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>37</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>38</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>39</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>40</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>41</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>42</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>43</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+	
+  <underground_region>
+  		<id>44</id>
+  		<type>underworld</type>
+  		<depth>5</depth>
+  	</underground_region>
+
+</underground_regions>

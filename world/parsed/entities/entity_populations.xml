@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<entity_populations>
+  <entity_population>
+  		<id>0</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>1</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>2</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>3</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>4</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>5</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>6</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>7</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>8</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>9</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>10</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>11</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>12</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>13</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>14</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>15</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>16</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>17</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>18</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>19</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>20</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>21</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>22</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>23</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>24</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>25</id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>26</id>
+  	</entity_population>
+
+</entity_populations>

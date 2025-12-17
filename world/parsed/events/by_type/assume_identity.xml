@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>6130</id>
+  		<year>98</year>
+  		<seconds72>-1</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>627</trickster_hfid>
+  		<identity_id>0</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6530</id>
+  		<year>102</year>
+  		<seconds72>294000</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>223</trickster_hfid>
+  		<identity_id>1</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9945</id>
+  		<year>141</year>
+  		<seconds72>-1</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>828</trickster_hfid>
+  		<identity_id>2</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11236</id>
+  		<year>150</year>
+  		<seconds72>151200</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>888</trickster_hfid>
+  		<identity_id>3</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12074</id>
+  		<year>156</year>
+  		<seconds72>25200</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>932</trickster_hfid>
+  		<identity_id>4</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12553</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>116</trickster_hfid>
+  		<identity_id>5</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12944</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>863</trickster_hfid>
+  		<identity_id>6</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13141</id>
+  		<year>163</year>
+  		<seconds72>285600</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>324</trickster_hfid>
+  		<identity_id>7</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13527</id>
+  		<year>166</year>
+  		<seconds72>344400</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>601</trickster_hfid>
+  		<identity_id>8</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13531</id>
+  		<year>166</year>
+  		<seconds72>344400</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>348</trickster_hfid>
+  		<identity_id>9</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14510</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>739</trickster_hfid>
+  		<identity_id>10</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14513</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>192</trickster_hfid>
+  		<identity_id>11</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14517</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>269</trickster_hfid>
+  		<identity_id>12</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15881</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>66</trickster_hfid>
+  		<identity_id>13</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15885</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>67</trickster_hfid>
+  		<identity_id>14</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15889</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>996</trickster_hfid>
+  		<identity_id>15</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15891</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>68</trickster_hfid>
+  		<identity_id>16</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15894</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>assume identity</type>
+  		<trickster_hfid>211</trickster_hfid>
+  		<identity_id>17</identity_id>
+  		<target_enid>-1</target_enid>
+  	</historical_event>
+	
+</historical_events>

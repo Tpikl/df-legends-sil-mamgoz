@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>201</id>
+  		<year>2</year>
+  		<seconds72>142800</seconds72>
+  		<type>peace accepted</type>
+  		<site_id>-1</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1261</id>
+  		<year>25</year>
+  		<seconds72>50400</seconds72>
+  		<type>peace accepted</type>
+  		<site_id>-1</site_id>
+  	</historical_event>
+	
+</historical_events>

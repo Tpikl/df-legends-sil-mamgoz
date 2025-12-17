@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>359</id>
+  		<name>cequova swallowrubbed</name>
+  		<race>SNOWY_OWL_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>38</appeared>
+  		<birth_year>35</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>162</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>42</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>52</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>58</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>CLIMBING</skill>
+  			<total_ip>18000</total_ip>
+  		</hf_skill>
+  			<goal>start a family</goal>
+  		<active_interaction>SECRET_UNDEAD_RES_17</active_interaction>
+  		<relationship_profile_hf_visual>
+  			<hf_id>261</hf_id>
+  			<meet_count>0</meet_count>
+  			<last_meet_year>-1</last_meet_year>
+  			<last_meet_seconds72>0</last_meet_seconds72>
+  			<love>0</love>
+  			<respect>0</respect>
+  			<trust>0</trust>
+  			<loyalty>0</loyalty>
+  			<fear>0</fear>
+  		</relationship_profile_hf_visual>
+  		<intrigue_actor>
+  			<local_id>0</local_id>
+  			<hfid>261</hfid>
+  			<role>master</role>
+  			<strategy>obey</strategy>
+  		</intrigue_actor>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1044</id>
+  		<name>kudar smiledactions</name>
+  		<race>SNOWY_OWL_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>398</appeared>
+  		<birth_year>394</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>456</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1055</id>
+  		<name>araca braidwalked</name>
+  		<race>SNOWY_OWL_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>441</appeared>
+  		<birth_year>429</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>0</id>
+  		<name>litast greatergorges the just fells</name>
+  		<race>BIRD_ROC</race>
+  		<caste>MALE</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-35</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>153</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>29</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>28</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>36</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>42</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>33</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<sphere>sky</sphere>
+  		<sphere>wind</sphere>
+  		<sphere>hunting</sphere>
+  	</historical_figure>
+	
+</historical_figures>

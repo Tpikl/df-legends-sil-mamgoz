@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>133</id>
+  		<year>1</year>
+  		<seconds72>193600</seconds72>
+  		<type>ceremony</type>
+  		<civ_id>26</civ_id>
+  		<occasion_id>0</occasion_id>
+  		<schedule_id>1</schedule_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12634</id>
+  		<year>160</year>
+  		<seconds72>178000</seconds72>
+  		<type>ceremony</type>
+  		<civ_id>26</civ_id>
+  		<occasion_id>4</occasion_id>
+  		<schedule_id>2</schedule_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+</historical_events>

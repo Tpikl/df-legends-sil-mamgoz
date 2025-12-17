@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>202</id>
+  		<year>2</year>
+  		<seconds72>184800</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>75</target_hfid>
+  		<snatcher_hfid>34</snatcher_hfid>
+  		<site_id>9</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>210</id>
+  		<year>2</year>
+  		<seconds72>268800</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>95</target_hfid>
+  		<snatcher_hfid>35</snatcher_hfid>
+  		<site_id>13</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>288</id>
+  		<year>4</year>
+  		<seconds72>16800</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>82</target_hfid>
+  		<snatcher_hfid>39</snatcher_hfid>
+  		<site_id>14</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>359</id>
+  		<year>6</year>
+  		<seconds72>235200</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>98</target_hfid>
+  		<snatcher_hfid>37</snatcher_hfid>
+  		<site_id>13</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>623</id>
+  		<year>13</year>
+  		<seconds72>361200</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>79</target_hfid>
+  		<snatcher_hfid>41</snatcher_hfid>
+  		<site_id>11</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>898</id>
+  		<year>18</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>259</target_hfid>
+  		<snatcher_hfid>43</snatcher_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1395</id>
+  		<year>27</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>269</target_hfid>
+  		<snatcher_hfid>35</snatcher_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1796</id>
+  		<year>34</year>
+  		<seconds72>8400</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>329</target_hfid>
+  		<snatcher_hfid>34</snatcher_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1803</id>
+  		<year>34</year>
+  		<seconds72>75600</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>76</target_hfid>
+  		<snatcher_hfid>42</snatcher_hfid>
+  		<site_id>9</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1864</id>
+  		<year>35</year>
+  		<seconds72>16800</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>342</target_hfid>
+  		<snatcher_hfid>229</snatcher_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2785</id>
+  		<year>49</year>
+  		<seconds72>218400</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>367</target_hfid>
+  		<snatcher_hfid>43</snatcher_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3090</id>
+  		<year>53</year>
+  		<seconds72>176400</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>430</target_hfid>
+  		<snatcher_hfid>40</snatcher_hfid>
+  		<site_id>18</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3093</id>
+  		<year>53</year>
+  		<seconds72>176400</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>299</target_hfid>
+  		<snatcher_hfid>41</snatcher_hfid>
+  		<site_id>13</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3977</id>
+  		<year>66</year>
+  		<seconds72>193200</seconds72>
+  		<type>hf abducted</type>
+  		<target_hfid>482</target_hfid>
+  		<snatcher_hfid>152</snatcher_hfid>
+  		<site_id>13</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+</historical_events>

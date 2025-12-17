@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<artifacts>
+  <artifact>
+  		<id>0</id>
+  		<item>
+  		<name_string>elder ice</name_string>
+  		</item>
+  		<site_id>5</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>1</id>
+  		<item>
+  		<name_string>elder ice</name_string>
+  		</item>
+  		<site_id>6</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>2</id>
+  		<item>
+  		<name_string>elder ice</name_string>
+  		</item>
+  		<site_id>7</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>3</id>
+  		<name>greatestglimmer</name>
+  		<item>
+  		<name_string>toraskatdir</name_string>
+  		</item>
+  		<holder_hfid>219</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>4</id>
+  		<name>the nadir of trusting</name>
+  		<item>
+  		<name_string>limur gamil</name_string>
+  		</item>
+  		<holder_hfid>576</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>5</id>
+  		<name>roarsghost the unwelcome dungeons</name>
+  		<item>
+  		<name_string>orrunngotol thisridedir</name_string>
+  		</item>
+  		<holder_hfid>576</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>6</id>
+  		<name>the hames of elevation</name>
+  		<item>
+  		<name_string>ezum todor</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>7</id>
+  		<name>the duel: a brief introduction</name>
+  		<item>
+  		<name_string>the duel: a brief introduction</name_string>
+  		<page_number>23</page_number>
+  		<page_written_content_id>6</page_written_content_id>
+  		</item>
+  		<site_id>8</site_id>
+  		<structure_local_id>0</structure_local_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>8</id>
+  		<name>the strangers of ruining</name>
+  		<item>
+  		<name_string>rakas suthan</name_string>
+  		</item>
+  		<site_id>8</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>9</id>
+  		<name>gatetongues</name>
+  		<item>
+  		<name_string>inodnol</name_string>
+  		</item>
+  		<holder_hfid>106</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>10</id>
+  		<name>conjurecrows</name>
+  		<item>
+  		<name_string>tusungustir</name_string>
+  		</item>
+  		<holder_hfid>106</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>11</id>
+  		<name>the musics of paint</name>
+  		<item>
+  		<name_string>shasad logem</name_string>
+  		</item>
+  		<holder_hfid>576</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>12</id>
+  		<name>the twinkling venoms</name>
+  		<item>
+  		<name_string>shetbethzamoth</name_string>
+  		</item>
+  		<holder_hfid>219</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>13</id>
+  		<name>it is the dwarves</name>
+  		<item>
+  		<name_string>it is the dwarves</name_string>
+  		<page_number>22</page_number>
+  		<page_written_content_id>14</page_written_content_id>
+  		</item>
+  		<site_id>17</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>14</id>
+  		<name>hailedfastens the angelic woods</name>
+  		<item>
+  		<name_string>ilunthiz sedillolum</name_string>
+  		</item>
+  		<holder_hfid>106</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>15</id>
+  		<name>secret mountainhome</name>
+  		<item>
+  		<name_string>secret mountainhome</name_string>
+  		<writing_written_content_id>22</writing_written_content_id>
+  		</item>
+  		<site_id>8</site_id>
+  		<structure_local_id>0</structure_local_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>16</id>
+  		<name>the bad ticks</name>
+  		<item>
+  		<name_string>asdosnobgost</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>17</id>
+  		<name>cryptfates</name>
+  		<item>
+  		<name_string>momuztarem</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>18</id>
+  		<name>frayedcoils</name>
+  		<item>
+  		<name_string>isirbalad</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>19</id>
+  		<name>charcoalsharks: principles and practice</name>
+  		<item>
+  		<name_string>charcoalsharks: principles and practice</name_string>
+  		<page_number>24</page_number>
+  		<page_written_content_id>41</page_written_content_id>
+  		</item>
+  		<site_id>18</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>20</id>
+  		<name>the village explained</name>
+  		<item>
+  		<name_string>the village explained</name_string>
+  		<page_number>136</page_number>
+  		<page_written_content_id>47</page_written_content_id>
+  		</item>
+  		<site_id>18</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>21</id>
+  		<name>the duel and the universe</name>
+  		<item>
+  		<name_string>the duel and the universe</name_string>
+  		<writing_written_content_id>53</writing_written_content_id>
+  		</item>
+  		<site_id>18</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>22</id>
+  		<name>climaxtails</name>
+  		<item>
+  		<name_string>climaxtails</name_string>
+  		<page_number>30</page_number>
+  		<page_written_content_id>55</page_written_content_id>
+  		</item>
+  		<site_id>18</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>23</id>
+  		<name>the secret of the head executioner</name>
+  		<item>
+  		<name_string>the secret of the head executioner</name_string>
+  		<writing_written_content_id>58</writing_written_content_id>
+  		</item>
+  		<site_id>18</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>24</id>
+  		<name>the untoward lantern</name>
+  		<item>
+  		<name_string>kiretudil</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>25</id>
+  		<name>the way with the cardinal flutes</name>
+  		<item>
+  		<name_string>the way with the cardinal flutes</name_string>
+  		<writing_written_content_id>66</writing_written_content_id>
+  		</item>
+  		<site_id>16</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>26</id>
+  		<name>discovering the human</name>
+  		<item>
+  		<name_string>discovering the human</name_string>
+  		<page_number>23</page_number>
+  		<page_written_content_id>75</page_written_content_id>
+  		</item>
+  		<site_id>8</site_id>
+  		<structure_local_id>0</structure_local_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>27</id>
+  		<name>classic mountain halls</name>
+  		<item>
+  		<name_string>classic mountain halls</name_string>
+  		<writing_written_content_id>85</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>28</id>
+  		<name>an introduction to longpaints</name>
+  		<item>
+  		<name_string>an introduction to longpaints</name_string>
+  		<page_number>129</page_number>
+  		<page_written_content_id>86</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>29</id>
+  		<name>the guild, my love</name>
+  		<item>
+  		<name_string>the guild, my love</name_string>
+  		<page_number>42</page_number>
+  		<page_written_content_id>88</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>30</id>
+  		<name>the dwarf and the universe</name>
+  		<item>
+  		<name_string>the dwarf and the universe</name_string>
+  		<page_number>29</page_number>
+  		<page_written_content_id>89</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>31</id>
+  		<name>the wizard's guide to the deal</name>
+  		<item>
+  		<name_string>the wizard's guide to the deal</name_string>
+  		<page_number>13</page_number>
+  		<page_written_content_id>90</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>32</id>
+  		<name>logem teethstandards: the definitive guide</name>
+  		<item>
+  		<name_string>logem teethstandards: the definitive guide</name_string>
+  		<page_number>23</page_number>
+  		<page_written_content_id>91</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>33</id>
+  		<name>of workboard</name>
+  		<item>
+  		<name_string>of workboard</name_string>
+  		<writing_written_content_id>92</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>34</id>
+  		<name>workboard: a brief history</name>
+  		<item>
+  		<name_string>workboard: a brief history</name_string>
+  		<writing_written_content_id>93</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>35</id>
+  		<name>captivated by the tower</name>
+  		<item>
+  		<name_string>captivated by the tower</name_string>
+  		<writing_written_content_id>94</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>36</id>
+  		<name>the flutes of cover</name>
+  		<item>
+  		<name_string>bem laltur</name_string>
+  		</item>
+  		<holder_hfid>107</holder_hfid>
+  	</artifact>
+	
+  <artifact>
+  		<id>37</id>
+  		<name>the book of the dwarf</name>
+  		<item>
+  		<name_string>the book of the dwarf</name_string>
+  		<page_number>28</page_number>
+  		<page_written_content_id>95</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>38</id>
+  		<name>workboard and the universe</name>
+  		<item>
+  		<name_string>workboard and the universe</name_string>
+  		<writing_written_content_id>96</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>39</id>
+  		<name>genius: the definitive guide</name>
+  		<item>
+  		<name_string>genius: the definitive guide</name_string>
+  		<page_number>21</page_number>
+  		<page_written_content_id>97</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>40</id>
+  		<name>logem teethstandards questioned</name>
+  		<item>
+  		<name_string>logem teethstandards questioned</name_string>
+  		<writing_written_content_id>98</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>41</id>
+  		<name>after the tower</name>
+  		<item>
+  		<name_string>after the tower</name_string>
+  		<writing_written_content_id>99</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>42</id>
+  		<name>creation: problems and solutions</name>
+  		<item>
+  		<name_string>creation: problems and solutions</name_string>
+  		<writing_written_content_id>100</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>43</id>
+  		<name>beyond kadol craftpeaked</name>
+  		<item>
+  		<name_string>beyond kadol craftpeaked</name_string>
+  		<page_number>20</page_number>
+  		<page_written_content_id>101</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>44</id>
+  		<name>new deal</name>
+  		<item>
+  		<name_string>new deal</name_string>
+  		<page_number>16</page_number>
+  		<page_written_content_id>102</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>45</id>
+  		<name>pathways to the mountainhome</name>
+  		<item>
+  		<name_string>pathways to the mountainhome</name_string>
+  		<page_number>66</page_number>
+  		<page_written_content_id>103</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>46</id>
+  		<name>secret dwarf</name>
+  		<item>
+  		<name_string>secret dwarf</name_string>
+  		<writing_written_content_id>104</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>47</id>
+  		<item>
+  		<name_string>�goose parchment scroll�</name_string>
+  		<writing_written_content_id>105</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>48</id>
+  		<name>could it be the tower?</name>
+  		<item>
+  		<name_string>could it be the tower?</name_string>
+  		<writing_written_content_id>106</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>49</id>
+  		<name>it is longpaints</name>
+  		<item>
+  		<name_string>it is longpaints</name_string>
+  		<writing_written_content_id>107</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>50</id>
+  		<name>the competition and the universe</name>
+  		<item>
+  		<name_string>the competition and the universe</name_string>
+  		<writing_written_content_id>108</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>51</id>
+  		<name>concerning the dwarf</name>
+  		<item>
+  		<name_string>concerning the dwarf</name_string>
+  		<page_number>25</page_number>
+  		<page_written_content_id>109</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>52</id>
+  		<name>the dwarves: principles and practice</name>
+  		<item>
+  		<name_string>the dwarves: principles and practice</name_string>
+  		<writing_written_content_id>110</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>53</id>
+  		<name>the tower without limits</name>
+  		<item>
+  		<name_string>the tower without limits</name_string>
+  		<page_number>133</page_number>
+  		<page_written_content_id>111</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>54</id>
+  		<name>storage and other travesties</name>
+  		<item>
+  		<name_string>storage and other travesties</name_string>
+  		<page_number>15</page_number>
+  		<page_written_content_id>112</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>55</id>
+  		<item>
+  		<name_string>�untitled�</name_string>
+  		<page_number>5</page_number>
+  		<page_written_content_id>113</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>56</id>
+  		<name>the mountainhome and other topics</name>
+  		<item>
+  		<name_string>the mountainhome and other topics</name_string>
+  		<writing_written_content_id>114</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>57</id>
+  		<item>
+  		<name_string>�untitled�</name_string>
+  		<page_number>4</page_number>
+  		<page_written_content_id>115</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>58</id>
+  		<name>commentary on the people</name>
+  		<item>
+  		<name_string>commentary on the people</name_string>
+  		<page_number>10</page_number>
+  		<page_written_content_id>116</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>59</id>
+  		<name>questions about workboard</name>
+  		<item>
+  		<name_string>questions about workboard</name_string>
+  		<writing_written_content_id>117</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>60</id>
+  		<name>musings on the dwarf</name>
+  		<item>
+  		<name_string>musings on the dwarf</name_string>
+  		<page_number>26</page_number>
+  		<page_written_content_id>118</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>61</id>
+  		<item>
+  		<name_string>�untitled�</name_string>
+  		<page_number>5</page_number>
+  		<page_written_content_id>119</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>62</id>
+  		<name>the secret of the tower</name>
+  		<item>
+  		<name_string>the secret of the tower</name_string>
+  		<writing_written_content_id>120</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>63</id>
+  		<name>the tower</name>
+  		<item>
+  		<name_string>the tower</name_string>
+  		<page_number>33</page_number>
+  		<page_written_content_id>121</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>64</id>
+  		<name>the darkness: a quandary</name>
+  		<item>
+  		<name_string>the darkness: a quandary</name_string>
+  		<writing_written_content_id>122</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>65</id>
+  		<name>the true tower</name>
+  		<item>
+  		<name_string>the true tower</name_string>
+  		<writing_written_content_id>123</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>66</id>
+  		<name>true creation</name>
+  		<item>
+  		<name_string>true creation</name_string>
+  		<page_number>29</page_number>
+  		<page_written_content_id>124</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>67</id>
+  		<item>
+  		<name_string>�untitled�</name_string>
+  		<page_number>3</page_number>
+  		<page_written_content_id>125</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>68</id>
+  		<name>a meditation on workboard</name>
+  		<item>
+  		<name_string>a meditation on workboard</name_string>
+  		<page_number>114</page_number>
+  		<page_written_content_id>126</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>69</id>
+  		<name>great workboard</name>
+  		<item>
+  		<name_string>great workboard</name_string>
+  		<page_number>65</page_number>
+  		<page_written_content_id>127</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>70</id>
+  		<name>unknown rebirth</name>
+  		<item>
+  		<name_string>unknown rebirth</name_string>
+  		<writing_written_content_id>128</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>71</id>
+  		<name>meditations on workboard</name>
+  		<item>
+  		<name_string>meditations on workboard</name_string>
+  		<writing_written_content_id>129</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>72</id>
+  		<item>
+  		<name_string>�wolverine parchment scroll�</name_string>
+  		<writing_written_content_id>130</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>73</id>
+  		<name>a record of the tower</name>
+  		<item>
+  		<name_string>a record of the tower</name_string>
+  		<page_number>60</page_number>
+  		<page_written_content_id>131</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>74</id>
+  		<name>workboard explained</name>
+  		<item>
+  		<name_string>workboard explained</name_string>
+  		<writing_written_content_id>132</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>75</id>
+  		<name>discovering the dwarf</name>
+  		<item>
+  		<name_string>discovering the dwarf</name_string>
+  		<page_number>32</page_number>
+  		<page_written_content_id>133</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>76</id>
+  		<name>workboard: a new approach</name>
+  		<item>
+  		<name_string>workboard: a new approach</name_string>
+  		<writing_written_content_id>134</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>77</id>
+  		<name>the future of longpaints</name>
+  		<item>
+  		<name_string>the future of longpaints</name_string>
+  		<page_number>31</page_number>
+  		<page_written_content_id>135</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>78</id>
+  		<name>the future of the dwarf</name>
+  		<item>
+  		<name_string>the future of the dwarf</name_string>
+  		<page_number>29</page_number>
+  		<page_written_content_id>136</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>79</id>
+  		<item>
+  		<name_string>�reindeer parchment scroll�</name_string>
+  		<writing_written_content_id>137</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>80</id>
+  		<name>nomal sensesblockades and other topics</name>
+  		<item>
+  		<name_string>nomal sensesblockades and other topics</name_string>
+  		<page_number>34</page_number>
+  		<page_written_content_id>138</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>81</id>
+  		<name>the tower: a brief introduction</name>
+  		<item>
+  		<name_string>the tower: a brief introduction</name_string>
+  		<writing_written_content_id>139</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>82</id>
+  		<name>before storage</name>
+  		<item>
+  		<name_string>before storage</name_string>
+  		<page_number>26</page_number>
+  		<page_written_content_id>140</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>83</id>
+  		<name>of the pit</name>
+  		<item>
+  		<name_string>of the pit</name_string>
+  		<writing_written_content_id>141</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>84</id>
+  		<name>records of the darkness</name>
+  		<item>
+  		<name_string>records of the darkness</name_string>
+  		<writing_written_content_id>142</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>85</id>
+  		<name>workboard: fact or fiction?</name>
+  		<item>
+  		<name_string>workboard: fact or fiction?</name_string>
+  		<page_number>87</page_number>
+  		<page_written_content_id>143</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>86</id>
+  		<name>workboard the easy way</name>
+  		<item>
+  		<name_string>workboard the easy way</name_string>
+  		<writing_written_content_id>144</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>87</id>
+  		<name>creation uncovered</name>
+  		<item>
+  		<name_string>creation uncovered</name_string>
+  		<page_number>32</page_number>
+  		<page_written_content_id>145</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>88</id>
+  		<name>never underestimate workboard</name>
+  		<item>
+  		<name_string>never underestimate workboard</name_string>
+  		<page_number>128</page_number>
+  		<page_written_content_id>146</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>89</id>
+  		<name>give me the tower</name>
+  		<item>
+  		<name_string>give me the tower</name_string>
+  		<writing_written_content_id>147</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>90</id>
+  		<name>give me the tower</name>
+  		<item>
+  		<name_string>give me the tower</name_string>
+  		<page_number>102</page_number>
+  		<page_written_content_id>148</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>91</id>
+  		<name>the giraffe woman uncovered</name>
+  		<item>
+  		<name_string>the giraffe woman uncovered</name_string>
+  		<writing_written_content_id>149</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>92</id>
+  		<item>
+  		<name_string>�untitled�</name_string>
+  		<page_number>5</page_number>
+  		<page_written_content_id>150</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>93</id>
+  		<name>master of the tower</name>
+  		<item>
+  		<name_string>master of the tower</name_string>
+  		<writing_written_content_id>151</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>94</id>
+  		<name>secret workboard</name>
+  		<item>
+  		<name_string>secret workboard</name_string>
+  		<writing_written_content_id>152</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>95</id>
+  		<name>great mountainhome</name>
+  		<item>
+  		<name_string>great mountainhome</name_string>
+  		<page_number>104</page_number>
+  		<page_written_content_id>153</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>96</id>
+  		<name>principles of storage</name>
+  		<item>
+  		<name_string>principles of storage</name_string>
+  		<writing_written_content_id>154</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>97</id>
+  		<name>a treatise on the composition</name>
+  		<item>
+  		<name_string>a treatise on the composition</name_string>
+  		<page_number>21</page_number>
+  		<page_written_content_id>155</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>98</id>
+  		<item>
+  		<name_string>�water buffalo parchment scroll�</name_string>
+  		<writing_written_content_id>156</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>99</id>
+  		<name>never underestimate the tower</name>
+  		<item>
+  		<name_string>never underestimate the tower</name_string>
+  		<writing_written_content_id>157</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>100</id>
+  		<name>an introduction to kadol craftpeaked</name>
+  		<item>
+  		<name_string>an introduction to kadol craftpeaked</name_string>
+  		<page_number>23</page_number>
+  		<page_written_content_id>158</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>101</id>
+  		<name>master of the gift</name>
+  		<item>
+  		<name_string>master of the gift</name_string>
+  		<writing_written_content_id>159</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>102</id>
+  		<name>a record of the tower</name>
+  		<item>
+  		<name_string>a record of the tower</name_string>
+  		<writing_written_content_id>160</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>103</id>
+  		<name>the wizard's guide to storage</name>
+  		<item>
+  		<name_string>the wizard's guide to storage</name_string>
+  		<writing_written_content_id>161</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>104</id>
+  		<name>secret dwarf</name>
+  		<item>
+  		<name_string>secret dwarf</name_string>
+  		<writing_written_content_id>162</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>105</id>
+  		<name>the resurrection in the modern era</name>
+  		<item>
+  		<name_string>the resurrection in the modern era</name_string>
+  		<writing_written_content_id>163</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>106</id>
+  		<name>the codex, my life</name>
+  		<item>
+  		<name_string>the codex, my life</name_string>
+  		<writing_written_content_id>164</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>107</id>
+  		<item>
+  		<name_string>�hyena parchment scroll�</name_string>
+  		<writing_written_content_id>165</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>108</id>
+  		<name>beyond the tower</name>
+  		<item>
+  		<name_string>beyond the tower</name_string>
+  		<writing_written_content_id>166</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>109</id>
+  		<name>the tower the easy way</name>
+  		<item>
+  		<name_string>the tower the easy way</name_string>
+  		<writing_written_content_id>167</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>110</id>
+  		<name>the truth about workboard</name>
+  		<item>
+  		<name_string>the truth about workboard</name_string>
+  		<writing_written_content_id>168</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>111</id>
+  		<name>storage came full circle</name>
+  		<item>
+  		<name_string>storage came full circle</name_string>
+  		<writing_written_content_id>169</writing_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+	
+  <artifact>
+  		<id>112</id>
+  		<name>the tower and the universe</name>
+  		<item>
+  		<name_string>the tower and the universe</name_string>
+  		<page_number>19</page_number>
+  		<page_written_content_id>170</page_written_content_id>
+  		</item>
+  		<site_id>20</site_id>
+  	</artifact>
+
+</artifacts>

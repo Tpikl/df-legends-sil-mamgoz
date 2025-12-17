@@ -1,0 +1,6429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>0</id>
+  		<sex>1</sex>
+  		<race>roc</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1</id>
+  		<sex>1</sex>
+  		<race>hydra</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>2</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>3</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>4</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>5</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>6</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>7</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>8</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>9</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>10</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>11</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>12</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>13</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>14</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>15</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>16</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>17</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>18</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>19</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>20</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>21</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>22</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>23</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>24</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>25</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>26</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>27</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>28</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>29</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>30</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>31</id>
+  		<sex>-1</sex>
+  		<race>forgotten beast</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>32</id>
+  		<sex>-1</sex>
+  		<race>mountain titan</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>33</id>
+  		<sex>-1</sex>
+  		<race>forest titan</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>34</id>
+  		<sex>0</sex>
+  		<race>vile troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>35</id>
+  		<sex>1</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>36</id>
+  		<sex>0</sex>
+  		<race>horror of twilight</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>37</id>
+  		<sex>0</sex>
+  		<race>dark troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>38</id>
+  		<sex>1</sex>
+  		<race>gloom freak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>39</id>
+  		<sex>0</sex>
+  		<race>dark horror</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>40</id>
+  		<sex>0</sex>
+  		<race>hag of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>41</id>
+  		<sex>0</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>42</id>
+  		<sex>1</sex>
+  		<race>horror of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>43</id>
+  		<sex>0</sex>
+  		<race>freak of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>44</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>45</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>46</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>47</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>48</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>49</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>50</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>51</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>52</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>53</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>54</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>55</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>56</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>57</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>58</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>59</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>60</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>61</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>62</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>63</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>64</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>65</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>66</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>67</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>68</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>69</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>70</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>71</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>72</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>73</id>
+  		<sex>-1</sex>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>74</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>75</id>
+  		<sex>1</sex>
+  		<race>vile troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>76</id>
+  		<sex>0</sex>
+  		<race>horror of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>77</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>78</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>79</id>
+  		<sex>1</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>80</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>81</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>82</id>
+  		<sex>1</sex>
+  		<race>dark horror</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>83</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>84</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>85</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>86</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>87</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>88</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>89</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>90</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>91</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>92</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>93</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>94</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>95</id>
+  		<sex>0</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>96</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>97</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>98</id>
+  		<sex>1</sex>
+  		<race>dark troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>99</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>100</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>101</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>102</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>103</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>104</id>
+  		<sex>0</sex>
+  		<race>ettin</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>105</id>
+  		<sex>0</sex>
+  		<race>minotaur</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>106</id>
+  		<sex>0</sex>
+  		<race>cyclops</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>107</id>
+  		<sex>1</sex>
+  		<race>giant</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>108</id>
+  		<sex>0</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>109</id>
+  		<sex>1</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>110</id>
+  		<sex>1</sex>
+  		<race>molemarian</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>111</id>
+  		<sex>1</sex>
+  		<race>giant dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>112</id>
+  		<sex>1</sex>
+  		<race>troglodyte</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>113</id>
+  		<sex>1</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>114</id>
+  		<sex>0</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>115</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>116</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>117</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>118</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>119</id>
+  		<sex>1</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>120</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>121</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>122</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>123</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>124</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>125</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>126</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>127</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>128</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>129</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>130</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>131</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>132</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>133</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>134</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>135</id>
+  		<sex>1</sex>
+  		<race>jaguar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>136</id>
+  		<sex>0</sex>
+  		<race>giant lion</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>137</id>
+  		<sex>1</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>138</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>139</id>
+  		<sex>0</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>140</id>
+  		<sex>0</sex>
+  		<race>kakapo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>141</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>142</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>143</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>144</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>145</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>146</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>147</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>148</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>149</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>150</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>151</id>
+  		<sex>0</sex>
+  		<race>vile troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>152</id>
+  		<sex>1</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>153</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>154</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>155</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>156</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>157</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>158</id>
+  		<sex>0</sex>
+  		<race>dark horror</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>159</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>160</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>161</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>162</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>163</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>164</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>165</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>166</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>167</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>168</id>
+  		<sex>1</sex>
+  		<race>swan man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>169</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>170</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>171</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>172</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>173</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>174</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>175</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>176</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>177</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>178</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>179</id>
+  		<sex>0</sex>
+  		<race>dark troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>180</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>181</id>
+  		<sex>1</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>182</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>183</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>184</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>185</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>186</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>187</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>188</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>189</id>
+  		<sex>0</sex>
+  		<race>kobold</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>190</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>191</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>192</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>193</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>194</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>195</id>
+  		<sex>0</sex>
+  		<race>bobcat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>196</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>197</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>198</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>199</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>200</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>201</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>202</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>203</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>204</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>205</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>206</id>
+  		<sex>1</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>207</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>208</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>209</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>210</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>211</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>212</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>213</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>214</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>215</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>216</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>217</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>218</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>219</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>220</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>221</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>222</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>223</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>224</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>225</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>226</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>227</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>228</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>229</id>
+  		<sex>0</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>230</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>231</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>232</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>233</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>234</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>235</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>236</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>237</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>238</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>239</id>
+  		<sex>1</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>240</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>241</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>242</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>243</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>244</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>245</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>246</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>247</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>248</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>249</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>250</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>251</id>
+  		<sex>1</sex>
+  		<race>bobcat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>252</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>253</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>254</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>255</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>256</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>257</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>258</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>259</id>
+  		<sex>1</sex>
+  		<race>freak of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>260</id>
+  		<sex>1</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>261</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>262</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>263</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>264</id>
+  		<sex>0</sex>
+  		<race>freak of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>265</id>
+  		<sex>0</sex>
+  		<race>jaguar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>266</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>267</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>268</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>269</id>
+  		<sex>0</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>270</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>271</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>272</id>
+  		<sex>0</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>273</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>274</id>
+  		<sex>0</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>275</id>
+  		<sex>0</sex>
+  		<race>hyena</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>276</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>277</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>278</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>279</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>280</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>281</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>282</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>283</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>284</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>285</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>286</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>287</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>288</id>
+  		<sex>0</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>289</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>290</id>
+  		<sex>0</sex>
+  		<race>dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>291</id>
+  		<sex>1</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>292</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>293</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>294</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>295</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>296</id>
+  		<sex>0</sex>
+  		<race>giant dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>297</id>
+  		<sex>0</sex>
+  		<race>elf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>298</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>299</id>
+  		<sex>1</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>300</id>
+  		<sex>1</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>301</id>
+  		<sex>1</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>302</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>303</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>304</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>305</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>306</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>307</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>308</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>309</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>310</id>
+  		<sex>0</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>311</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>312</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>313</id>
+  		<sex>0</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>314</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>315</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>316</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>317</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>318</id>
+  		<sex>0</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>319</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>320</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>321</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>322</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>323</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>324</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>325</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>326</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>327</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>328</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>329</id>
+  		<sex>1</sex>
+  		<race>vile troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>330</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>331</id>
+  		<sex>1</sex>
+  		<race>kakapo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>332</id>
+  		<sex>0</sex>
+  		<race>jaguar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>333</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>334</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>335</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>336</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>337</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>338</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>339</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>340</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>341</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>342</id>
+  		<sex>1</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>343</id>
+  		<sex>1</sex>
+  		<race>horror of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>344</id>
+  		<sex>0</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>345</id>
+  		<sex>0</sex>
+  		<race>vile troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>346</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>347</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>348</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>349</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>350</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>351</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>352</id>
+  		<sex>0</sex>
+  		<race>dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>353</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>354</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>355</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>356</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>357</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>358</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>359</id>
+  		<sex>1</sex>
+  		<race>snowy owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>360</id>
+  		<sex>0</sex>
+  		<race>porcupine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>361</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>362</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>363</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>364</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>365</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>366</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>367</id>
+  		<sex>1</sex>
+  		<race>freak of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>368</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>369</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>370</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>371</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>372</id>
+  		<sex>0</sex>
+  		<race>giant alligator</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>373</id>
+  		<sex>0</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>374</id>
+  		<sex>0</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>375</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>376</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>377</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>378</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>379</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>380</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>381</id>
+  		<sex>1</sex>
+  		<race>giant dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>382</id>
+  		<sex>0</sex>
+  		<race>bushtit man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>383</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>384</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>385</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>386</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>387</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>388</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>389</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>390</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>391</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>392</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>393</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>394</id>
+  		<sex>1</sex>
+  		<race>cockatiel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>395</id>
+  		<sex>1</sex>
+  		<race>kestrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>396</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>397</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>398</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>399</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>400</id>
+  		<sex>1</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>401</id>
+  		<sex>1</sex>
+  		<race>blind cave ogre</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>402</id>
+  		<sex>1</sex>
+  		<race>voracious cave crawler</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>403</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>404</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>405</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>406</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>407</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>408</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>409</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>410</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>411</id>
+  		<sex>0</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>412</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>413</id>
+  		<sex>0</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>414</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>415</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>416</id>
+  		<sex>0</sex>
+  		<race>giant dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>417</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>418</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>419</id>
+  		<sex>0</sex>
+  		<race>freak of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>420</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>421</id>
+  		<sex>1</sex>
+  		<race>giraffe man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>422</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>423</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>424</id>
+  		<sex>0</sex>
+  		<race>cockatiel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>425</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>426</id>
+  		<sex>1</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>427</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>428</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>429</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>430</id>
+  		<sex>1</sex>
+  		<race>hag of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>431</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>432</id>
+  		<sex>0</sex>
+  		<race>monster of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>433</id>
+  		<sex>0</sex>
+  		<race>hag of shadow</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>434</id>
+  		<sex>0</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>435</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>436</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>437</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>438</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>439</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>440</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>441</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>442</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>443</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>444</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>445</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>446</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>447</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>448</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>449</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>450</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>451</id>
+  		<sex>0</sex>
+  		<race>giraffe man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>452</id>
+  		<sex>1</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>453</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>454</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>455</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>456</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>457</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>458</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>459</id>
+  		<sex>0</sex>
+  		<race>parakeet man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>460</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>461</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>462</id>
+  		<sex>1</sex>
+  		<race>giant bat</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>463</id>
+  		<sex>0</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>464</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>465</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>466</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>467</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>468</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>469</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>470</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>471</id>
+  		<sex>1</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>472</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>473</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>474</id>
+  		<sex>1</sex>
+  		<race>giant dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>475</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>476</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>477</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>478</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>479</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>480</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>481</id>
+  		<sex>1</sex>
+  		<race>jaguar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>482</id>
+  		<sex>0</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>483</id>
+  		<sex>1</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>484</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>485</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>486</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>487</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>488</id>
+  		<sex>1</sex>
+  		<race>brute of evil</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>489</id>
+  		<sex>0</sex>
+  		<race>bushtit man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>490</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>491</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>492</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>493</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>494</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>495</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>496</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>497</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>498</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>499</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>500</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>501</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>502</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>503</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>504</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>505</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>506</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>507</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>508</id>
+  		<sex>1</sex>
+  		<race>jabberer</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>509</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>510</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>511</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>512</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>513</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>514</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>515</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>516</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>517</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>518</id>
+  		<sex>0</sex>
+  		<race>wolf man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>519</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>520</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>521</id>
+  		<sex>0</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>522</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>523</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>524</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>525</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>526</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>527</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>528</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>529</id>
+  		<sex>1</sex>
+  		<race>mongoose man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>530</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>531</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>532</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>533</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>534</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>535</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>536</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>537</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>538</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>539</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>540</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>541</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>542</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>543</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>544</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>545</id>
+  		<sex>0</sex>
+  		<race>giant cave spider</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>546</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>547</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>548</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>549</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>550</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>551</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>552</id>
+  		<sex>0</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>553</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>554</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>555</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>556</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>557</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>558</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>559</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>560</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>561</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>562</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>563</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>564</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>565</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>566</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>567</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>568</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>569</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>570</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>571</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>572</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>573</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>574</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>575</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>576</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>577</id>
+  		<sex>1</sex>
+  		<race>dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>578</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>579</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>580</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>581</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>582</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>583</id>
+  		<sex>0</sex>
+  		<race>jaguar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>584</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>585</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>586</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>587</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>588</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>589</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>590</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>591</id>
+  		<sex>1</sex>
+  		<race>troglodyte</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>592</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>593</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>594</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>595</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>596</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>597</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>598</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>599</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>600</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>601</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>602</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>603</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>604</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>605</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>606</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>607</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>608</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>609</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>610</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>611</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>612</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>613</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>614</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>615</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>616</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>617</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>618</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>619</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>620</id>
+  		<sex>1</sex>
+  		<race>giant alligator</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>621</id>
+  		<sex>1</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>622</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>623</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>624</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>625</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>626</id>
+  		<sex>0</sex>
+  		<race>giant leopard</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>627</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>628</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>629</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>630</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>631</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>632</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>633</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>634</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>635</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>636</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>637</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>638</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>639</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>640</id>
+  		<sex>0</sex>
+  		<race>tapir man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>641</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>642</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>643</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>644</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>645</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>646</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>647</id>
+  		<sex>0</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>648</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>649</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>650</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>651</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>652</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>653</id>
+  		<sex>1</sex>
+  		<race>giant cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>654</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>655</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>656</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>657</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>658</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>659</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>660</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>661</id>
+  		<sex>0</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>662</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>663</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>664</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>665</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>666</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>667</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>668</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>669</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>670</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>671</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>672</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>673</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>674</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>675</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>676</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>677</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>678</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>679</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>680</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>681</id>
+  		<sex>1</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>682</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>683</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>684</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>685</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>686</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>687</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>688</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>689</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>690</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>691</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>692</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>693</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>694</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>695</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>696</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>697</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>698</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>699</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>700</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>701</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>702</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>703</id>
+  		<sex>1</sex>
+  		<race>capuchin man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>704</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>705</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>706</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>707</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>708</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>709</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>710</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>711</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>712</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>713</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>714</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>715</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>716</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>717</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>718</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>719</id>
+  		<sex>0</sex>
+  		<race>emu man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>720</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>721</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>722</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>723</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>724</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>725</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>726</id>
+  		<sex>0</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>727</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>728</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>729</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>730</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>731</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>732</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>733</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>734</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>735</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>736</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>737</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>738</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>739</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>740</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>741</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>742</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>743</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>744</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>745</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>746</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>747</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>748</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>749</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>750</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>751</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>752</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>753</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>754</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>755</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>756</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>757</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>758</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>759</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>760</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>761</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>762</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>763</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>764</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>765</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>766</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>767</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>768</id>
+  		<sex>1</sex>
+  		<race>kestrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>769</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>770</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>771</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>772</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>773</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>774</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>775</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>776</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>777</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>778</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>779</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>780</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>781</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>782</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>783</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>784</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>785</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>786</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>787</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>788</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>789</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>790</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>791</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>792</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>793</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>794</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>795</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>796</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>797</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>798</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>799</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>800</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>801</id>
+  		<sex>0</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>802</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>803</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>804</id>
+  		<sex>0</sex>
+  		<race>giant alligator</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>805</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>806</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>807</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>808</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>809</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>810</id>
+  		<sex>1</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>811</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>812</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>813</id>
+  		<sex>1</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>814</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>815</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>816</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>817</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>818</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>819</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>820</id>
+  		<sex>0</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>821</id>
+  		<sex>1</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>822</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>823</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>824</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>825</id>
+  		<sex>1</sex>
+  		<race>raven man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>826</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>827</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>828</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>829</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>830</id>
+  		<sex>1</sex>
+  		<race>barn owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>831</id>
+  		<sex>0</sex>
+  		<race>firefly man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>832</id>
+  		<sex>0</sex>
+  		<race>fox man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>833</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>834</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>835</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>836</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>837</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>838</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>839</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>840</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>841</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>842</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>843</id>
+  		<sex>1</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>844</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>845</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>846</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>847</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>848</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>849</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>850</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>851</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>852</id>
+  		<sex>1</sex>
+  		<race>weasel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>853</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>854</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>855</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>856</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>857</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>858</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>859</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>860</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>861</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>862</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>863</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>864</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>865</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>866</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>867</id>
+  		<sex>0</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>868</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>869</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>870</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>871</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>872</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>873</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>874</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>875</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>876</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>877</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>878</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>879</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>880</id>
+  		<sex>0</sex>
+  		<race>giraffe man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>881</id>
+  		<sex>0</sex>
+  		<race>tiger man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>882</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>883</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>884</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>885</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>886</id>
+  		<sex>1</sex>
+  		<race>tick man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>887</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>888</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>889</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>890</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>891</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>892</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>893</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>894</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>895</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>896</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>897</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>898</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>899</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>900</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>901</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>902</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>903</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>904</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>905</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>906</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>907</id>
+  		<sex>0</sex>
+  		<race>white stork man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>908</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>909</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>910</id>
+  		<sex>0</sex>
+  		<race>giant black bear</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>911</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>912</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>913</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>914</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>915</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>916</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>917</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>918</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>919</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>920</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>921</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>922</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>923</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>924</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>925</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>926</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>927</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>928</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>929</id>
+  		<sex>1</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>930</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>931</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>932</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>933</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>934</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>935</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>936</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>937</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>938</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>939</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>940</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>941</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>942</id>
+  		<sex>0</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>943</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>944</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>945</id>
+  		<sex>1</sex>
+  		<race>human</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>946</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>947</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>948</id>
+  		<sex>1</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>949</id>
+  		<sex>1</sex>
+  		<race>plump helmet man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>950</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>951</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>952</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>953</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>954</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>955</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>956</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>957</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>958</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>959</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>960</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>961</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>962</id>
+  		<sex>0</sex>
+  		<race>red squirrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>963</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>964</id>
+  		<sex>0</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>965</id>
+  		<sex>0</sex>
+  		<race>parakeet man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>966</id>
+  		<sex>1</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>967</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>968</id>
+  		<sex>0</sex>
+  		<race>dwarf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>969</id>
+  		<sex>0</sex>
+  		<race>kestrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>970</id>
+  		<sex>0</sex>
+  		<race>saltwater crocodile man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>971</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>972</id>
+  		<sex>1</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>973</id>
+  		<sex>0</sex>
+  		<race>cockatiel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>974</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>975</id>
+  		<sex>0</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>976</id>
+  		<sex>0</sex>
+  		<race>hyena man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>977</id>
+  		<sex>0</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>978</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>979</id>
+  		<sex>0</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>980</id>
+  		<sex>1</sex>
+  		<race>voracious cave crawler</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>981</id>
+  		<sex>1</sex>
+  		<race>anaconda man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>982</id>
+  		<sex>1</sex>
+  		<race>leopard man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>983</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>984</id>
+  		<sex>0</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>985</id>
+  		<sex>1</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>986</id>
+  		<sex>1</sex>
+  		<race>yeti</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>987</id>
+  		<sex>1</sex>
+  		<race>giant wolf</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>988</id>
+  		<sex>1</sex>
+  		<race>plump helmet man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>989</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>990</id>
+  		<sex>0</sex>
+  		<race>coyote man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>991</id>
+  		<sex>0</sex>
+  		<race>tick man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>992</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>993</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>994</id>
+  		<sex>1</sex>
+  		<race>dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>995</id>
+  		<sex>1</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>996</id>
+  		<sex>1</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>997</id>
+  		<sex>-1</sex>
+  		<race>slug man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>998</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>999</id>
+  		<sex>0</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1000</id>
+  		<sex>1</sex>
+  		<race>aardvark man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1001</id>
+  		<sex>0</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1002</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1003</id>
+  		<sex>1</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1004</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1005</id>
+  		<sex>1</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1006</id>
+  		<sex>1</sex>
+  		<race>giant bat</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1007</id>
+  		<sex>1</sex>
+  		<race>grasshopper man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1008</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1009</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1010</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1011</id>
+  		<sex>0</sex>
+  		<race>dingo</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1012</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1013</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1014</id>
+  		<sex>0</sex>
+  		<race>cougar</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1015</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1016</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1017</id>
+  		<sex>1</sex>
+  		<race>hedgehog man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1018</id>
+  		<sex>0</sex>
+  		<race>troll</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1019</id>
+  		<sex>0</sex>
+  		<race>groundhog man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1020</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1021</id>
+  		<sex>0</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1022</id>
+  		<sex>1</sex>
+  		<race>coati man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1023</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1024</id>
+  		<sex>0</sex>
+  		<race>gorlak</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1025</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1026</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1027</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1028</id>
+  		<sex>1</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1029</id>
+  		<sex>0</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1030</id>
+  		<sex>1</sex>
+  		<race>aardvark man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1031</id>
+  		<sex>0</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1032</id>
+  		<sex>1</sex>
+  		<race>beetle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1033</id>
+  		<sex>0</sex>
+  		<race>raven man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1034</id>
+  		<sex>0</sex>
+  		<race>peregrine falcon man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1035</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1036</id>
+  		<sex>1</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1037</id>
+  		<sex>0</sex>
+  		<race>great horned owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1038</id>
+  		<sex>0</sex>
+  		<race>kea man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1039</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1040</id>
+  		<sex>1</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1041</id>
+  		<sex>1</sex>
+  		<race>white stork man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1042</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1043</id>
+  		<sex>1</sex>
+  		<race>emu man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1044</id>
+  		<sex>0</sex>
+  		<race>snowy owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1045</id>
+  		<sex>1</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1046</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1047</id>
+  		<sex>1</sex>
+  		<race>crow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1048</id>
+  		<sex>1</sex>
+  		<race>hoary marmot man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1049</id>
+  		<sex>1</sex>
+  		<race>swan man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1050</id>
+  		<sex>1</sex>
+  		<race>emu man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1051</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1052</id>
+  		<sex>0</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1053</id>
+  		<sex>1</sex>
+  		<race>kestrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1054</id>
+  		<sex>1</sex>
+  		<race>hamster man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1055</id>
+  		<sex>1</sex>
+  		<race>snowy owl man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1056</id>
+  		<sex>0</sex>
+  		<race>wolverine man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1057</id>
+  		<sex>1</sex>
+  		<race>gray squirrel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1058</id>
+  		<sex>0</sex>
+  		<race>weasel man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1059</id>
+  		<sex>1</sex>
+  		<race>tick man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1060</id>
+  		<sex>0</sex>
+  		<race>cougar man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1061</id>
+  		<sex>0</sex>
+  		<race>kangaroo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1062</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1063</id>
+  		<sex>0</sex>
+  		<race>wren man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1064</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1065</id>
+  		<sex>0</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1066</id>
+  		<sex>0</sex>
+  		<race>dingo man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1067</id>
+  		<sex>0</sex>
+  		<race>eagle man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1068</id>
+  		<sex>1</sex>
+  		<race>white stork man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1069</id>
+  		<sex>1</sex>
+  		<race>sparrow man</race>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1070</id>
+  		<sex>1</sex>
+  		<race>wombat man</race>
+  	</historical_figure>
+
+</historical_figures>

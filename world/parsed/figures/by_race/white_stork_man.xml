@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>907</id>
+  		<name>odu baldsmiled</name>
+  		<race>WHITE_STORK_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>153</appeared>
+  		<birth_year>150</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>159</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<hf_link>
+  			<link_type>deity</link_type>
+  			<hfid>44</hfid>
+  			<link_strength>25</link_strength>
+  		</hf_link>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>27</entity_id>
+  			<link_strength>8</link_strength>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>SPEAR</skill>
+  			<total_ip>1800</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SHIELD</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>ARMOR</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DISCIPLINE</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>CLIMBING</skill>
+  			<total_ip>500</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1041</id>
+  		<name>akkar squeezeddell</name>
+  		<race>WHITE_STORK_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>383</appeared>
+  		<birth_year>380</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>446</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1068</id>
+  		<name>thalal twinklelathers</name>
+  		<race>WHITE_STORK_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>482</appeared>
+  		<birth_year>474</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

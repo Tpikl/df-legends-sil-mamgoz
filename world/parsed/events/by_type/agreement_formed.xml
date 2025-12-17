@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1598</id>
+  		<year>30</year>
+  		<seconds72>352800</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>0</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1619</id>
+  		<year>31</year>
+  		<seconds72>193200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>1</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1745</id>
+  		<year>33</year>
+  		<seconds72>142800</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>2</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2043</id>
+  		<year>37</year>
+  		<seconds72>243600</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>3</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2370</id>
+  		<year>42</year>
+  		<seconds72>16800</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>4</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3084</id>
+  		<year>53</year>
+  		<seconds72>134400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>5</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3085</id>
+  		<year>53</year>
+  		<seconds72>176400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>6</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3822</id>
+  		<year>63</year>
+  		<seconds72>168000</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>7</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5452</id>
+  		<year>85</year>
+  		<seconds72>319200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>8</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5480</id>
+  		<year>86</year>
+  		<seconds72>58800</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>9</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5514</id>
+  		<year>87</year>
+  		<seconds72>67200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>10</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6032</id>
+  		<year>96</year>
+  		<seconds72>243600</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>11</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6426</id>
+  		<year>101</year>
+  		<seconds72>8400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>12</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6442</id>
+  		<year>101</year>
+  		<seconds72>134400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>13</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8379</id>
+  		<year>125</year>
+  		<seconds72>327600</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>14</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8430</id>
+  		<year>126</year>
+  		<seconds72>92400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>15</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8674</id>
+  		<year>128</year>
+  		<seconds72>109200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>16</agreement_id>
+  		<successful />
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>63</top_facet_rating>
+  		<top_facet_modifier>-2</top_facet_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8786</id>
+  		<year>129</year>
+  		<seconds72>252000</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>17</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9174</id>
+  		<year>133</year>
+  		<seconds72>84000</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>18</agreement_id>
+  		<successful />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9646</id>
+  		<year>138</year>
+  		<seconds72>42000</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>19</agreement_id>
+  		<successful />
+  		<action>bribe official</action>
+  		<method>offer immortality</method>
+  		<top_facet>envy propensity</top_facet>
+  		<top_facet_rating>59</top_facet_rating>
+  		<top_facet_modifier>18</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>30</top_value_rating>
+  		<top_value_modifier>-10</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9659</id>
+  		<year>138</year>
+  		<seconds72>109200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>20</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10118</id>
+  		<year>142</year>
+  		<seconds72>243600</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>22</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10171</id>
+  		<year>143</year>
+  		<seconds72>25200</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>23</agreement_id>
+  		<successful />
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10184</id>
+  		<year>143</year>
+  		<seconds72>33600</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>24</agreement_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10677</id>
+  		<year>146</year>
+  		<seconds72>134400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>25</agreement_id>
+  		<successful />
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>55</top_facet_rating>
+  		<top_facet_modifier>-1</top_facet_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11972</id>
+  		<year>155</year>
+  		<seconds72>8400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>28</agreement_id>
+  		<successful />
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>60</top_facet_rating>
+  		<top_facet_modifier>-2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12591</id>
+  		<year>160</year>
+  		<seconds72>50400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>29</agreement_id>
+  		<successful />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>30</top_value_rating>
+  		<top_value_modifier>-10</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17551</id>
+  		<year>452</year>
+  		<seconds72>134400</seconds72>
+  		<type>agreement formed</type>
+  		<agreement_id>30</agreement_id>
+  	</historical_event>
+	
+</historical_events>

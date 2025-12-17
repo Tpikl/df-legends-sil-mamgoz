@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>136</id>
+  		<name>gerig brandedcries</name>
+  		<race>GIANT_LION</race>
+  		<caste>FEMALE</caste>
+  		<appeared>4</appeared>
+  		<birth_year>-1</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>13</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>33</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>39</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

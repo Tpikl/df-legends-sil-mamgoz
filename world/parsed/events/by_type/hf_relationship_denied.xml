@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>2486</id>
+  		<year>43</year>
+  		<seconds72>386400</seconds72>
+  		<type>hf relationship denied</type>
+  		<seeker_hfid>377</seeker_hfid>
+  		<target_hfid>203</target_hfid>
+  		<relationship>apprentice</relationship>
+  		<reason>prefers working alone</reason>
+  		<reason_id>203</reason_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2487</id>
+  		<year>43</year>
+  		<seconds72>386400</seconds72>
+  		<type>hf relationship denied</type>
+  		<seeker_hfid>377</seeker_hfid>
+  		<target_hfid>203</target_hfid>
+  		<relationship>apprentice</relationship>
+  		<reason>prefers working alone</reason>
+  		<reason_id>203</reason_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2566</id>
+  		<year>44</year>
+  		<seconds72>218400</seconds72>
+  		<type>hf relationship denied</type>
+  		<seeker_hfid>377</seeker_hfid>
+  		<target_hfid>192</target_hfid>
+  		<relationship>apprentice</relationship>
+  		<reason>prefers working alone</reason>
+  		<reason_id>192</reason_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2567</id>
+  		<year>44</year>
+  		<seconds72>218400</seconds72>
+  		<type>hf relationship denied</type>
+  		<seeker_hfid>377</seeker_hfid>
+  		<target_hfid>192</target_hfid>
+  		<relationship>apprentice</relationship>
+  		<reason>prefers working alone</reason>
+  		<reason_id>192</reason_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2921</id>
+  		<year>51</year>
+  		<seconds72>336000</seconds72>
+  		<type>hf relationship denied</type>
+  		<seeker_hfid>149</seeker_hfid>
+  		<target_hfid>192</target_hfid>
+  		<relationship>apprentice</relationship>
+  		<reason>prefers working alone</reason>
+  		<reason_id>192</reason_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+</historical_events>

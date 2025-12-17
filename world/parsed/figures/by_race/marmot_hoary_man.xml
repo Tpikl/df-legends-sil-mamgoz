@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>1048</id>
+  		<name>ayanu dragonstraps</name>
+  		<race>MARMOT_HOARY_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>405</appeared>
+  		<birth_year>387</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>465</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

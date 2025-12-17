@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<identities>
+  <identity>
+  		<id>0</id>
+  		<name>Riddlebend the Deep</name>
+  		<histfig_id>627</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>1</id>
+  		<name>The Urn of Queens</name>
+  		<histfig_id>223</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>2</id>
+  		<name>The Subtle Tattoo</name>
+  		<histfig_id>828</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>3</id>
+  		<name>ìrlom the Venerable</name>
+  		<histfig_id>888</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>4</id>
+  		<name>The Ivory Tomb</name>
+  		<histfig_id>932</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>5</id>
+  		<name>The Guild of Autumn</name>
+  		<histfig_id>116</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>6</id>
+  		<name>Diestir the Permanent</name>
+  		<histfig_id>863</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>7</id>
+  		<name>The Merged Tome</name>
+  		<histfig_id>324</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>8</id>
+  		<name>The Ageless Shin</name>
+  		<histfig_id>601</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>9</id>
+  		<name>The Genius of Crypts</name>
+  		<histfig_id>348</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>10</id>
+  		<name>Ingul the Fated</name>
+  		<histfig_id>739</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>11</id>
+  		<name>The Oak of Kin</name>
+  		<histfig_id>192</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>12</id>
+  		<name>Os the Unholy</name>
+  		<histfig_id>269</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>13</id>
+  		<name>The Cyclopean Eye</name>
+  		<histfig_id>66</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>14</id>
+  		<name>Whispercrypts the Eternal</name>
+  		<histfig_id>67</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>15</id>
+  		<name>The Cyclopean Nut</name>
+  		<histfig_id>996</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>16</id>
+  		<name>Ibruk the Ashen</name>
+  		<histfig_id>68</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+	
+  <identity>
+  		<id>17</id>
+  		<name>The Goal of Funerals</name>
+  		<histfig_id>211</histfig_id>
+  		<birth_year>-1000000001</birth_year>
+  		<birth_second>0</birth_second>
+  		<entity_id>-1</entity_id>
+  	</identity>
+
+</identities>

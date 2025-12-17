@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1253</id>
+  		<year>25</year>
+  		<seconds72>42000</seconds72>
+  		<type>field battle</type>
+  		<attacker_civ_id>32</attacker_civ_id>
+  		<defender_civ_id>30</defender_civ_id>
+  		<subregion_id>27</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>21,22</coords>
+  		<attacker_general_hfid>117</attacker_general_hfid>
+  		<defender_general_hfid>130</defender_general_hfid>
+  	</historical_event>
+	
+</historical_events>

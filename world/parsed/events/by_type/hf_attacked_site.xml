@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>173</id>
+  		<year>2</year>
+  		<seconds72>0</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>33</attacker_hfid>
+  		<defender_civ_id>35</defender_civ_id>
+  		<site_civ_id>35</site_civ_id>
+  		<site_id>12</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>330</id>
+  		<year>5</year>
+  		<seconds72>352800</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>34</defender_civ_id>
+  		<site_civ_id>34</site_civ_id>
+  		<site_id>11</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>582</id>
+  		<year>13</year>
+  		<seconds72>16800</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>10</attacker_hfid>
+  		<defender_civ_id>27</defender_civ_id>
+  		<site_civ_id>27</site_civ_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>847</id>
+  		<year>17</year>
+  		<seconds72>352800</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>29</defender_civ_id>
+  		<site_civ_id>29</site_civ_id>
+  		<site_id>4</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1003</id>
+  		<year>20</year>
+  		<seconds72>336000</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>1</attacker_hfid>
+  		<defender_civ_id>39</defender_civ_id>
+  		<site_civ_id>39</site_civ_id>
+  		<site_id>12</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1173</id>
+  		<year>23</year>
+  		<seconds72>336000</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>33</attacker_hfid>
+  		<defender_civ_id>36</defender_civ_id>
+  		<site_civ_id>36</site_civ_id>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1992</id>
+  		<year>37</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>1</attacker_hfid>
+  		<defender_civ_id>38</defender_civ_id>
+  		<site_civ_id>38</site_civ_id>
+  		<site_id>15</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2139</id>
+  		<year>38</year>
+  		<seconds72>369600</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>33</defender_civ_id>
+  		<site_civ_id>33</site_civ_id>
+  		<site_id>10</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2374</id>
+  		<year>42</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>38</defender_civ_id>
+  		<site_civ_id>38</site_civ_id>
+  		<site_id>15</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3707</id>
+  		<year>61</year>
+  		<seconds72>285600</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>36</defender_civ_id>
+  		<site_civ_id>36</site_civ_id>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5770</id>
+  		<year>91</year>
+  		<seconds72>344400</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>44</defender_civ_id>
+  		<site_civ_id>44</site_civ_id>
+  		<site_id>18</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5825</id>
+  		<year>92</year>
+  		<seconds72>310800</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>36</defender_civ_id>
+  		<site_civ_id>36</site_civ_id>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5936</id>
+  		<year>95</year>
+  		<seconds72>159600</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>42</defender_civ_id>
+  		<site_civ_id>42</site_civ_id>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8312</id>
+  		<year>125</year>
+  		<seconds72>50400</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>40</defender_civ_id>
+  		<site_civ_id>40</site_civ_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10728</id>
+  		<year>146</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>40</defender_civ_id>
+  		<site_civ_id>40</site_civ_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11728</id>
+  		<year>153</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf attacked site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>42</defender_civ_id>
+  		<site_civ_id>42</site_civ_id>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+</historical_events>

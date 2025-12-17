@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>7633</id>
+  		<year>117</year>
+  		<seconds72>8400</seconds72>
+  		<type>hf confronted</type>
+  		<hfid>219</hfid>
+  		<situation>general suspicion</situation>
+  <reason>ageless</reason>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>16,27</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12357</id>
+  		<year>158</year>
+  		<seconds72>260400</seconds72>
+  		<type>hf confronted</type>
+  		<hfid>208</hfid>
+  		<situation>general suspicion</situation>
+  <reason>murder</reason>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>16,27</coords>
+  	</historical_event>
+	
+</historical_events>

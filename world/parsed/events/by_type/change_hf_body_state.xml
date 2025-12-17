@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>2410</id>
+  		<year>43</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>369</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>0</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4012</id>
+  		<year>67</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>422</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4807</id>
+  		<year>77</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>519</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>2</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4849</id>
+  		<year>78</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>533</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>3</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5794</id>
+  		<year>92</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>544</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>4</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5992</id>
+  		<year>96</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>598</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>19</site_id>
+  		<structure_id>5</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>18,30</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7241</id>
+  		<year>112</year>
+  		<seconds72>-1</seconds72>
+  		<type>change hf body state</type>
+  		<hfid>178</hfid>
+  		<body_state>entombed at site</body_state>
+  		<site_id>8</site_id>
+  		<structure_id>7</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>16,27</coords>
+  	</historical_event>
+	
+</historical_events>

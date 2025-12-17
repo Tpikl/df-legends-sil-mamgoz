@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>626</id>
+  		<name>hawkstale</name>
+  		<race>GIANT_LEOPARD</race>
+  		<caste>FEMALE</caste>
+  		<appeared>98</appeared>
+  		<birth_year>94</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>110</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>45</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

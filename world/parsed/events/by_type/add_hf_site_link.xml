@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1076</id>
+  		<year>22</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1079</id>
+  		<year>22</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1151</id>
+  		<year>23</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1189</id>
+  		<year>24</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1372</id>
+  		<year>27</year>
+  		<seconds72>8400</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1553</id>
+  		<year>30</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1728</id>
+  		<year>33</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1799</id>
+  		<year>34</year>
+  		<seconds72>25200</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1966</id>
+  		<year>37</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2177</id>
+  		<year>39</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3342</id>
+  		<year>57</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3752</id>
+  		<year>62</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3898</id>
+  		<year>65</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4017</id>
+  		<year>67</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4165</id>
+  		<year>69</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4240</id>
+  		<year>70</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4340</id>
+  		<year>71</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4594</id>
+  		<year>75</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4596</id>
+  		<year>75</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5174</id>
+  		<year>82</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5411</id>
+  		<year>85</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5658</id>
+  		<year>89</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5927</id>
+  		<year>95</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5997</id>
+  		<year>96</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6467</id>
+  		<year>102</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8907</id>
+  		<year>131</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9153</id>
+  		<year>133</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9232</id>
+  		<year>134</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9826</id>
+  		<year>140</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10347</id>
+  		<year>144</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10635</id>
+  		<year>146</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10947</id>
+  		<year>148</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11022</id>
+  		<year>149</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11174</id>
+  		<year>150</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11852</id>
+  		<year>154</year>
+  		<seconds72>100800</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11964</id>
+  		<year>155</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11966</id>
+  		<year>155</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12232</id>
+  		<year>157</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12709</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12813</id>
+  		<year>162</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13036</id>
+  		<year>163</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13179</id>
+  		<year>164</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13366</id>
+  		<year>166</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13540</id>
+  		<year>167</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13713</id>
+  		<year>168</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13981</id>
+  		<year>172</year>
+  		<seconds72>-1</seconds72>
+  		<type>add hf site link</type>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+</historical_events>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>93</id>
+  		<name>ulet greaterveiled the squeezing</name>
+  		<race>BIRD_FALCON_PEREGRINE</race>
+  		<caste>MALE</caste>
+  		<appeared>-1</appeared>
+  		<birth_year>-1</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<deity />
+  		<sphere>war</sphere>
+  		<sphere>chaos</sphere>
+  		<sphere>dreams</sphere>
+  		<sphere>nightmares</sphere>
+  		<sphere>night</sphere>
+  		<sphere>moon</sphere>
+  		<sphere>sky</sphere>
+  	</historical_figure>
+	
+</historical_figures>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>109</id>
+  		<name>otad lashedfroze</name>
+  		<race>COUGAR</race>
+  		<caste>MALE</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-3</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>11</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>260</id>
+  		<name>iwa tributeimpaled</name>
+  		<race>COUGAR</race>
+  		<caste>MALE</caste>
+  		<appeared>19</appeared>
+  		<birth_year>16</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>30</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>36</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>310</id>
+  		<name>fikod glowward</name>
+  		<race>COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>30</appeared>
+  		<birth_year>26</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>45</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>463</id>
+  		<name>basnung phantomspotted</name>
+  		<race>COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>59</appeared>
+  		<birth_year>56</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>75</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>42</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>521</id>
+  		<name>thebi mutedmoments</name>
+  		<race>COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>75</appeared>
+  		<birth_year>70</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>86</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1003</id>
+  		<name>rabab chapelspot</name>
+  		<race>COUGAR</race>
+  		<caste>MALE</caste>
+  		<appeared>237</appeared>
+  		<birth_year>233</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>246</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1014</id>
+  		<name>sasm closeddwindling</name>
+  		<race>COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>276</appeared>
+  		<birth_year>271</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>288</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

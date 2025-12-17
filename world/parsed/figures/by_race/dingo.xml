@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>290</id>
+  		<name>sota riskkilled</name>
+  		<race>DINGO</race>
+  		<caste>FEMALE</caste>
+  		<appeared>26</appeared>
+  		<birth_year>25</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>36</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>352</id>
+  		<name>tobul bornwiped</name>
+  		<race>DINGO</race>
+  		<caste>FEMALE</caste>
+  		<appeared>37</appeared>
+  		<birth_year>35</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>45</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>577</id>
+  		<name>ngersos redknew</name>
+  		<race>DINGO</race>
+  		<caste>MALE</caste>
+  		<appeared>86</appeared>
+  		<birth_year>82</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>95</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>994</id>
+  		<name>amtoc gulfleopards</name>
+  		<race>DINGO</race>
+  		<caste>MALE</caste>
+  		<appeared>230</appeared>
+  		<birth_year>226</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>236</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1011</id>
+  		<name>masi sungtulips</name>
+  		<race>DINGO</race>
+  		<caste>FEMALE</caste>
+  		<appeared>256</appeared>
+  		<birth_year>255</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>274</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

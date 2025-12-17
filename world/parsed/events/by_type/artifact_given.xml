@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1280</id>
+  		<year>26</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>3</artifact_id>
+  		<giver_hist_figure_id>163</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>214</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1363</id>
+  		<year>27</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>5</artifact_id>
+  		<giver_hist_figure_id>166</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>214</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1419</id>
+  		<year>28</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>6</artifact_id>
+  		<giver_hist_figure_id>172</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>167</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1731</id>
+  		<year>33</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>8</artifact_id>
+  		<giver_hist_figure_id>149</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>150</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2092</id>
+  		<year>38</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>10</artifact_id>
+  		<giver_hist_figure_id>222</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>178</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2312</id>
+  		<year>41</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>8</artifact_id>
+  		<giver_hist_figure_id>385</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>261</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2688</id>
+  		<year>47</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>14</artifact_id>
+  		<giver_hist_figure_id>254</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>213</receiver_hist_figure_id>
+  		<receiver_entity_id>26</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2885</id>
+  		<year>51</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>16</artifact_id>
+  		<giver_hist_figure_id>183</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>232</receiver_hist_figure_id>
+  		<receiver_entity_id>45</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5599</id>
+  		<year>88</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>24</artifact_id>
+  		<giver_hist_figure_id>236</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>232</receiver_hist_figure_id>
+  		<receiver_entity_id>45</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12701</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>6</artifact_id>
+  		<giver_hist_figure_id>929</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>961</receiver_hist_figure_id>
+  		<receiver_entity_id>27</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12705</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>4</artifact_id>
+  		<giver_hist_figure_id>929</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>961</receiver_hist_figure_id>
+  		<receiver_entity_id>27</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12921</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>3</artifact_id>
+  		<giver_hist_figure_id>576</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>219</receiver_hist_figure_id>
+  		<receiver_entity_id>52</receiver_entity_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14495</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>artifact given</type>
+  		<artifact_id>12</artifact_id>
+  		<giver_hist_figure_id>116</giver_hist_figure_id>
+  		<giver_entity_id>-1</giver_entity_id>
+  		<receiver_hist_figure_id>219</receiver_hist_figure_id>
+  		<receiver_entity_id>52</receiver_entity_id>
+  	</historical_event>
+	
+</historical_events>

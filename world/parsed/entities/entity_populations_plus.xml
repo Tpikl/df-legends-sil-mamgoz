@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<entity_populations>
+  <entity_population>
+  		<id>0</id>
+  		<race>ant_man:930</race>
+  		<civ_id>3</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>1</id>
+  		<race>rodent man:770</race>
+  		<civ_id>4</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>2</id>
+  		<race>bat_man:540</race>
+  		<civ_id>5</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>3</id>
+  		<race>serpent_man:900</race>
+  		<civ_id>6</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>4</id>
+  		<race>cave_swallow_man:2472</race>
+  		<civ_id>7</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>5</id>
+  		<race>reptile_man:928</race>
+  		<civ_id>8</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>6</id>
+  		<race>olm_man:1470</race>
+  		<civ_id>9</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>7</id>
+  		<race>amphibian_man:77</race>
+  		<civ_id>10</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>8</id>
+  		<race>cave_fish_man:873</race>
+  		<civ_id>11</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>9</id>
+  		<race>reptile_man:920</race>
+  		<civ_id>12</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>10</id>
+  		<race>rodent man:318</race>
+  		<civ_id>13</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>11</id>
+  		<race>ant_man:530</race>
+  		<civ_id>14</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>12</id>
+  		<race>cave_fish_man:1463</race>
+  		<civ_id>15</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>13</id>
+  		<race>serpent_man:474</race>
+  		<civ_id>16</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>14</id>
+  		<race>cave_swallow_man:868</race>
+  		<civ_id>17</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>15</id>
+  		<race>olm_man:679</race>
+  		<civ_id>18</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>16</id>
+  		<race>amphibian_man:595</race>
+  		<civ_id>19</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>17</id>
+  		<race>bat_man:126</race>
+  		<civ_id>20</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>18</id>
+  		<race>bat_man:1585</race>
+  		<civ_id>21</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>19</id>
+  		<race>olm_man:96</race>
+  		<civ_id>22</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>20</id>
+  		<race>amphibian_man:2268</race>
+  		<civ_id>23</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>21</id>
+  		<race>serpent_man:1360</race>
+  		<civ_id>24</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>22</id>
+  		<race>rodent man:325</race>
+  		<civ_id>25</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>23</id>
+  		<race>dwarf:387</race>
+  		<civ_id>26</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>24</id>
+  		<race>kobold:105</race>
+  		<civ_id>28</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>25</id>
+  		<race>elf:20</race>
+  		<civ_id>30</civ_id>
+  	</entity_population>
+	
+  <entity_population>
+  		<id>26</id>
+  		<race>human:372</race>
+  		<civ_id>32</civ_id>
+  	</entity_population>
+
+</entity_populations>

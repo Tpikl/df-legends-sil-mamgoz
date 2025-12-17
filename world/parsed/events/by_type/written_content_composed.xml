@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>815</id>
+  		<year>17</year>
+  		<seconds72>193200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>203</hist_figure_id>
+  		<wc_id>0</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>980</id>
+  		<year>20</year>
+  		<seconds72>8400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>141</hist_figure_id>
+  		<wc_id>1</wc_id>
+  		<site_id>9</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1056</id>
+  		<year>21</year>
+  		<seconds72>16800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>168</hist_figure_id>
+  		<wc_id>2</wc_id>
+  		<site_id>14</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1469</id>
+  		<year>28</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>203</hist_figure_id>
+  		<wc_id>3</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1489</id>
+  		<year>28</year>
+  		<seconds72>394800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>4</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1597</id>
+  		<year>30</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>230</hist_figure_id>
+  		<wc_id>5</wc_id>
+  		<site_id>9</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1616</id>
+  		<year>31</year>
+  		<seconds72>117600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>207</hist_figure_id>
+  		<wc_id>6</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1719</id>
+  		<year>32</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>207</hist_figure_id>
+  		<wc_id>7</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1883</id>
+  		<year>35</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>202</hist_figure_id>
+  		<wc_id>8</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2288</id>
+  		<year>40</year>
+  		<seconds72>8400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>9</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2301</id>
+  		<year>40</year>
+  		<seconds72>252000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>203</hist_figure_id>
+  		<wc_id>10</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2316</id>
+  		<year>41</year>
+  		<seconds72>67200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>11</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2373</id>
+  		<year>42</year>
+  		<seconds72>50400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>12</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2395</id>
+  		<year>42</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>13</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2633</id>
+  		<year>45</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>254</hist_figure_id>
+  		<wc_id>14</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2635</id>
+  		<year>45</year>
+  		<seconds72>327600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>15</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2652</id>
+  		<year>46</year>
+  		<seconds72>193200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>377</hist_figure_id>
+  		<wc_id>16</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2690</id>
+  		<year>47</year>
+  		<seconds72>33600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>17</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2728</id>
+  		<year>47</year>
+  		<seconds72>386400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>377</hist_figure_id>
+  		<wc_id>18</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2748</id>
+  		<year>48</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>19</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2749</id>
+  		<year>48</year>
+  		<seconds72>235200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>20</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2754</id>
+  		<year>48</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>21</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2804</id>
+  		<year>50</year>
+  		<seconds72>58800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>377</hist_figure_id>
+  		<wc_id>22</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2849</id>
+  		<year>50</year>
+  		<seconds72>294000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>23</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2890</id>
+  		<year>51</year>
+  		<seconds72>58800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>24</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>dream about hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2920</id>
+  		<year>51</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>25</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3211</id>
+  		<year>54</year>
+  		<seconds72>142800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>26</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3317</id>
+  		<year>56</year>
+  		<seconds72>386400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>27</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3402</id>
+  		<year>58</year>
+  		<seconds72>75600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>378</hist_figure_id>
+  		<wc_id>28</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3406</id>
+  		<year>58</year>
+  		<seconds72>168000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>29</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3421</id>
+  		<year>58</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>30</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3430</id>
+  		<year>58</year>
+  		<seconds72>319200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>377</hist_figure_id>
+  		<wc_id>31</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3481</id>
+  		<year>59</year>
+  		<seconds72>394800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>32</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3589</id>
+  		<year>60</year>
+  		<seconds72>210000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>283</hist_figure_id>
+  		<wc_id>33</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3693</id>
+  		<year>61</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>34</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3709</id>
+  		<year>61</year>
+  		<seconds72>319200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>35</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3767</id>
+  		<year>62</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>36</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3791</id>
+  		<year>62</year>
+  		<seconds72>386400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>37</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4070</id>
+  		<year>67</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>38</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4071</id>
+  		<year>67</year>
+  		<seconds72>252000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>39</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4088</id>
+  		<year>67</year>
+  		<seconds72>352800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>40</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4199</id>
+  		<year>69</year>
+  		<seconds72>210000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>378</hist_figure_id>
+  		<wc_id>41</wc_id>
+  		<site_id>18</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4215</id>
+  		<year>69</year>
+  		<seconds72>268800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>42</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4395</id>
+  		<year>72</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>43</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4396</id>
+  		<year>72</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>44</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4552</id>
+  		<year>74</year>
+  		<seconds72>327600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>489</hist_figure_id>
+  		<wc_id>45</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4571</id>
+  		<year>74</year>
+  		<seconds72>394800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>46</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>88</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4703</id>
+  		<year>76</year>
+  		<seconds72>75600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>378</hist_figure_id>
+  		<wc_id>47</wc_id>
+  		<site_id>18</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4789</id>
+  		<year>76</year>
+  		<seconds72>378000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>48</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4818</id>
+  		<year>77</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>49</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4852</id>
+  		<year>78</year>
+  		<seconds72>8400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>50</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4958</id>
+  		<year>79</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>51</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4978</id>
+  		<year>79</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>52</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4979</id>
+  		<year>79</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>378</hist_figure_id>
+  		<wc_id>53</wc_id>
+  		<site_id>18</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5101</id>
+  		<year>81</year>
+  		<seconds72>92400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>54</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5208</id>
+  		<year>82</year>
+  		<seconds72>168000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>547</hist_figure_id>
+  		<wc_id>55</wc_id>
+  		<site_id>18</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5264</id>
+  		<year>83</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<wc_id>56</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5336</id>
+  		<year>83</year>
+  		<seconds72>369600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>57</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5396</id>
+  		<year>84</year>
+  		<seconds72>260400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>378</hist_figure_id>
+  		<wc_id>58</wc_id>
+  		<site_id>18</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5399</id>
+  		<year>84</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>59</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5500</id>
+  		<year>86</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>60</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5512</id>
+  		<year>87</year>
+  		<seconds72>0</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>522</hist_figure_id>
+  		<wc_id>61</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5517</id>
+  		<year>87</year>
+  		<seconds72>159600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>62</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5626</id>
+  		<year>88</year>
+  		<seconds72>327600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>63</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5684</id>
+  		<year>89</year>
+  		<seconds72>201600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>522</hist_figure_id>
+  		<wc_id>64</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5748</id>
+  		<year>90</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>65</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5849</id>
+  		<year>93</year>
+  		<seconds72>75600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>66</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6015</id>
+  		<year>96</year>
+  		<seconds72>67200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>67</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6033</id>
+  		<year>96</year>
+  		<seconds72>294000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>68</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6202</id>
+  		<year>98</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>69</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6276</id>
+  		<year>99</year>
+  		<seconds72>243600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>70</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6480</id>
+  		<year>102</year>
+  		<seconds72>235200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>149</hist_figure_id>
+  		<wc_id>71</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6580</id>
+  		<year>102</year>
+  		<seconds72>378000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>72</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6737</id>
+  		<year>104</year>
+  		<seconds72>260400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>534</hist_figure_id>
+  		<wc_id>73</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6754</id>
+  		<year>104</year>
+  		<seconds72>336000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>74</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6797</id>
+  		<year>105</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>75</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6892</id>
+  		<year>106</year>
+  		<seconds72>184800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>76</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6958</id>
+  		<year>107</year>
+  		<seconds72>378000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>364</hist_figure_id>
+  		<wc_id>77</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7068</id>
+  		<year>109</year>
+  		<seconds72>33600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>78</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7200</id>
+  		<year>111</year>
+  		<seconds72>184800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>79</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>88</reason_id>
+  		<circumstance>dream about hf</circumstance>
+  		<circumstance_id>88</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7222</id>
+  		<year>111</year>
+  		<seconds72>369600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>192</hist_figure_id>
+  		<wc_id>80</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7365</id>
+  		<year>113</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>81</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7781</id>
+  		<year>119</year>
+  		<seconds72>277200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>82</wc_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8017</id>
+  		<year>121</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>83</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8449</id>
+  		<year>126</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>222</hist_figure_id>
+  		<wc_id>84</wc_id>
+  		<site_id>8</site_id>
+  		<reason>glorify hf</reason>
+  		<reason_id>84</reason_id>
+  		<circumstance>pray to hf</circumstance>
+  		<circumstance_id>84</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9486</id>
+  		<year>136</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>261</hist_figure_id>
+  		<wc_id>85</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9504</id>
+  		<year>136</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>261</hist_figure_id>
+  		<wc_id>86</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9755</id>
+  		<year>139</year>
+  		<seconds72>92400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>768</hist_figure_id>
+  		<wc_id>87</wc_id>
+  		<site_id>8</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9770</id>
+  		<year>139</year>
+  		<seconds72>109200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>88</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9773</id>
+  		<year>139</year>
+  		<seconds72>168000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>89</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9844</id>
+  		<year>140</year>
+  		<seconds72>67200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>90</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10043</id>
+  		<year>142</year>
+  		<seconds72>92400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>91</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10454</id>
+  		<year>145</year>
+  		<seconds72>16800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>92</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10997</id>
+  		<year>148</year>
+  		<seconds72>369600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>93</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11175</id>
+  		<year>150</year>
+  		<seconds72>16800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>94</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11874</id>
+  		<year>154</year>
+  		<seconds72>268800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>261</hist_figure_id>
+  		<wc_id>95</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12081</id>
+  		<year>156</year>
+  		<seconds72>50400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>96</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12611</id>
+  		<year>160</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>243</hist_figure_id>
+  		<wc_id>97</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12631</id>
+  		<year>160</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>261</hist_figure_id>
+  		<wc_id>98</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12780</id>
+  		<year>161</year>
+  		<seconds72>252000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>99</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13040</id>
+  		<year>163</year>
+  		<seconds72>25200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>100</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13079</id>
+  		<year>163</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>101</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13087</id>
+  		<year>163</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>102</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13283</id>
+  		<year>164</year>
+  		<seconds72>352800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>103</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13796</id>
+  		<year>169</year>
+  		<seconds72>369600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>104</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14373</id>
+  		<year>183</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>105</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14461</id>
+  		<year>188</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>106</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14473</id>
+  		<year>189</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>107</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14484</id>
+  		<year>190</year>
+  		<seconds72>378000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>108</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14638</id>
+  		<year>195</year>
+  		<seconds72>109200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>109</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14647</id>
+  		<year>197</year>
+  		<seconds72>184800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>110</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14661</id>
+  		<year>199</year>
+  		<seconds72>117600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>111</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14675</id>
+  		<year>202</year>
+  		<seconds72>319200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>112</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14749</id>
+  		<year>217</year>
+  		<seconds72>159600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>113</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14901</id>
+  		<year>220</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>114</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14987</id>
+  		<year>221</year>
+  		<seconds72>100800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>115</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15054</id>
+  		<year>222</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>116</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15203</id>
+  		<year>224</year>
+  		<seconds72>159600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>117</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15638</id>
+  		<year>230</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>118</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16028</id>
+  		<year>235</year>
+  		<seconds72>92400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>119</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16124</id>
+  		<year>236</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>120</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16547</id>
+  		<year>256</year>
+  		<seconds72>352800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>121</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16632</id>
+  		<year>275</year>
+  		<seconds72>184800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>122</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16640</id>
+  		<year>276</year>
+  		<seconds72>16800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>123</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16651</id>
+  		<year>279</year>
+  		<seconds72>42000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>124</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16685</id>
+  		<year>288</year>
+  		<seconds72>386400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>125</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16693</id>
+  		<year>291</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>126</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16697</id>
+  		<year>292</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>127</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16732</id>
+  		<year>296</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>128</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16755</id>
+  		<year>300</year>
+  		<seconds72>142800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>129</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16758</id>
+  		<year>300</year>
+  		<seconds72>210000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>130</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16801</id>
+  		<year>308</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>131</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16838</id>
+  		<year>317</year>
+  		<seconds72>218400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>132</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16882</id>
+  		<year>327</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>133</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16908</id>
+  		<year>332</year>
+  		<seconds72>268800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>134</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16971</id>
+  		<year>344</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>135</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16977</id>
+  		<year>345</year>
+  		<seconds72>142800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>136</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>16987</id>
+  		<year>346</year>
+  		<seconds72>386400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>137</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17003</id>
+  		<year>349</year>
+  		<seconds72>0</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>138</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17022</id>
+  		<year>351</year>
+  		<seconds72>210000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>139</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17029</id>
+  		<year>352</year>
+  		<seconds72>58800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>140</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17064</id>
+  		<year>357</year>
+  		<seconds72>184800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>141</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17084</id>
+  		<year>362</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>142</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17092</id>
+  		<year>363</year>
+  		<seconds72>134400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>143</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17094</id>
+  		<year>363</year>
+  		<seconds72>235200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>144</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17159</id>
+  		<year>376</year>
+  		<seconds72>369600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>145</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17176</id>
+  		<year>380</year>
+  		<seconds72>294000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>146</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17185</id>
+  		<year>381</year>
+  		<seconds72>193200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>147</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17189</id>
+  		<year>381</year>
+  		<seconds72>310800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>148</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17262</id>
+  		<year>396</year>
+  		<seconds72>25200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>149</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17297</id>
+  		<year>403</year>
+  		<seconds72>327600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>150</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17339</id>
+  		<year>413</year>
+  		<seconds72>302400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>151</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17358</id>
+  		<year>416</year>
+  		<seconds72>319200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>152</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17374</id>
+  		<year>418</year>
+  		<seconds72>50400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>153</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17383</id>
+  		<year>419</year>
+  		<seconds72>268800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>154</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17408</id>
+  		<year>423</year>
+  		<seconds72>352800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>155</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17453</id>
+  		<year>433</year>
+  		<seconds72>252000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>156</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17469</id>
+  		<year>437</year>
+  		<seconds72>151200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>157</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17513</id>
+  		<year>447</year>
+  		<seconds72>243600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>158</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17524</id>
+  		<year>449</year>
+  		<seconds72>243600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>159</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17560</id>
+  		<year>454</year>
+  		<seconds72>126000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>160</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17566</id>
+  		<year>455</year>
+  		<seconds72>50400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>161</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17623</id>
+  		<year>466</year>
+  		<seconds72>210000</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>162</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17648</id>
+  		<year>469</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>163</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>dream</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17675</id>
+  		<year>476</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>164</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17704</id>
+  		<year>481</year>
+  		<seconds72>176400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>165</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17709</id>
+  		<year>481</year>
+  		<seconds72>394800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>166</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17730</id>
+  		<year>486</year>
+  		<seconds72>142800</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>219</hist_figure_id>
+  		<wc_id>167</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17778</id>
+  		<year>494</year>
+  		<seconds72>344400</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>168</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17801</id>
+  		<year>497</year>
+  		<seconds72>285600</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>169</wc_id>
+  		<site_id>20</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17809</id>
+  		<year>499</year>
+  		<seconds72>67200</seconds72>
+  		<type>written content composed</type>
+  		<hist_figure_id>244</hist_figure_id>
+  		<wc_id>170</wc_id>
+  		<site_id>20</site_id>
+  		<circumstance>nightmare</circumstance>
+  	</historical_event>
+	
+</historical_events>

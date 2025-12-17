@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>696</id>
+  		<year>15</year>
+  		<seconds72>-1</seconds72>
+  		<type>regionpop incorporated into entity</type>
+  		<pop_race>690</pop_race>
+  		<pop_number_moved>21</pop_number_moved>
+  		<pop_srid>13</pop_srid>
+  		<pop_flid>-1</pop_flid>
+  		<join_entity_id>31</join_entity_id>
+  		<site_id>9</site_id>
+  	</historical_event>
+	
+</historical_events>

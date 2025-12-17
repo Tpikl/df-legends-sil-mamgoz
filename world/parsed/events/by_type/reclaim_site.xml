@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>229</id>
+  		<year>3</year>
+  		<seconds72>-1</seconds72>
+  		<type>reclaim site</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>39</site_civ_id>
+  		<site_id>12</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>372</id>
+  		<year>7</year>
+  		<seconds72>-1</seconds72>
+  		<type>reclaim site</type>
+  		<civ_id>30</civ_id>
+  		<site_civ_id>41</site_civ_id>
+  		<site_id>11</site_id>
+  	</historical_event>
+	
+</historical_events>

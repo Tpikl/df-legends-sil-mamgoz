@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1262</id>
+  		<year>25</year>
+  		<seconds72>361200</seconds72>
+  		<type>entity created</type>
+  		<entity_id>43</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1428</id>
+  		<year>28</year>
+  		<seconds72>126000</seconds72>
+  		<type>entity created</type>
+  		<entity_id>45</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1574</id>
+  		<year>30</year>
+  		<seconds72>176400</seconds72>
+  		<type>entity created</type>
+  		<entity_id>46</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3193</id>
+  		<year>54</year>
+  		<seconds72>25200</seconds72>
+  		<type>entity created</type>
+  		<entity_id>47</entity_id>
+  		<site_id>-1</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4623</id>
+  		<year>75</year>
+  		<seconds72>92400</seconds72>
+  		<type>entity created</type>
+  		<entity_id>48</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6095</id>
+  		<year>97</year>
+  		<seconds72>210000</seconds72>
+  		<type>entity created</type>
+  		<entity_id>49</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6203</id>
+  		<year>98</year>
+  		<seconds72>344400</seconds72>
+  		<type>entity created</type>
+  		<entity_id>50</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6627</id>
+  		<year>103</year>
+  		<seconds72>159600</seconds72>
+  		<type>entity created</type>
+  		<entity_id>51</entity_id>
+  		<site_id>8</site_id>
+  		<structure_id>-1</structure_id>
+  	</historical_event>
+	
+</historical_events>

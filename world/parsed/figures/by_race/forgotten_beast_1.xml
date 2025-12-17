@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>5</id>
+  		<name>esru caveecho</name>
+  		<race>FORGOTTEN_BEAST_1</race>
+  		<caste>DEFAULT</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-256</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<sphere>caverns</sphere>
+  		<sphere>death</sphere>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>MELEE_COMBAT</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>STANCE_STRIKE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>GRASP_STRIKE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>BITE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>WRESTLING</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<interaction_knowledge>SECRET_1</interaction_knowledge>
+  		<interaction_knowledge>SECRET_2</interaction_knowledge>
+  		<interaction_knowledge>SECRET_4</interaction_knowledge>
+  		<interaction_knowledge>SECRET_9</interaction_knowledge>
+  		<interaction_knowledge>SECRET_12</interaction_knowledge>
+  		<interaction_knowledge>SECRET_13</interaction_knowledge>
+  		<interaction_knowledge>SECRET_15</interaction_knowledge>
+  		<interaction_knowledge>SECRET_16</interaction_knowledge>
+  		<interaction_knowledge>SECRET_17</interaction_knowledge>
+  		<interaction_knowledge>SECRET_18</interaction_knowledge>
+  		<interaction_knowledge>SECRET_19</interaction_knowledge>
+  		<interaction_knowledge>SECRET_20</interaction_knowledge>
+  	</historical_figure>
+	
+</historical_figures>

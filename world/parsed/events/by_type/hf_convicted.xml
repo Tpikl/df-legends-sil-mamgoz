@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>182</id>
+  		<year>2</year>
+  		<seconds72>33600</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>117</convicted_hfid>
+  		<convicter_enid>33</convicter_enid>
+  		<crime>theft</crime>
+  		<prison_months>72</prison_months>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1524</id>
+  		<year>29</year>
+  		<seconds72>159600</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>309</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>theft</crime>
+  		<prison_months>120</prison_months>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1612</id>
+  		<year>31</year>
+  		<seconds72>67200</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>222</convicted_hfid>
+  		<convicter_enid>27</convicter_enid>
+  		<crime>embezzlement</crime>
+  		<prison_months>60</prison_months>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3591</id>
+  		<year>60</year>
+  		<seconds72>369600</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>452</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>theft</crime>
+  		<prison_months>120</prison_months>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7828</id>
+  		<year>120</year>
+  		<seconds72>235200</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>703</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>theft</crime>
+  		<prison_months>96</prison_months>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9691</id>
+  		<year>138</year>
+  		<seconds72>252000</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>771</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>bribery</crime>
+  		<prison_months>120</prison_months>
+  		<surveiled_convicted />
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11799</id>
+  		<year>153</year>
+  		<seconds72>394800</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>844</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>bribery</crime>
+  		<prison_months>108</prison_months>
+  		<surveiled_convicted />
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11840</id>
+  		<year>154</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf convicted</type>
+  		<convicted_hfid>844</convicted_hfid>
+  		<convicter_enid>42</convicter_enid>
+  		<crime>bribery</crime>
+  		<prison_months>108</prison_months>
+  		<surveiled_convicted />
+  	</historical_event>
+	
+</historical_events>

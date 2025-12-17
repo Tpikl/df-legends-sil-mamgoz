@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>17817</id>
+  		<year>500</year>
+  		<seconds72>-1</seconds72>
+  		<type>hf died</type>
+  		<hfid>1053</hfid>
+  		<slayer_hfid>-1</slayer_hfid>
+  		<slayer_item_id>-1</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>old age</cause>
+  	</historical_event>
+
+</historical_events>

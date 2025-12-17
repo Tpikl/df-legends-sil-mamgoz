@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<written_contents>
+  <written_content>
+  		<id>0</id>
+  		<title>Diminishment and Nothing More</title>
+  		<author_hfid>203</author_hfid>
+  		<author_roll>3</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>melancholy:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>1</id>
+  		<title>The Birth of Droopiness</title>
+  		<author_hfid>141</author_hfid>
+  		<author_roll>35</author_roll>
+  		<form>musical composition</form>
+  		<form_id>6</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>2</id>
+  		<title>Berry: The Wind Foretells Afterward</title>
+  		<author_hfid>168</author_hfid>
+  		<author_roll>6</author_roll>
+  		<form>poem</form>
+  		<form_id>7</form_id>
+  		<style>serious:1</style>
+  		<style>florid:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>3</id>
+  		<title>And She Sang 'Shores!'</title>
+  		<author_hfid>203</author_hfid>
+  		<author_roll>47</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>melancholy:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>4</id>
+  		<title>It Must Have Been Hug</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>19</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>5</id>
+  		<title>We See Ones</title>
+  		<author_hfid>230</author_hfid>
+  		<author_roll>16</author_roll>
+  		<form>musical composition</form>
+  		<form_id>6</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>6</id>
+  		<title>The Duel: A Brief Introduction</title>
+  		<author_hfid>207</author_hfid>
+  		<author_roll>1</author_roll>
+  		<form>essay</form>
+  		<style>mechanical:4</style>
+  		<style>forceful:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>7</id>
+  		<title>Twilights and the Seductions</title>
+  		<author_hfid>207</author_hfid>
+  		<author_roll>24</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>forceful:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>8</id>
+  		<title>Flayer Ever Onward</title>
+  		<author_hfid>202</author_hfid>
+  		<author_roll>23</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>9</id>
+  		<title>Speaker Systemic</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>33</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>10</id>
+  		<title>Goads Ever Onward</title>
+  		<author_hfid>203</author_hfid>
+  		<author_roll>116</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>melancholy:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>11</id>
+  		<title>Temptation: The Past Mourns Afterward</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>54</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>12</id>
+  		<title>It Must Have Been Play</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>31</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>13</id>
+  		<title>The Cunning Ropes and Dinners</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>90</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>14</id>
+  		<title>It Is the Dwarves</title>
+  		<author_hfid>254</author_hfid>
+  		<author_roll>16</author_roll>
+  		<form>essay</form>
+  		<style>vicious:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>15</id>
+  		<title>Suicidal Puppet</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>74</author_roll>
+  		<form>musical composition</form>
+  		<form_id>4</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>16</id>
+  		<title>My Friend Slivers</title>
+  		<author_hfid>377</author_hfid>
+  		<author_roll>27</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>serious:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>17</id>
+  		<title>Pungency and Nothing More</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>23</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>18</id>
+  		<title>Surely The Night Will Tell In The Beginning</title>
+  		<author_hfid>377</author_hfid>
+  		<author_roll>59</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>serious:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>19</id>
+  		<title>It Must Have Been Evisceration</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>17</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>20</id>
+  		<title>We See Puke</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>21</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>21</id>
+  		<title>Hoods and Nothing More</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>51</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>22</id>
+  		<title>Secret Mountainhome</title>
+  		<author_hfid>377</author_hfid>
+  		<author_roll>15</author_roll>
+  		<form>guide</form>
+  		<style>serious:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>23</id>
+  		<title>We See Weather</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>29</author_roll>
+  		<form>musical composition</form>
+  		<form_id>4</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>24</id>
+  		<title>The Birth of Sack</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>79</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>25</id>
+  		<title>The Mean Worries and Hegemon</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>70</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>26</id>
+  		<title>Ignorance Virtuous</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>54</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>27</id>
+  		<title>And I Sang 'Grip!'</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>48</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>28</id>
+  		<title>The Birth of Guiles</title>
+  		<author_hfid>378</author_hfid>
+  		<author_roll>24</author_roll>
+  		<form>musical composition</form>
+  		<form_id>11</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>29</id>
+  		<title>The Hazy Amusement and Authors</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>67</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>30</id>
+  		<title>The Shameful Spines</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>85</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>31</id>
+  		<title>The Sun Sets on Crews</title>
+  		<author_hfid>377</author_hfid>
+  		<author_roll>71</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>serious:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>32</id>
+  		<title>Boat and Nothing More</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>92</author_roll>
+  		<form>musical composition</form>
+  		<form_id>4</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>33</id>
+  		<title>Copper and Nothing More</title>
+  		<author_hfid>283</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>self indulgent:1</style>
+  		<style>serious:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>34</id>
+  		<title>Slop and Nothing More</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>61</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>35</id>
+  		<title>Learning Dear</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>101</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>36</id>
+  		<title>Rooters Flighty</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>104</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>mechanical:4</style>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>37</id>
+  		<title>Granite Orange</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>52</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>38</id>
+  		<title>Blotch and the Earthen Dimples</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>63</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>39</id>
+  		<title>Neutralization</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>80</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>40</id>
+  		<title>Chestnut and the Awe-inspiring Prophet</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>180</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>41</id>
+  		<title>Charcoalsharks: Principles and Practice</title>
+  		<author_hfid>378</author_hfid>
+  		<author_roll>17</author_roll>
+  		<form>essay</form>
+  		<style>forceful:4</style>
+  		<style>serious:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>42</id>
+  		<title>The Hellish Vales</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>180</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>43</id>
+  		<title>Emptiness and the Jugglers</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>116</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>self indulgent:1</style>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>44</id>
+  		<title>Moist Reverences</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>116</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>45</id>
+  		<title>Clinch</title>
+  		<author_hfid>489</author_hfid>
+  		<author_roll>21</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>vicious:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>46</id>
+  		<title>We See Mud</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>115</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>47</id>
+  		<title>The Village Explained</title>
+  		<author_hfid>378</author_hfid>
+  		<author_roll>14</author_roll>
+  		<form>guide</form>
+  		<style>serious:2</style>
+  		<style>forceful:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>48</id>
+  		<title>The Fragrant Shriek and Pokers</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>93</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>mechanical:1</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>49</id>
+  		<title>The Epidemic Berries</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>101</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  		<style>self indulgent:2</style>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>50</id>
+  		<title>Uncertain Web</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>186</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>self indulgent:2</style>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>51</id>
+  		<title>Incident</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>137</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>52</id>
+  		<title>The Confederacies and Holinesses</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>68</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>53</id>
+  		<title>The Duel and The Universe</title>
+  		<author_hfid>378</author_hfid>
+  		<author_roll>22</author_roll>
+  		<form>essay</form>
+  		<style>serious:2</style>
+  		<style>forceful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>54</id>
+  		<title>The Tragic Light</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>165</author_roll>
+  		<form>musical composition</form>
+  		<form_id>4</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>55</id>
+  		<title>Climaxtails</title>
+  		<author_hfid>547</author_hfid>
+  		<author_roll>10</author_roll>
+  		<form>essay</form>
+  		<style>disjointed:1</style>
+  		<style>meandering:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>56</id>
+  		<title>The Pines and Robustness</title>
+  		<author_hfid>132</author_hfid>
+  		<author_roll>170</author_roll>
+  		<form>musical composition</form>
+  		<form_id>4</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>57</id>
+  		<title>The Taciturn Sorrow</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>192</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>58</id>
+  		<title>The Secret of the Head Executioner</title>
+  		<author_hfid>378</author_hfid>
+  		<author_roll>24</author_roll>
+  		<form>essay</form>
+  		<style>forceful:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>59</id>
+  		<title>It Must Have Been Comets</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>75</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>60</id>
+  		<title>We See Cathedrals</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>103</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>61</id>
+  		<title>Then The Wind Knows</title>
+  		<author_hfid>522</author_hfid>
+  		<author_roll>14</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  		<style>tender:1</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>62</id>
+  		<title>My Friend Honesty</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>75</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  		<style>mechanical:1</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>63</id>
+  		<title>It Must Have Been Vigor</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>47</author_roll>
+  		<form>poem</form>
+  		<form_id>10</form_id>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>64</id>
+  		<title>The Knowledge and Groove</title>
+  		<author_hfid>522</author_hfid>
+  		<author_roll>28</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>65</id>
+  		<title>The Gloved Creed and Cad</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>98</author_roll>
+  		<form>musical composition</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>66</id>
+  		<title>The Way With The Cardinal Flutes</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>5</author_roll>
+  		<form>manual</form>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>67</id>
+  		<title>The Kind Diversion</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>90</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>68</id>
+  		<title>Evisceration and the Baits</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>199</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>69</id>
+  		<title>The Birth of Wad</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>109</author_roll>
+  		<form>poem</form>
+  		<form_id>12</form_id>
+  		<style>mechanical:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>70</id>
+  		<title>We See Eloquence</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>141</author_roll>
+  		<form>poem</form>
+  		<form_id>11</form_id>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>71</id>
+  		<title>Butterflies Crested</title>
+  		<author_hfid>149</author_hfid>
+  		<author_roll>192</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>72</id>
+  		<title>Barb and Nothing More</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>119</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>73</id>
+  		<title>Omen</title>
+  		<author_hfid>534</author_hfid>
+  		<author_roll>28</author_roll>
+  		<form>poem</form>
+  		<form_id>2</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>74</id>
+  		<title>Oats and the Calm Order</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>48</author_roll>
+  		<form>poem</form>
+  		<form_id>10</form_id>
+  		<style>mechanical:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>75</id>
+  		<title>Discovering the Human</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>8</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>76</id>
+  		<title>And We Sang 'Sacrifice!'</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>145</author_roll>
+  		<form>poem</form>
+  		<form_id>11</form_id>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>77</id>
+  		<title>The Polish and Marsh</title>
+  		<author_hfid>364</author_hfid>
+  		<author_roll>182</author_roll>
+  		<form>musical composition</form>
+  		<form_id>1</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>78</id>
+  		<title>Dearth and Nothing More</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>142</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>79</id>
+  		<title>The Taxes and Knife</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>208</author_roll>
+  		<form>poem</form>
+  		<form_id>9</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>80</id>
+  		<title>Girder</title>
+  		<author_hfid>192</author_hfid>
+  		<author_roll>124</author_roll>
+  		<form>poem</form>
+  		<form_id>0</form_id>
+  		<style>mechanical:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>81</id>
+  		<title>Competition: Nobody Weeps</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>180</author_roll>
+  		<form>poem</form>
+  		<form_id>11</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>82</id>
+  		<title>The Thimbles and Shark</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>70</author_roll>
+  		<form>poem</form>
+  		<form_id>10</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>83</id>
+  		<title>Fairness Ever Onward</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>206</author_roll>
+  		<form>poem</form>
+  		<form_id>11</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>84</id>
+  		<title>The Satin and Anvils</title>
+  		<author_hfid>222</author_hfid>
+  		<author_roll>141</author_roll>
+  		<form>poem</form>
+  		<form_id>13</form_id>
+  	</written_content>
+	
+  <written_content>
+  		<id>85</id>
+  		<title>Classic Mountain Halls</title>
+  		<author_hfid>261</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>86</id>
+  		<title>An Introduction to Longpaints</title>
+  		<author_hfid>261</author_hfid>
+  		<author_roll>19</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>87</id>
+  		<title>We See Spoon</title>
+  		<author_hfid>768</author_hfid>
+  		<author_roll>13</author_roll>
+  		<form>poem</form>
+  		<form_id>10</form_id>
+  		<style>serious:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>88</id>
+  		<title>The Guild, My Love</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>19</author_roll>
+  		<form>essay</form>
+  		<style>compassionate:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>89</id>
+  		<title>The Dwarf and The Universe</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>19</author_roll>
+  		<form>essay</form>
+  		<style>sardonic:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>90</id>
+  		<title>The Wizard's Guide to the Deal</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>18</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:1</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>91</id>
+  		<title>Logem Teethstandards: The Definitive Guide</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>26</author_roll>
+  		<form>essay</form>
+  		<style>melancholy:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>92</id>
+  		<title>Of Workboard</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>26</author_roll>
+  		<form>guide</form>
+  		<style>compassionate:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>93</id>
+  		<title>Workboard: A Brief History</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>31</author_roll>
+  		<form>guide</form>
+  		<style>melancholy:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>94</id>
+  		<title>Captivated by the Tower</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>18</author_roll>
+  		<form>guide</form>
+  		<style>sardonic:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>95</id>
+  		<title>The Book of the Dwarf</title>
+  		<author_hfid>261</author_hfid>
+  		<author_roll>7</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>96</id>
+  		<title>Workboard and The Universe</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>27</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:2</style>
+  		<style>sardonic:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>97</id>
+  		<title>Genius: The Definitive Guide</title>
+  		<author_hfid>243</author_hfid>
+  		<author_roll>31</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>98</id>
+  		<title>Logem Teethstandards Questioned</title>
+  		<author_hfid>261</author_hfid>
+  		<author_roll>17</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>99</id>
+  		<title>After the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>17</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:4</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>100</id>
+  		<title>Creation: Problems And Solutions</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>2</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>101</id>
+  		<title>Beyond Kad�l Craftpeaked</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>10</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>102</id>
+  		<title>New Deal</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>12</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:2</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>103</id>
+  		<title>Pathways to the Mountainhome</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>104</id>
+  		<title>Secret Dwarf</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>16</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>105</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>31</author_roll>
+  		<form>letter</form>
+  		<style>self indulgent:1</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>106</id>
+  		<title>Could It Be the Tower?</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>107</id>
+  		<title>It Is Longpaints</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>23</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>108</id>
+  		<title>The Competition and The Universe</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>21</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:2</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>109</id>
+  		<title>Concerning the Dwarf</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>37</author_roll>
+  		<form>essay</form>
+  		<style>cheerful:4</style>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>110</id>
+  		<title>The Dwarves: Principles and Practice</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>40</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:4</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>111</id>
+  		<title>The Tower Without Limits</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>112</id>
+  		<title>Storage and Other Travesties</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>34</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>113</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>38</author_roll>
+  		<form>letter</form>
+  		<style>tender:2</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>114</id>
+  		<title>The Mountainhome and Other Topics</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>35</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>115</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>43</author_roll>
+  		<form>letter</form>
+  		<style>cheerful:4</style>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>116</id>
+  		<title>Commentary on the People</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>39</author_roll>
+  		<form>essay</form>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>117</id>
+  		<title>Questions About Workboard</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>60</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:2</style>
+  		<style>cheerful:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>118</id>
+  		<title>Musings on the Dwarf</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>21</author_roll>
+  		<form>essay</form>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>119</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>86</author_roll>
+  		<form>letter</form>
+  		<style>self indulgent:2</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>120</id>
+  		<title>The Secret of the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>48</author_roll>
+  		<form>guide</form>
+  		<style>tender:1</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>121</id>
+  		<title>The Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>41</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:1</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>122</id>
+  		<title>The Darkness: A Quandary</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>37</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:2</style>
+  		<style>tender:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>123</id>
+  		<title>The True Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>58</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>124</id>
+  		<title>True Creation</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>37</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>125</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>60</author_roll>
+  		<form>letter</form>
+  		<style>tender:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>126</id>
+  		<title>A Meditation on Workboard</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>33</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>127</id>
+  		<title>Great Workboard</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>53</author_roll>
+  		<form>guide</form>
+  		<style>tender:2</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>128</id>
+  		<title>Unknown Rebirth</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>105</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:1</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>129</id>
+  		<title>Meditations on Workboard</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>28</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>130</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>41</author_roll>
+  		<form>letter</form>
+  		<style>cheerful:1</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>131</id>
+  		<title>A Record of the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>79</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:4</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>132</id>
+  		<title>Workboard Explained</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>108</author_roll>
+  		<form>guide</form>
+  		<style>tender:2</style>
+  		<style>cheerful:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>133</id>
+  		<title>Discovering the Dwarf</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>38</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>134</id>
+  		<title>Workboard: A New Approach</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>68</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>135</id>
+  		<title>The Future of Longpaints</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>69</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>136</id>
+  		<title>The Future of the Dwarf</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>59</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>137</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>84</author_roll>
+  		<form>letter</form>
+  		<style>cheerful:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>138</id>
+  		<title>Nomal Sensesblockades and Other Topics</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>81</author_roll>
+  		<form>essay</form>
+  		<style>tender:1</style>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>139</id>
+  		<title>The Tower: A Brief Introduction</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>51</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>140</id>
+  		<title>Before Storage</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>15</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>141</id>
+  		<title>Of the Pit</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>131</author_roll>
+  		<form>essay</form>
+  		<style>cheerful:4</style>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>142</id>
+  		<title>Records of the Darkness</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>97</author_roll>
+  		<form>guide</form>
+  		<style>tender:4</style>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>143</id>
+  		<title>Workboard: Fact or Fiction?</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>94</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>144</id>
+  		<title>Workboard The Easy Way</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>73</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>145</id>
+  		<title>Creation Uncovered</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>104</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:4</style>
+  		<style>cheerful:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>146</id>
+  		<title>Never Underestimate Workboard</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>67</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>147</id>
+  		<title>Give Me the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>120</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:4</style>
+  		<style>tender:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>148</id>
+  		<title>Give Me the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>202</author_roll>
+  		<form>guide</form>
+  		<style>tender:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>149</id>
+  		<title>The Giraffe Woman Uncovered</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>140</author_roll>
+  		<form>essay</form>
+  		<style>tender:2</style>
+  		<style>cheerful:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>150</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>131</author_roll>
+  		<form>letter</form>
+  		<style>cheerful:2</style>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>151</id>
+  		<title>Master of the Tower</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>79</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>152</id>
+  		<title>Secret Workboard</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>84</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>153</id>
+  		<title>Great Mountainhome</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>63</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:4</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>154</id>
+  		<title>Principles of Storage</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>67</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>155</id>
+  		<title>A Treatise on the Composition</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>108</author_roll>
+  		<form>essay</form>
+  		<style>tender:2</style>
+  		<style>self indulgent:2</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>156</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>172</author_roll>
+  		<form>letter</form>
+  		<style>cheerful:4</style>
+  		<style>self indulgent:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>157</id>
+  		<title>Never Underestimate the Tower</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>123</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>158</id>
+  		<title>An Introduction to Kad�l Craftpeaked</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>71</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>159</id>
+  		<title>Master of the Gift</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>20</author_roll>
+  		<form>essay</form>
+  		<style>self indulgent:4</style>
+  		<style>tender:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>160</id>
+  		<title>A Record of the Tower</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>138</author_roll>
+  		<form>guide</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>161</id>
+  		<title>The Wizard's Guide to Storage</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>167</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>162</id>
+  		<title>Secret Dwarf</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>161</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>163</id>
+  		<title>The Resurrection In The Modern Era</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>243</author_roll>
+  		<form>essay</form>
+  		<style>cheerful:1</style>
+  		<style>tender:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>164</id>
+  		<title>The Codex, My Life</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>155</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>165</id>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>77</author_roll>
+  		<form>letter</form>
+  		<style>self indulgent:1</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>166</id>
+  		<title>Beyond the Tower</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>93</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>167</id>
+  		<title>The Tower The Easy Way</title>
+  		<author_hfid>219</author_hfid>
+  		<author_roll>183</author_roll>
+  		<form>guide</form>
+  		<style>cheerful:4</style>
+  	</written_content>
+	
+  <written_content>
+  		<id>168</id>
+  		<title>The Truth About Workboard</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>59</author_roll>
+  		<form>guide</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>169</id>
+  		<title>Storage Came Full Circle</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>53</author_roll>
+  		<form>essay</form>
+  	</written_content>
+	
+  <written_content>
+  		<id>170</id>
+  		<title>The Tower and The Universe</title>
+  		<author_hfid>244</author_hfid>
+  		<author_roll>178</author_roll>
+  		<form>essay</form>
+  	</written_content>
+
+</written_contents>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>462</id>
+  		<name>mifo laudtaken</name>
+  		<race>BAT_GIANT</race>
+  		<caste>MALE</caste>
+  		<appeared>59</appeared>
+  		<birth_year>58</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>78</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>36</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>44</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1006</id>
+  		<name>amo questfreeze</name>
+  		<race>BAT_GIANT</race>
+  		<caste>MALE</caste>
+  		<appeared>247</appeared>
+  		<birth_year>246</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>256</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

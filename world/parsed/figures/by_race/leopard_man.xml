@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>982</id>
+  		<name>thepa chillfates</name>
+  		<race>LEOPARD_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>192</appeared>
+  		<birth_year>175</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>222</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>57</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>WRESTLING</skill>
+  			<total_ip>132</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>GRASP_STRIKE</skill>
+  			<total_ip>162</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>STANCE_STRIKE</skill>
+  			<total_ip>74</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DISCIPLINE</skill>
+  			<total_ip>255</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>520</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>626</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>ARMOR</skill>
+  			<total_ip>562</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SHIELD</skill>
+  			<total_ip>765</total_ip>
+  		</hf_skill>
+  			<goal>bring peace to the world</goal>
+  		<active_interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</active_interaction>
+  		<intrigue_actor>
+  			<local_id>0</local_id>
+  			<entity_id>57</entity_id>
+  			<role>possible threat</role>
+  			<strategy>corrupt and pacify</strategy>
+  		</intrigue_actor>
+  		<intrigue_plot>
+  			<local_id>0</local_id>
+  			<type>grow funding network</type>
+  		</intrigue_plot>
+  		<intrigue_plot>
+  			<local_id>1</local_id>
+  			<type>grow asset network</type>
+  		</intrigue_plot>
+  		<intrigue_plot>
+  			<local_id>2</local_id>
+  			<type>grow corruption network</type>
+  			<on_hold />
+  		</intrigue_plot>
+  	</historical_figure>
+	
+</historical_figures>

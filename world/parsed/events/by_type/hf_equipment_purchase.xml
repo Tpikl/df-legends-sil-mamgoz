@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1264</id>
+  		<year>25</year>
+  		<seconds72>378000</seconds72>
+  		<type>hf equipment purchase</type>
+  		<quality>1</quality>
+  		<group_hfid>190</group_hfid>
+  		<site_id>-1</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2230</id>
+  		<year>39</year>
+  		<seconds72>294000</seconds72>
+  		<type>hf equipment purchase</type>
+  		<quality>3</quality>
+  		<group_hfid>190</group_hfid>
+  		<site_id>-1</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5419</id>
+  		<year>85</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf equipment purchase</type>
+  		<quality>3</quality>
+  		<group_hfid>411</group_hfid>
+  		<site_id>-1</site_id>
+  		<structure_id>-1</structure_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+</historical_events>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>6531</id>
+  		<year>102</year>
+  		<seconds72>294000</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>44</doer_hfid>
+  		<target_hfid>223</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_beaver</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7774</id>
+  		<year>119</year>
+  		<seconds72>92400</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>223</doer_hfid>
+  		<target_hfid>717</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_beaver_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7787</id>
+  		<year>119</year>
+  		<seconds72>310800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>223</doer_hfid>
+  		<target_hfid>692</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_beaver_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7826</id>
+  		<year>120</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>44</doer_hfid>
+  		<target_hfid>640</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_iguana</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8970</id>
+  		<year>131</year>
+  		<seconds72>184800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>640</doer_hfid>
+  		<target_hfid>771</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9837</id>
+  		<year>140</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>692</doer_hfid>
+  		<target_hfid>823</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_beaver_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10035</id>
+  		<year>142</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>44</doer_hfid>
+  		<target_hfid>185</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_lizard</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10299</id>
+  		<year>143</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>185</doer_hfid>
+  		<target_hfid>833</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_lizard_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10414</id>
+  		<year>144</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>833</doer_hfid>
+  		<target_hfid>844</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_lizard_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11085</id>
+  		<year>149</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>833</doer_hfid>
+  		<target_hfid>874</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_lizard_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11238</id>
+  		<year>150</year>
+  		<seconds72>151200</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>640</doer_hfid>
+  		<target_hfid>888</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12042</id>
+  		<year>155</year>
+  		<seconds72>378000</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>44</doer_hfid>
+  		<target_hfid>208</target_hfid>
+  		<interaction>DEITY_MAJOR_CURSE_5</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12076</id>
+  		<year>156</year>
+  		<seconds72>25200</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>833</doer_hfid>
+  		<target_hfid>932</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_lizard_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12924</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>261</doer_hfid>
+  		<target_hfid>183</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12925</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>261</doer_hfid>
+  		<target_hfid>244</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12926</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>261</doer_hfid>
+  		<target_hfid>799</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12927</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>261</doer_hfid>
+  		<target_hfid>893</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15030</id>
+  		<year>222</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>640</doer_hfid>
+  		<target_hfid>982</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15390</id>
+  		<year>227</year>
+  		<seconds72>0</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>640</doer_hfid>
+  		<target_hfid>946</target_hfid>
+  		<interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</interaction>
+  	</historical_event>
+	
+</historical_events>

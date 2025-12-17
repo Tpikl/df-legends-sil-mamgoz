@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>2311</id>
+  		<year>41</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact found</type>
+  		<artifact_id>8</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>385</hist_figure_id>
+  		<site_id>15</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12700</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact found</type>
+  		<artifact_id>6</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>929</hist_figure_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12704</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact found</type>
+  		<artifact_id>4</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>929</hist_figure_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+</historical_events>

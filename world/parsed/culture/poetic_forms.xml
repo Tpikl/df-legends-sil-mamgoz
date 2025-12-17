@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<poetic_forms>
+  <poetic_form>
+  		<id>0</id>
+  		<description>The Sienna Mother is a solemn poetic form intended to amuse the audience, originating in The Tombs-Roads of Equivalence.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is divided into two distinct quatrains.  A form of parallelism is common throughout the poem, in that certain lines often share an underlying meaning.  Each line has five feet with an accent pattern of unstressed-stressed (qualitative iambic pentameter).  [B]The first part concerns the past.  The fourth line of the quatrain must expand the idea of the first line.  [B]The second part concerns the future.  The fourth line of the quatrain must expand the idea of the first line.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>1</id>
+  		<description>The Library of Papers is a solemn poetic form intended to describe the future, originating in The Tombs-Roads of Equivalence.  The form guides poets during improvised performances.  The poem is a single quintain.  Use of symbolism is characteristic of the form.  A form of parallelism is common throughout the poem, in that certain lines often contrast underlying meaning.  The first line has five feet with an accent pattern of stressed-unstressed (qualitative trochaic pentameter).  The second line has five feet with an accent pattern of stressed-unstressed (qualitative trochaic pentameter).  The third line has six feet with an accent pattern of stressed-unstressed (qualitative trochaic hexameter).  The fourth line has seven feet with an accent pattern of stressed-unstressed (qualitative trochaic heptameter).  The fifth line has four feet with an accent pattern of stressed-unstressed (qualitative trochaic tetrameter).  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>2</id>
+  		<description>The Horse of Creams is a poetic form concerning family, originating in The Tombs-Roads of Equivalence.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single tercet.  Use of simile and metonymy is characteristic of the form.  Forms of parallelism are common throughout the poem, in that certain lines often share an underlying meaning, they have similar grammatical structures, they use the same placement of allusions and they reverse grammatical structures.  Each line has six feet with an accent pattern of unstressed-unstressed-stressed (qualitative anapaestic hexameter).  The first line is a narrative and intended to describe the subject of the poem.  The second line is light and intended to develop the previous idea.  The third line is solemn and intended to move away from previous ideas.  It must make use of assonance.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>3</id>
+  		<description>The Beige Bride is a light poetic form intended to teach a moral lesson, originating in The Unswerving Fells.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single tercet.  Use of ambiguity and symbolism is characteristic of the form.  Forms of parallelism are common throughout the poem, in that certain lines often contrast underlying meaning and they have similar grammatical structures.  Each line has three feet with a syllable weight pattern of short-short-long (quantitative anapaestic trimeter).  The third line of the tercet shares the underlying meaning of the first line.  The first line concerns the past.  It must make use of assonance.  The second line concerns current events.  It has an initial caesura.  The third line concerns the future.  It must make use of assonance.  It has an initial caesura.  The rhyme scheme of the poem is ABB.  As a rule throughout the poem, the end rhymes don't generally match perfectly.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>4</id>
+  		<description>The Oblivion of Ash is a dramatic poetic form concerning death, originating in The Unswerving Fells.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is divided into an octet and a tercet.  A form of parallelism is common throughout the poem, in that certain lines use the same placement of allusions.  Each line has seven feet with a syllable weight pattern of long-long (quantitative spondaic heptameter).  [B]The first part is intended to make an assertion.  The fifth line of the octet shares the underlying meaning of the second line.  The rhyme scheme respecting the full poem is AABCADDC.  [B]The second part is intended to invert the previous assertion.  Certain lines often share an underlying meaning.  The rhyme scheme respecting the full poem is AAA.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>5</id>
+  		<description>The Orb of Incense is a poetic riddle intended to teach a moral lesson concerning someone's character, originating in The Unswerving Fells.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single quatrain.  Use of internal rhyme is characteristic of the form.  Forms of parallelism are common throughout the poem, in that certain lines are required to maintain phrasing and they reverse grammatical structures.  The third line of the quatrain has the same grammatical structure as the second line.  The first line has four feet with a syllable weight pattern of long-short-long (quantitative cretic tetrameter).  The second line has four feet with a syllable weight pattern of long-short-long (quantitative cretic tetrameter).  The third line has four feet with a syllable weight pattern of short-long-short (quantitative amphibrachic tetrameter).  The fourth line has four feet with a syllable weight pattern of long-long (quantitative spondaic tetrameter).  The rhyme scheme of the poem is AABB.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>6</id>
+  		<description>The Fur of Jungles is a solemn poetic form intended to teach a moral lesson concerning the concept of nature, originating in The Unswerving Fells.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single tercet.  A form of parallelism is common throughout the poem, in that certain lines often contrast underlying meaning.  Each line has three feet with a syllable weight pattern of long-long (quantitative spondaic trimeter).  The third line of the tercet presents a different view of the subject of the second line.  The third line of the tercet must expand the idea of the second line.  The second line must make use of simile.  The third line must make use of simile.  The rhyme scheme of the poem is ABA.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>7</id>
+  		<description>The Strategy of Venerating is a poetic narrative concerning a specific place, originating in The Unswerving Fells.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single couplet.  Use of metaphor is characteristic of the form.  Forms of parallelism are common throughout the poem, in that certain lines have similar grammatical structures, they use the same placement of allusions and they sometimes have reversed word orders.  The ending of each line of the poem shares the same rhyme.  The second line of the couplet reverses the grammatical structure of the first line.  The first line is intended to make a concession.  It has seven syllables.  The second line is intended to make an assertion.  It has six syllables.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>8</id>
+  		<description>The Periwinkle of Sprays is a poetic narrative intended to praise Famime, originating in The Unswerving Fells.  The form guides poets during improvised performances.  The poem is a single septet.  Use of consonance is characteristic of the form.  A form of parallelism is common throughout the poem, in that certain lines are required to maintain phrasing.  The rhyme scheme of the poem is ABBACBC.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>9</id>
+  		<description>The Bloat of Molds is a solemn poetic form intended to praise Agwa, originating in The Bewildering Nation.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single quatrain.  Forms of parallelism are common throughout the poem, in that certain lines often share an underlying meaning and they reverse grammatical structures.  Each line has seven syllables.  Every line of the poem has a terminal caesura.  The ending of each line of the poem shares the same rhyme, though the rhyming doesn't have to be perfect.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>10</id>
+  		<description>The Bewildering Library is a solemn poetic form, originating in The Bewildering Nation.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single tercet.  Use of symbolism is characteristic of the form.  A form of parallelism is common throughout the poem, in that certain lines often share an underlying meaning.  The third line of the tercet must expand the idea of the second line.  The first line is intended to describe the past.  It has five syllables.  The second line is intended to develop the previous idea concerning current events.  It has fourteen syllables.  The third line is intended to offer a different perspective concerning the future.  It has fourteen syllables.  The rhyme scheme of the poem is ABB.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>11</id>
+  		<description>The Bear of Cats is a poetic riddle intended to teach a moral lesson concerning Tunem Divedfords the Natural Fin, originating in The Bewildering Nation.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single quintain.  Use of assonance is characteristic of the form.  A form of parallelism is common throughout the poem, in that certain lines are required to maintain phrasing.  Every line of the poem has a medial caesura.  The first line has eight syllables.  The second line must make use of vivid imagery.  It has four syllables.  The third line must make use of vivid imagery.  It has five syllables.  The fourth line has nine syllables.  The fifth line must make use of vivid imagery.  It has nine syllables.  The rhyme scheme of the poem is ABBAA.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>12</id>
+  		<description>The Cardinal Flutes is a poetic riddle, originating in The Bewildering Nation.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a single tercet.  Use of assonance is characteristic of the form.  A form of parallelism is common throughout the poem, in that certain lines often contrast underlying meaning.  Every line of the poem has an initial caesura.  The first line concerns the past.  It has nine syllables.  The second line concerns current events.  It has six syllables.  The third line concerns the future.  It must make use of epenthesis.  It has ten syllables.  The rhyme scheme of the poem is ABB.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>13</id>
+  		<description>The Flowery Shell is a dramatic poetic form intended to describe Tunem Divedfords the Natural Fin, originating in The Bewildering Nation.  The rules of the form are applied by poets to produce individual poems which can be recited.  The poem is a series of octets.  A form of parallelism is common throughout the poem, in that certain lines have similar grammatical structures.  The rhyme scheme of the poem is ABAAAAAB.  </description>
+  	</poetic_form>
+	
+  <poetic_form>
+  		<id>14</id>
+  		<description>The Oracular Scribe is a poetic riddle concerning a specific place, originating in The Bewildering Nation.  The form guides poets during improvised performances.  The poem is a single tercet.  Forms of parallelism are common throughout the poem, in that certain lines are required to maintain phrasing and they reverse grammatical structures.  Every line of the poem has a terminal caesura.  to beseechThe third line of the tercet presents a different view of the subject of the second line.  The first line is intended .  It must make use of symbolism.  It has ten syllables.  The second line is intended to develop the previous idea.  It has twelve syllables.  The third line is intended to move away from previous ideas.  It has fifteen syllables.  The rhyme scheme of the poem is AAB.  </description>
+  	</poetic_form>
+
+</poetic_forms>

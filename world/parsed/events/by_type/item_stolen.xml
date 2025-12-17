@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>123</id>
+  		<year>1</year>
+  		<seconds72>67200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>0</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>149</id>
+  		<year>2</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>8</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>150</id>
+  		<year>2</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>8</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>215</id>
+  		<year>2</year>
+  		<seconds72>319200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>17</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>218</id>
+  		<year>3</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>18</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>219</id>
+  		<year>3</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>19</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>246</id>
+  		<year>3</year>
+  		<seconds72>176400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>22</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>250</id>
+  		<year>3</year>
+  		<seconds72>226800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>23</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>273</id>
+  		<year>4</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>25</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>274</id>
+  		<year>4</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>25</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>311</id>
+  		<year>5</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>30</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>312</id>
+  		<year>5</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>30</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>333</id>
+  		<year>6</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>36</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>334</id>
+  		<year>6</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>36</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>346</id>
+  		<year>6</year>
+  		<seconds72>0</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>37</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>349</id>
+  		<year>6</year>
+  		<seconds72>33600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>39</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>365</id>
+  		<year>7</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>43</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>366</id>
+  		<year>7</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>44</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>398</id>
+  		<year>8</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>46</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>399</id>
+  		<year>8</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>47</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>431</id>
+  		<year>9</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>51</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>432</id>
+  		<year>9</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>51</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>452</id>
+  		<year>10</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>54</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>453</id>
+  		<year>10</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>55</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>485</id>
+  		<year>10</year>
+  		<seconds72>218400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>58</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>512</id>
+  		<year>11</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>61</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>513</id>
+  		<year>11</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>61</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>530</id>
+  		<year>11</year>
+  		<seconds72>176400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>62</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>549</id>
+  		<year>12</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>65</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>550</id>
+  		<year>12</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>65</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>562</id>
+  		<year>12</year>
+  		<seconds72>58800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>66</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>570</id>
+  		<year>13</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>68</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>571</id>
+  		<year>13</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>68</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>634</id>
+  		<year>14</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>75</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>635</id>
+  		<year>14</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>75</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>691</id>
+  		<year>15</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>87</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>692</id>
+  		<year>15</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>88</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>705</id>
+  		<year>15</year>
+  		<seconds72>184800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>89</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>741</id>
+  		<year>16</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>95</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>742</id>
+  		<year>16</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>96</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>771</id>
+  		<year>16</year>
+  		<seconds72>285600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>100</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>792</id>
+  		<year>17</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>103</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>793</id>
+  		<year>17</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>103</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1083</id>
+  		<year>22</year>
+  		<seconds72>67200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>130</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1115</id>
+  		<year>22</year>
+  		<seconds72>260400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>136</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1218</id>
+  		<year>24</year>
+  		<seconds72>243600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>152</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1384</id>
+  		<year>27</year>
+  		<seconds72>109200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>171</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1516</id>
+  		<year>29</year>
+  		<seconds72>117600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>185</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1519</id>
+  		<year>29</year>
+  		<seconds72>126000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>186</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1533</id>
+  		<year>29</year>
+  		<seconds72>252000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>189</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1534</id>
+  		<year>29</year>
+  		<seconds72>252000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>189</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1539</id>
+  		<year>29</year>
+  		<seconds72>285600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>190</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1540</id>
+  		<year>29</year>
+  		<seconds72>285600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>190</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1564</id>
+  		<year>30</year>
+  		<seconds72>50400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>192</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1573</id>
+  		<year>30</year>
+  		<seconds72>159600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>195</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1661</id>
+  		<year>31</year>
+  		<seconds72>327600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>204</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1836</id>
+  		<year>34</year>
+  		<seconds72>226800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>229</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1989</id>
+  		<year>37</year>
+  		<seconds72>50400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>249</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1991</id>
+  		<year>37</year>
+  		<seconds72>50400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>249</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2048</id>
+  		<year>37</year>
+  		<seconds72>310800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>254</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2391</id>
+  		<year>42</year>
+  		<seconds72>75600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>284</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2582</id>
+  		<year>44</year>
+  		<seconds72>327600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>303</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2620</id>
+  		<year>45</year>
+  		<seconds72>277200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>311</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2704</id>
+  		<year>47</year>
+  		<seconds72>235200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>320</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2790</id>
+  		<year>49</year>
+  		<seconds72>394800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>330</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2899</id>
+  		<year>51</year>
+  		<seconds72>84000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>343</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3266</id>
+  		<year>55</year>
+  		<seconds72>117600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>382</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3403</id>
+  		<year>58</year>
+  		<seconds72>126000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>398</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3420</id>
+  		<year>58</year>
+  		<seconds72>294000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>403</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3494</id>
+  		<year>60</year>
+  		<seconds72>8400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>410</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3794</id>
+  		<year>62</year>
+  		<seconds72>386400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>436</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3923</id>
+  		<year>66</year>
+  		<seconds72>-1</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>defeated hf</circumstance>
+  		<circumstance_id>285</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3946</id>
+  		<year>66</year>
+  		<seconds72>109200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>456</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4006</id>
+  		<year>66</year>
+  		<seconds72>369600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>467</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4069</id>
+  		<year>67</year>
+  		<seconds72>210000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>477</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4150</id>
+  		<year>68</year>
+  		<seconds72>210000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>488</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4242</id>
+  		<year>70</year>
+  		<seconds72>75600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>504</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4356</id>
+  		<year>71</year>
+  		<seconds72>218400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>516</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4453</id>
+  		<year>73</year>
+  		<seconds72>142800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>531</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4525</id>
+  		<year>74</year>
+  		<seconds72>50400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>535</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4702</id>
+  		<year>76</year>
+  		<seconds72>67200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>559</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4861</id>
+  		<year>78</year>
+  		<seconds72>134400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>579</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5091</id>
+  		<year>80</year>
+  		<seconds72>310800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>607</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5471</id>
+  		<year>86</year>
+  		<seconds72>8400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>656</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6159</id>
+  		<year>98</year>
+  		<seconds72>201600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>729</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6213</id>
+  		<year>98</year>
+  		<seconds72>369600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>734</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6433</id>
+  		<year>101</year>
+  		<seconds72>58800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>749</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6472</id>
+  		<year>102</year>
+  		<seconds72>126000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>754</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6790</id>
+  		<year>104</year>
+  		<seconds72>361200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>784</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6811</id>
+  		<year>105</year>
+  		<seconds72>42000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>786</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6973</id>
+  		<year>108</year>
+  		<seconds72>33600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>810</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7151</id>
+  		<year>110</year>
+  		<seconds72>243600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>833</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7203</id>
+  		<year>111</year>
+  		<seconds72>218400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>840</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7232</id>
+  		<year>111</year>
+  		<seconds72>394800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>defeated hf</circumstance>
+  		<circumstance_id>178</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7274</id>
+  		<year>112</year>
+  		<seconds72>117600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>846</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7409</id>
+  		<year>114</year>
+  		<seconds72>42000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>868</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7417</id>
+  		<year>114</year>
+  		<seconds72>67200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>876</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8080</id>
+  		<year>122</year>
+  		<seconds72>92400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>998</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8278</id>
+  		<year>124</year>
+  		<seconds72>277200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1045</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8494</id>
+  		<year>127</year>
+  		<seconds72>126000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1099</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9072</id>
+  		<year>132</year>
+  		<seconds72>58800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1202</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9225</id>
+  		<year>133</year>
+  		<seconds72>352800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1233</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9447</id>
+  		<year>136</year>
+  		<seconds72>8400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1276</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9584</id>
+  		<year>137</year>
+  		<seconds72>310800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1317</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9652</id>
+  		<year>138</year>
+  		<seconds72>50400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1330</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10042</id>
+  		<year>142</year>
+  		<seconds72>75600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1412</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10483</id>
+  		<year>145</year>
+  		<seconds72>100800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1485</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10621</id>
+  		<year>145</year>
+  		<seconds72>319200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1508</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10838</id>
+  		<year>147</year>
+  		<seconds72>159600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1556</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10916</id>
+  		<year>147</year>
+  		<seconds72>302400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1568</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10971</id>
+  		<year>148</year>
+  		<seconds72>75600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1583</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11676</id>
+  		<year>152</year>
+  		<seconds72>310800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1702</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12186</id>
+  		<year>156</year>
+  		<seconds72>268800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1808</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12190</id>
+  		<year>156</year>
+  		<seconds72>285600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1811</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12446</id>
+  		<year>159</year>
+  		<seconds72>109200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1881</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12745</id>
+  		<year>161</year>
+  		<seconds72>92400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>defeated hf</circumstance>
+  		<circumstance_id>762</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12914</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1968</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12916</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1968</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12918</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1968</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12920</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>1968</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13235</id>
+  		<year>164</year>
+  		<seconds72>201600</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2011</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13520</id>
+  		<year>166</year>
+  		<seconds72>294000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2052</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13763</id>
+  		<year>169</year>
+  		<seconds72>67200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2093</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13779</id>
+  		<year>169</year>
+  		<seconds72>235200</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2099</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13977</id>
+  		<year>171</year>
+  		<seconds72>302400</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2140</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14143</id>
+  		<year>174</year>
+  		<seconds72>42000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>defeated hf</circumstance>
+  		<circumstance_id>243</circumstance_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14494</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>item stolen</type>
+  		<circumstance>historical event collection</circumstance>
+  		<circumstance_id>2233</circumstance_id>
+  	</historical_event>
+	
+</historical_events>

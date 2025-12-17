@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<landmasses>
+  <landmass>
+  		<id>0</id>
+  		<name>The Evaporated Land of Diversion</name>
+  		<coord_1>1,1</coord_1>
+  		<coord_2>31,31</coord_2>
+  	</landmass>
+	
+  <landmass>
+  		<id>1</id>
+  		<name>The Infamous Island</name>
+  		<coord_1>2,3</coord_1>
+  		<coord_2>5,6</coord_2>
+  	</landmass>
+
+</landmasses>

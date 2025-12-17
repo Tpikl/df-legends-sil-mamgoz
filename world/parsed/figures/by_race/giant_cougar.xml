@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>108</id>
+  		<name>zorad heatshred</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-4</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>10</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>33</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>38</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>274</id>
+  		<name>alece gladnessgang</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>22</appeared>
+  		<birth_year>17</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>27</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>288</id>
+  		<name>notchedboring</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>25</appeared>
+  		<birth_year>22</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>41</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>32</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>36</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>374</id>
+  		<name>shed gravelprice</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>40</appeared>
+  		<birth_year>36</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>49</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>647</id>
+  		<name>dullsummer</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>FEMALE</caste>
+  		<appeared>101</appeared>
+  		<birth_year>98</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>114</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>653</id>
+  		<name>humidnoble</name>
+  		<race>GIANT_COUGAR</race>
+  		<caste>MALE</caste>
+  		<appeared>102</appeared>
+  		<birth_year>97</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>108</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>40</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

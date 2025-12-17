@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>177</id>
+  		<year>2</year>
+  		<seconds72>16800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>77</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>11</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>180</id>
+  		<year>2</year>
+  		<seconds72>16800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>50</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>14</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>242</id>
+  		<year>3</year>
+  		<seconds72>109200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>80</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>37</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>326</id>
+  		<year>5</year>
+  		<seconds72>134400</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>50</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>7</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>362</id>
+  		<year>6</year>
+  		<seconds72>260400</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>117</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>13</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>730</id>
+  		<year>15</year>
+  		<seconds72>386400</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>80</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>47</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1092</id>
+  		<year>22</year>
+  		<seconds72>201600</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>117</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>47</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1299</id>
+  		<year>26</year>
+  		<seconds72>193200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>295</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>20</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1327</id>
+  		<year>26</year>
+  		<seconds72>277200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>213</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>10</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1637</id>
+  		<year>31</year>
+  		<seconds72>243600</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>213</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>19</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2693</id>
+  		<year>47</year>
+  		<seconds72>117600</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>388</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>48</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2751</id>
+  		<year>48</year>
+  		<seconds72>294000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>388</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>45</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2985</id>
+  		<year>52</year>
+  		<seconds72>310800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>422</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>3</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3218</id>
+  		<year>54</year>
+  		<seconds72>235200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>213</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>6</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4030</id>
+  		<year>67</year>
+  		<seconds72>100800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>486</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>34</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4621</id>
+  		<year>75</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>519</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>27</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5268</id>
+  		<year>83</year>
+  		<seconds72>176400</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>544</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>6</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5401</id>
+  		<year>84</year>
+  		<seconds72>352800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>213</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>2</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6561</id>
+  		<year>102</year>
+  		<seconds72>336000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>13</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6984</id>
+  		<year>108</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>13</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7077</id>
+  		<year>109</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>12</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7430</id>
+  		<year>114</year>
+  		<seconds72>260400</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>5</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9863</id>
+  		<year>140</year>
+  		<seconds72>235200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>22</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9954</id>
+  		<year>141</year>
+  		<seconds72>109200</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>762</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>21</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9977</id>
+  		<year>141</year>
+  		<seconds72>378000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>618</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>36</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10671</id>
+  		<year>146</year>
+  		<seconds72>84000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>854</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>48</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12314</id>
+  		<year>158</year>
+  		<seconds72>42000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>892</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>15</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12589</id>
+  		<year>160</year>
+  		<seconds72>42000</seconds72>
+  		<type>hf new pet</type>
+  		<group_hfid>953</group_hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>24</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+</historical_events>

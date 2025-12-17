@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>825</id>
+  		<name>mostod wanepasses</name>
+  		<race>RAVEN_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>141</appeared>
+  		<birth_year>128</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>145</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<hf_link>
+  			<link_type>deity</link_type>
+  			<hfid>44</hfid>
+  		</hf_link>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>27</entity_id>
+  			<link_strength>8</link_strength>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>49</entity_id>
+  		</entity_link>
+  		<entity_former_position_link>
+  			<position_profile_id>11</position_profile_id>
+  			<entity_id>27</entity_id>
+  			<start_year>145</start_year>
+  			<end_year>145</end_year>
+  		</entity_former_position_link>
+  		<hf_skill>
+  			<skill>CLIMBING</skill>
+  			<total_ip>18000</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>WRESTLING</skill>
+  			<total_ip>109</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>GRASP_STRIKE</skill>
+  			<total_ip>116</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>STANCE_STRIKE</skill>
+  			<total_ip>147</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DISCIPLINE</skill>
+  			<total_ip>181</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>372</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>353</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>ARMOR</skill>
+  			<total_ip>437</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SHIELD</skill>
+  			<total_ip>338</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1033</id>
+  		<name>smusla daubwarning</name>
+  		<race>RAVEN_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>351</appeared>
+  		<birth_year>343</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>419</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

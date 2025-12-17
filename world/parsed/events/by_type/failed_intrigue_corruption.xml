@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>9084</id>
+  		<year>132</year>
+  		<seconds72>210000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9094</id>
+  		<year>132</year>
+  		<seconds72>235200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9098</id>
+  		<year>132</year>
+  		<seconds72>294000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>668</target_hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bring into network</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>30</top_value_rating>
+  		<top_value_modifier>-10</top_value_modifier>
+  		<ally_defense_bonus>-4</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9099</id>
+  		<year>132</year>
+  		<seconds72>294000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9326</id>
+  		<year>134</year>
+  		<seconds72>243600</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9343</id>
+  		<year>134</year>
+  		<seconds72>394800</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9485</id>
+  		<year>136</year>
+  		<seconds72>210000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>flatter</method>
+  		<top_facet>vanity</top_facet>
+  		<top_facet_rating>43</top_facet_rating>
+  		<top_facet_modifier>-1</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>love</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9494</id>
+  		<year>136</year>
+  		<seconds72>252000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9637</id>
+  		<year>138</year>
+  		<seconds72>16800</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>640</corruptor_hfid>
+  		<target_hfid>817</target_hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>flatter</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>30</top_value_rating>
+  		<top_value_modifier>-10</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9743</id>
+  		<year>139</year>
+  		<seconds72>58800</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>771</corruptor_hfid>
+  		<target_hfid>619</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11226</id>
+  		<year>150</year>
+  		<seconds72>109200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>844</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11365</id>
+  		<year>150</year>
+  		<seconds72>378000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11444</id>
+  		<year>151</year>
+  		<seconds72>100800</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>854</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bring into network</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>58</top_facet_rating>
+  		<top_facet_modifier>-1</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<ally_defense_bonus>-1</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11445</id>
+  		<year>151</year>
+  		<seconds72>100800</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11453</id>
+  		<year>151</year>
+  		<seconds72>151200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>844</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11716</id>
+  		<year>153</year>
+  		<seconds72>25200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  		<ally_defense_bonus>-1</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11727</id>
+  		<year>153</year>
+  		<seconds72>75600</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>844</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  		<ally_defense_bonus>-1</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11751</id>
+  		<year>153</year>
+  		<seconds72>252000</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>844</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  		<ally_defense_bonus>-1</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11798</id>
+  		<year>153</year>
+  		<seconds72>361200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  		<ally_defense_bonus>-1</ally_defense_bonus>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11831</id>
+  		<year>154</year>
+  		<seconds72>50400</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11876</id>
+  		<year>154</year>
+  		<seconds72>277200</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>874</corruptor_hfid>
+  		<target_hfid>891</target_hfid>
+  		<site_id>17</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_facet>fearlessness</top_facet>
+  		<top_facet_rating>40</top_facet_rating>
+  		<top_facet_modifier>2</top_facet_modifier>
+  		<top_value>law</top_value>
+  		<top_value_rating>27</top_value_rating>
+  		<top_value_modifier>-9</top_value_modifier>
+  		<top_relationship_factor>fear</top_relationship_factor>
+  		<top_relationship_rating>27</top_relationship_rating>
+  		<top_relationship_modifier>-9</top_relationship_modifier>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12581</id>
+  		<year>160</year>
+  		<seconds72>0</seconds72>
+  		<type>failed intrigue corruption</type>
+  		<corruptor_hfid>717</corruptor_hfid>
+  		<target_hfid>960</target_hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<failed_judgment_test />
+  		<action>bribe official</action>
+  		<method>intimidate</method>
+  		<top_value>law</top_value>
+  		<top_value_rating>30</top_value_rating>
+  		<top_value_modifier>-10</top_value_modifier>
+  	</historical_event>
+	
+</historical_events>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>282</id>
+  		<year>4</year>
+  		<seconds72>0</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>75</changee_hfid>
+  		<changer_hfid>34</changer_hfid>
+  		<old_race>ELF</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_10</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>283</id>
+  		<year>4</year>
+  		<seconds72>8400</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>95</changee_hfid>
+  		<changer_hfid>35</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>FEMALE</old_caste>
+  		<new_race>NIGHT_CREATURE_9</new_race>
+  		<new_caste>FEMALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>328</id>
+  		<year>5</year>
+  		<seconds72>201600</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>82</changee_hfid>
+  		<changer_hfid>39</changer_hfid>
+  		<old_race>ELF</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_5</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>378</id>
+  		<year>7</year>
+  		<seconds72>193200</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>98</changee_hfid>
+  		<changer_hfid>37</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_7</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>659</id>
+  		<year>14</year>
+  		<seconds72>218400</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>79</changee_hfid>
+  		<changer_hfid>41</changer_hfid>
+  		<old_race>ELF</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_3</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>909</id>
+  		<year>19</year>
+  		<seconds72>8400</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>259</changee_hfid>
+  		<changer_hfid>43</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_1</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1402</id>
+  		<year>27</year>
+  		<seconds72>327600</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>269</changee_hfid>
+  		<changer_hfid>35</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>FEMALE</old_caste>
+  		<new_race>NIGHT_CREATURE_9</new_race>
+  		<new_caste>FEMALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1866</id>
+  		<year>35</year>
+  		<seconds72>58800</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>76</changee_hfid>
+  		<changer_hfid>42</changer_hfid>
+  		<old_race>ELF</old_race>
+  		<old_caste>FEMALE</old_caste>
+  		<new_race>NIGHT_CREATURE_2</new_race>
+  		<new_caste>FEMALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1867</id>
+  		<year>35</year>
+  		<seconds72>75600</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>342</changee_hfid>
+  		<changer_hfid>229</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_3</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1887</id>
+  		<year>35</year>
+  		<seconds72>327600</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>329</changee_hfid>
+  		<changer_hfid>34</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_10</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2787</id>
+  		<year>49</year>
+  		<seconds72>252000</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>367</changee_hfid>
+  		<changer_hfid>43</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_1</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3134</id>
+  		<year>53</year>
+  		<seconds72>302400</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>299</changee_hfid>
+  		<changer_hfid>41</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_3</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3143</id>
+  		<year>53</year>
+  		<seconds72>336000</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>430</changee_hfid>
+  		<changer_hfid>40</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>MALE</old_caste>
+  		<new_race>NIGHT_CREATURE_4</new_race>
+  		<new_caste>MALE</new_caste>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4072</id>
+  		<year>67</year>
+  		<seconds72>268800</seconds72>
+  		<type>changed creature type</type>
+  		<changee_hfid>482</changee_hfid>
+  		<changer_hfid>152</changer_hfid>
+  		<old_race>HUMAN</old_race>
+  		<old_caste>FEMALE</old_caste>
+  		<new_race>NIGHT_CREATURE_9</new_race>
+  		<new_caste>FEMALE</new_caste>
+  	</historical_event>
+	
+</historical_events>

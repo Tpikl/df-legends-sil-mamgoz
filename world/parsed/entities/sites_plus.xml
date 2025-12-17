@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<sites>
+  <site>
+  		<id>1</id>
+  	</site>
+	
+  <site>
+  		<id>2</id>
+  	</site>
+	
+  <site>
+  		<id>3</id>
+  	</site>
+	
+  <site>
+  		<civ_id>28</civ_id>
+  		<id>4</id>
+  	</site>
+	
+  <site>
+  		<civ_id>0</civ_id>
+  		<cur_owner_id>0</cur_owner_id>
+  		<id>5</id>
+  	</site>
+	
+  <site>
+  		<civ_id>1</civ_id>
+  		<cur_owner_id>1</cur_owner_id>
+  		<id>6</id>
+  	</site>
+	
+  <site>
+  		<civ_id>2</civ_id>
+  		<cur_owner_id>2</cur_owner_id>
+  		<id>7</id>
+  	</site>
+	
+  <site>
+  		<civ_id>26</civ_id>
+  		<id>8</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>inn_tavern</type>
+  				<name>The Cobalt Baker</name>
+  				<name2>Letmosnel</name2>
+  			</structure>
+  			<structure>
+  				<id>1</id>
+  				<type>guildhall</type>
+  				<name>The Gloved Armor</name>
+  				<name2>Regtosid</name2>
+  			</structure>
+  			<structure>
+  				<id>2</id>
+  				<type>guildhall</type>
+  				<name>The Blockaded Halls</name>
+  				<name2>Medtobîton</name2>
+  			</structure>
+  			<structure>
+  				<id>3</id>
+  				<type>guildhall</type>
+  				<name>The Conflict of Picks</name>
+  				<name2>Gemesh Tekkud</name2>
+  			</structure>
+  			<structure>
+  				<id>4</id>
+  				<type>temple</type>
+  				<name>The Sanctuary of Larks</name>
+  				<name2>Rovol ìddor</name2>
+  				<deity_type>1</deity_type>
+  				<religion>46</religion>
+  			</structure>
+  			<structure>
+  				<id>5</id>
+  				<type>dungeon</type>
+  				<name>The Rapid Mines</name>
+  				<name2>Asàsavuz</name2>
+  				<dungeon_type>2</dungeon_type>
+  			</structure>
+  			<structure>
+  				<id>6</id>
+  				<type>guildhall</type>
+  				<name>The Lacy Entrance</name>
+  				<name2>Vakistkemsor</name2>
+  			</structure>
+  			<structure>
+  				<id>7</id>
+  				<type>tomb</type>
+  				<name>The Grave of Lashing</name>
+  				<name2>Mondûl Meng</name2>
+  			</structure>
+  		</structures>
+  	</site>
+	
+  <site>
+  		<civ_id>30</civ_id>
+  		<id>9</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>market</type>
+  				<name>The Fancy Habit</name>
+  				<name2>Vipalathiru</name2>
+  			</structure>
+  		</structures>
+  	</site>
+	
+  <site>
+  		<civ_id>32</civ_id>
+  		<id>10</id>
+  	</site>
+	
+  <site>
+  		<civ_id>30</civ_id>
+  		<id>11</id>
+  	</site>
+	
+  <site>
+  		<civ_id>26</civ_id>
+  		<id>12</id>
+  	</site>
+	
+  <site>
+  		<civ_id>32</civ_id>
+  		<id>13</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>mead_hall</type>
+  				<name>The Tiredness of Taxes</name>
+  				<name2>Sug Luto</name2>
+  			</structure>
+  		</structures>
+  	</site>
+	
+  <site>
+  		<civ_id>30</civ_id>
+  		<id>14</id>
+  	</site>
+	
+  <site>
+  		<civ_id>26</civ_id>
+  		<id>15</id>
+  	</site>
+	
+  <site>
+  		<civ_id>26</civ_id>
+  		<id>16</id>
+  	</site>
+	
+  <site>
+  		<civ_id>32</civ_id>
+  		<id>17</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>mead_hall</type>
+  				<name>The Sculpted Sacrifice</name>
+  				<name2>Uthramido</name2>
+  			</structure>
+  		</structures>
+  	</site>
+	
+  <site>
+  		<civ_id>32</civ_id>
+  		<id>18</id>
+  	</site>
+	
+  <site>
+  		<civ_id>32</civ_id>
+  		<id>19</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>tomb</type>
+  				<name>The Crypt of Paths</name>
+  				<name2>Gogol Anur</name2>
+  			</structure>
+  			<structure>
+  				<id>1</id>
+  				<type>tomb</type>
+  				<name>The Tomb of Dyes</name>
+  				<name2>Lomoth Asseg</name2>
+  			</structure>
+  			<structure>
+  				<id>2</id>
+  				<type>tomb</type>
+  				<name>The Wonder Crypts of Voicing</name>
+  				<name2>Ashigogol Perad</name2>
+  			</structure>
+  			<structure>
+  				<id>3</id>
+  				<type>tomb</type>
+  				<name>The Wayward Tomb</name>
+  				<name2>Lestruhlomoth</name2>
+  			</structure>
+  			<structure>
+  				<id>4</id>
+  				<type>tomb</type>
+  				<name>The Fed Crypts</name>
+  				<name2>Lapagogol</name2>
+  			</structure>
+  			<structure>
+  				<id>5</id>
+  				<type>tomb</type>
+  				<name>The Crypts of Chucking</name>
+  				<name2>Gogol Cok</name2>
+  			</structure>
+  		</structures>
+  	</site>
+	
+  <site>
+  		<civ_id>52</civ_id>
+  		<cur_owner_id>52</cur_owner_id>
+  		<id>20</id>
+  	</site>
+	
+  <site>
+  		<id>21</id>
+  	</site>
+	
+  <site>
+  		<id>22</id>
+  	</site>
+	
+  <site>
+  		<id>23</id>
+  	</site>
+	
+  <site>
+  		<id>24</id>
+  	</site>
+	
+  <site>
+  		<id>25</id>
+  	</site>
+	
+  <site>
+  		<id>26</id>
+  	</site>
+	
+  <site>
+  		<id>27</id>
+  	</site>
+	
+  <site>
+  		<id>28</id>
+  	</site>
+	
+  <site>
+  		<id>29</id>
+  	</site>
+	
+  <site>
+  		<id>30</id>
+  	</site>
+	
+  <site>
+  		<id>31</id>
+  	</site>
+	
+  <site>
+  		<id>32</id>
+  	</site>
+	
+  <site>
+  		<id>33</id>
+  	</site>
+	
+  <site>
+  		<id>34</id>
+  	</site>
+	
+  <site>
+  		<id>35</id>
+  	</site>
+	
+  <site>
+  		<id>36</id>
+  	</site>
+	
+  <site>
+  		<id>37</id>
+  	</site>
+	
+  <site>
+  		<id>38</id>
+  	</site>
+	
+  <site>
+  		<id>39</id>
+  	</site>
+	
+  <site>
+  		<id>40</id>
+  	</site>
+	
+  <site>
+  		<id>41</id>
+  	</site>
+	
+  <site>
+  		<id>42</id>
+  	</site>
+	
+  <site>
+  		<id>43</id>
+  	</site>
+	
+  <site>
+  		<id>44</id>
+  	</site>
+	
+  <site>
+  		<id>45</id>
+  	</site>
+	
+  <site>
+  		<id>46</id>
+  	</site>
+	
+  <site>
+  		<id>47</id>
+  	</site>
+	
+  <site>
+  		<id>48</id>
+  	</site>
+	
+  <site>
+  		<id>49</id>
+  	</site>
+	
+  <site>
+  		<id>50</id>
+  	</site>
+	
+  <site>
+  		<id>51</id>
+  	</site>
+	
+  <site>
+  		<id>52</id>
+  	</site>
+	
+  <site>
+  		<id>53</id>
+  	</site>
+	
+  <site>
+  		<id>54</id>
+  	</site>
+	
+  <site>
+  		<id>55</id>
+  	</site>
+	
+  <site>
+  		<id>56</id>
+  	</site>
+	
+  <site>
+  		<id>57</id>
+  	</site>
+	
+  <site>
+  		<id>58</id>
+  	</site>
+	
+  <site>
+  		<id>59</id>
+  	</site>
+	
+  <site>
+  		<id>60</id>
+  	</site>
+	
+  <site>
+  		<id>61</id>
+  	</site>
+	
+  <site>
+  		<id>62</id>
+  	</site>
+	
+  <site>
+  		<id>63</id>
+  	</site>
+	
+  <site>
+  		<id>64</id>
+  	</site>
+	
+  <site>
+  		<id>65</id>
+  	</site>
+	
+  <site>
+  		<id>66</id>
+  	</site>
+	
+  <site>
+  		<id>67</id>
+  	</site>
+	
+  <site>
+  		<id>68</id>
+  	</site>
+	
+  <site>
+  		<id>69</id>
+  	</site>
+	
+  <site>
+  		<id>70</id>
+  	</site>
+	
+  <site>
+  		<id>71</id>
+  	</site>
+	
+  <site>
+  		<id>72</id>
+  	</site>
+	
+  <site>
+  		<id>73</id>
+  	</site>
+	
+  <site>
+  		<id>74</id>
+  	</site>
+	
+  <site>
+  		<id>75</id>
+  	</site>
+
+</sites>

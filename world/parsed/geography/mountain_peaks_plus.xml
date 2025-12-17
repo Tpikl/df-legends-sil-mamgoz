@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends_plus.xml -->
+<mountain_peaks>
+  <mountain_peak>
+  		<id>0</id>
+  		<name>The Pinnacles of Decency</name>
+  		<coords>8,16</coords>
+  		<height>264</height>
+  	</mountain_peak>
+	
+  <mountain_peak>
+  		<id>1</id>
+  		<name>The Hale Fountains</name>
+  		<coords>12,24</coords>
+  		<height>167</height>
+  		<is_volcano />
+  	</mountain_peak>
+
+</mountain_peaks>

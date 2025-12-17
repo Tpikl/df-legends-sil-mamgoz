@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1281</id>
+  		<year>26</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1287</id>
+  		<year>26</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>4</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>165</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1364</id>
+  		<year>27</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>5</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>3</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1420</id>
+  		<year>28</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>6</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>4</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1732</id>
+  		<year>33</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>8</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>5</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1971</id>
+  		<year>37</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>9</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>243</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2093</id>
+  		<year>38</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>10</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>6</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2287</id>
+  		<year>40</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>11</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>244</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2417</id>
+  		<year>43</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>12</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>283</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2689</id>
+  		<year>47</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>14</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>26</entity_id>
+  		<position_profile_id>2</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2886</id>
+  		<year>51</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>45</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3465</id>
+  		<year>59</year>
+  		<seconds72>50400</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>219</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3748</id>
+  		<year>62</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>18</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>285</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3924</id>
+  		<year>66</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>18</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5600</id>
+  		<year>88</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>45</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6611</id>
+  		<year>103</year>
+  		<seconds72>126000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>223</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6943</id>
+  		<year>107</year>
+  		<seconds72>109200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>483</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7233</id>
+  		<year>111</year>
+  		<seconds72>394800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>10</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>106</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7418</id>
+  		<year>114</year>
+  		<seconds72>67200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>17</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7988</id>
+  		<year>121</year>
+  		<seconds72>67200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>717</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8018</id>
+  		<year>121</year>
+  		<seconds72>193200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>692</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8140</id>
+  		<year>122</year>
+  		<seconds72>394800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>640</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9083</id>
+  		<year>132</year>
+  		<seconds72>210000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>771</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10090</id>
+  		<year>142</year>
+  		<seconds72>117600</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>828</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10247</id>
+  		<year>143</year>
+  		<seconds72>201600</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>185</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10403</id>
+  		<year>144</year>
+  		<seconds72>277200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>833</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10676</id>
+  		<year>146</year>
+  		<seconds72>134400</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>844</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>11364</id>
+  		<year>150</year>
+  		<seconds72>378000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>874</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12243</id>
+  		<year>157</year>
+  		<seconds72>92400</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>932</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12374</id>
+  		<year>158</year>
+  		<seconds72>327600</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>921</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12640</id>
+  		<year>160</year>
+  		<seconds72>218400</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>762</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12702</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>6</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>27</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12706</id>
+  		<year>161</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>4</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>27</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12746</id>
+  		<year>161</year>
+  		<seconds72>92400</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>14</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>106</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12915</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>11</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>576</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12917</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>5</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>576</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12919</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>4</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>576</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12922</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>3</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>52</entity_id>
+  		<position_profile_id>0</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13030</id>
+  		<year>162</year>
+  		<seconds72>319200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>6</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>261</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13191</id>
+  		<year>164</year>
+  		<seconds72>75600</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>243</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13236</id>
+  		<year>164</year>
+  		<seconds72>201600</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>16</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13521</id>
+  		<year>166</year>
+  		<seconds72>294000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>6</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13764</id>
+  		<year>169</year>
+  		<seconds72>67200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>24</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13780</id>
+  		<year>169</year>
+  		<seconds72>235200</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>36</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>107</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14144</id>
+  		<year>174</year>
+  		<seconds72>42000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>9</artifact_id>
+  		<claim>heirloom</claim>
+  		<hist_figure_id>106</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14496</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>12</artifact_id>
+  		<claim>symbol</claim>
+  		<hist_figure_id>-1</hist_figure_id>
+  		<entity_id>52</entity_id>
+  		<position_profile_id>0</position_profile_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14527</id>
+  		<year>192</year>
+  		<seconds72>336000</seconds72>
+  		<type>artifact claim formed</type>
+  		<artifact_id>8</artifact_id>
+  		<claim>treasure</claim>
+  		<hist_figure_id>799</hist_figure_id>
+  		<entity_id>-1</entity_id>
+  		<position_profile_id>-1</position_profile_id>
+  		<circumstance>from afar</circumstance>
+  	</historical_event>
+	
+</historical_events>

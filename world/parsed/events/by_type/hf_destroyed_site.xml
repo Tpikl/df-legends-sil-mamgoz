@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>175</id>
+  		<year>2</year>
+  		<seconds72>0</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>33</attacker_hfid>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>35</site_civ_id>
+  		<site_id>12</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>332</id>
+  		<year>5</year>
+  		<seconds72>352800</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>30</defender_civ_id>
+  		<site_civ_id>34</site_civ_id>
+  		<site_id>11</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>873</id>
+  		<year>17</year>
+  		<seconds72>352800</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>28</defender_civ_id>
+  		<site_civ_id>29</site_civ_id>
+  		<site_id>4</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1006</id>
+  		<year>20</year>
+  		<seconds72>336000</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>1</attacker_hfid>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>39</site_civ_id>
+  		<site_id>12</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2160</id>
+  		<year>38</year>
+  		<seconds72>369600</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>32</defender_civ_id>
+  		<site_civ_id>33</site_civ_id>
+  		<site_id>10</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2381</id>
+  		<year>42</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>38</site_civ_id>
+  		<site_id>15</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5786</id>
+  		<year>91</year>
+  		<seconds72>344400</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>32</attacker_hfid>
+  		<defender_civ_id>32</defender_civ_id>
+  		<site_civ_id>44</site_civ_id>
+  		<site_id>18</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5831</id>
+  		<year>92</year>
+  		<seconds72>310800</seconds72>
+  		<type>hf destroyed site</type>
+  		<attacker_hfid>0</attacker_hfid>
+  		<defender_civ_id>32</defender_civ_id>
+  		<site_civ_id>36</site_civ_id>
+  		<site_id>13</site_id>
+  	</historical_event>
+	
+</historical_events>

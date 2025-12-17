@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>368</id>
+  		<year>7</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>123</hfid>
+  		<hfid_target>51</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>509</id>
+  		<year>11</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>62</hfid>
+  		<hfid_target>167</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>878</id>
+  		<year>18</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>184</hfid>
+  		<hfid_target>201</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>966</id>
+  		<year>20</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>51</hfid>
+  		<hfid_target>167</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1232</id>
+  		<year>25</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>225</hfid>
+  		<hfid_target>221</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1407</id>
+  		<year>28</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>214</hfid>
+  		<hfid_target>219</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1784</id>
+  		<year>34</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>184</hfid>
+  		<hfid_target>249</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2362</id>
+  		<year>42</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>147</hfid>
+  		<hfid_target>197</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2763</id>
+  		<year>49</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>244</hfid>
+  		<hfid_target>192</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2875</id>
+  		<year>51</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>256</hfid>
+  		<hfid_target>253</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3384</id>
+  		<year>58</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>147</hfid>
+  		<hfid_target>253</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3435</id>
+  		<year>59</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>213</hfid>
+  		<hfid_target>51</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3612</id>
+  		<year>61</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>348</hfid>
+  		<hfid_target>422</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3847</id>
+  		<year>64</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>226</hfid>
+  		<hfid_target>222</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4383</id>
+  		<year>72</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>221</hfid>
+  		<hfid_target>213</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4839</id>
+  		<year>78</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>208</hfid>
+  		<hfid_target>149</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5408</id>
+  		<year>85</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>261</hfid>
+  		<hfid_target>236</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5501</id>
+  		<year>87</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>167</hfid>
+  		<hfid_target>364</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5650</id>
+  		<year>89</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>220</hfid>
+  		<hfid_target>227</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5920</id>
+  		<year>95</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>219</hfid>
+  		<hfid_target>214</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5993</id>
+  		<year>96</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>221</hfid>
+  		<hfid_target>226</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6320</id>
+  		<year>100</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>364</hfid>
+  		<hfid_target>167</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6409</id>
+  		<year>101</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>618</hfid>
+  		<hfid_target>619</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6414</id>
+  		<year>101</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>396</hfid>
+  		<hfid_target>387</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6708</id>
+  		<year>104</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>185</hfid>
+  		<hfid_target>173</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6793</id>
+  		<year>105</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>225</hfid>
+  		<hfid_target>51</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8230</id>
+  		<year>124</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>208</hfid>
+  		<hfid_target>243</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8296</id>
+  		<year>125</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>226</hfid>
+  		<hfid_target>261</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8791</id>
+  		<year>130</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>236</hfid>
+  		<hfid_target>396</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9441</id>
+  		<year>136</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>723</hfid>
+  		<hfid_target>683</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10444</id>
+  		<year>145</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf hf link</type>
+  		<hfid>709</hfid>
+  		<hfid_target>720</hfid_target>
+  	</historical_event>
+	
+</historical_events>

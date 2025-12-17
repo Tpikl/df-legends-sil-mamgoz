@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>976</id>
+  		<name>dunguk cloutspoiled</name>
+  		<race>HYENA_MAN</race>
+  		<caste>FEMALE</caste>
+  		<appeared>176</appeared>
+  		<birth_year>165</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>183</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>former member</link_type>
+  			<entity_id>55</entity_id>
+  			<link_strength>1</link_strength>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>WRESTLING</skill>
+  			<total_ip>146</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>GRASP_STRIKE</skill>
+  			<total_ip>68</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>STANCE_STRIKE</skill>
+  			<total_ip>71</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DISCIPLINE</skill>
+  			<total_ip>207</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>222</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>347</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>ARMOR</skill>
+  			<total_ip>271</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>SHIELD</skill>
+  			<total_ip>527</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+</historical_figures>

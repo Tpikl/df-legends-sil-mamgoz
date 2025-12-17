@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>112</id>
+  		<name>libash commonforked</name>
+  		<race>TROGLODYTE</race>
+  		<caste>MALE</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-13</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>39</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>591</id>
+  		<name>vafice catchcackles</name>
+  		<race>TROGLODYTE</race>
+  		<caste>MALE</caste>
+  		<appeared>90</appeared>
+  		<birth_year>75</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>135</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

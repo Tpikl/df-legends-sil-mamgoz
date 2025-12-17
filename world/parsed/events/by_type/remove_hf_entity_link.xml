@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>1611</id>
+  		<year>31</year>
+  		<seconds72>67200</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>27</civ_id>
+  		<link>position</link>
+  		<hfid>222</hfid>
+  		<position_id>11</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1670</id>
+  		<year>32</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>46</civ_id>
+  		<link>member</link>
+  		<hfid>329</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2473</id>
+  		<year>43</year>
+  		<seconds72>210000</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>43</civ_id>
+  		<link>position</link>
+  		<hfid>163</hfid>
+  		<position_id>3</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2767</id>
+  		<year>49</year>
+  		<seconds72>25200</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>183</hfid>
+  		<position_id>3</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>3378</id>
+  		<year>57</year>
+  		<seconds72>394800</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>244</hfid>
+  		<position_id>3</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4790</id>
+  		<year>76</year>
+  		<seconds72>394800</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>199</hfid>
+  		<position_id>2</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5493</id>
+  		<year>86</year>
+  		<seconds72>243600</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>236</hfid>
+  		<position_id>3</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6528</id>
+  		<year>102</year>
+  		<seconds72>285600</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>215</hfid>
+  		<position_id>1</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>6582</id>
+  		<year>102</year>
+  		<seconds72>394800</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>233</hfid>
+  		<position_id>2</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8703</id>
+  		<year>128</year>
+  		<seconds72>176400</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>45</civ_id>
+  		<link>position</link>
+  		<hfid>233</hfid>
+  		<position_id>1</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9179</id>
+  		<year>133</year>
+  		<seconds72>176400</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>43</civ_id>
+  		<link>position</link>
+  		<hfid>166</hfid>
+  		<position_id>2</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9226</id>
+  		<year>133</year>
+  		<seconds72>386400</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>43</civ_id>
+  		<link>position</link>
+  		<hfid>243</hfid>
+  		<position_id>3</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>9984</id>
+  		<year>142</year>
+  		<seconds72>-1</seconds72>
+  		<type>remove hf entity link</type>
+  		<civ_id>46</civ_id>
+  		<link>member</link>
+  		<hfid>821</hfid>
+  	</historical_event>
+	
+</historical_events>

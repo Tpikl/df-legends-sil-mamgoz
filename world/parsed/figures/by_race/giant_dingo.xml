@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>111</id>
+  		<name>shal sparkscalded</name>
+  		<race>GIANT_DINGO</race>
+  		<caste>MALE</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-2</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>16</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>296</id>
+  		<name>imaz couplecoiled</name>
+  		<race>GIANT_DINGO</race>
+  		<caste>FEMALE</caste>
+  		<appeared>27</appeared>
+  		<birth_year>24</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>36</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>381</id>
+  		<name>pathril cacklesquirt</name>
+  		<race>GIANT_DINGO</race>
+  		<caste>MALE</caste>
+  		<appeared>41</appeared>
+  		<birth_year>40</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>58</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>416</id>
+  		<name>kal hollowtwig</name>
+  		<race>GIANT_DINGO</race>
+  		<caste>FEMALE</caste>
+  		<appeared>49</appeared>
+  		<birth_year>47</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>57</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>474</id>
+  		<name>naturalghost</name>
+  		<race>GIANT_DINGO</race>
+  		<caste>MALE</caste>
+  		<appeared>62</appeared>
+  		<birth_year>58</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>71</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>27</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>45</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

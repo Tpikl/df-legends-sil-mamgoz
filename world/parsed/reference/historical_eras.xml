@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_eras>
+  <historical_era>
+  		<name>Age of Myth</name>
+  		<start_year>-1</start_year>
+  	</historical_era>
+	
+  <historical_era>
+  		<name>Age of Legends</name>
+  		<start_year>96</start_year>
+  	</historical_era>
+	
+  <historical_era>
+  		<name>Golden Age</name>
+  		<start_year>154</start_year>
+  	</historical_era>
+
+</historical_eras>

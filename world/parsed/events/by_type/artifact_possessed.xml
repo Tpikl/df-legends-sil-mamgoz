@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>3362</id>
+  		<year>57</year>
+  		<seconds72>117600</seconds72>
+  		<type>artifact possessed</type>
+  		<artifact_id>17</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>219</hist_figure_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8228</id>
+  		<year>124</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact possessed</type>
+  		<artifact_id>6</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>668</hist_figure_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<reason>artifact is symbol of entity position</reason>
+  		<reason_id>26</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>8585</id>
+  		<year>128</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact possessed</type>
+  		<artifact_id>14</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>762</hist_figure_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<reason>artifact is symbol of entity position</reason>
+  		<reason_id>26</reason_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10442</id>
+  		<year>145</year>
+  		<seconds72>-1</seconds72>
+  		<type>artifact possessed</type>
+  		<artifact_id>5</artifact_id>
+  		<unit_id>-1</unit_id>
+  		<hist_figure_id>232</hist_figure_id>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<reason>artifact is symbol of entity position</reason>
+  		<reason_id>26</reason_id>
+  	</historical_event>
+	
+</historical_events>

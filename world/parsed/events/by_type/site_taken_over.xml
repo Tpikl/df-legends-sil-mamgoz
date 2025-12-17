@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>12506</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>54</new_site_civ_id>
+  		<defender_civ_id>32</defender_civ_id>
+  		<site_civ_id>42</site_civ_id>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12521</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>56</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>40</site_civ_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12913</id>
+  		<year>162</year>
+  		<seconds72>142800</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>58</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>27</site_civ_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14493</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>59</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>55</site_civ_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14506</id>
+  		<year>192</year>
+  		<seconds72>252000</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>60</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>55</site_civ_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15871</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>61</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>57</site_civ_id>
+  		<site_id>4</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>15878</id>
+  		<year>234</year>
+  		<seconds72>226800</seconds72>
+  		<type>site taken over</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<new_site_civ_id>62</new_site_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>57</site_civ_id>
+  		<site_id>4</site_id>
+  	</historical_event>
+	
+</historical_events>

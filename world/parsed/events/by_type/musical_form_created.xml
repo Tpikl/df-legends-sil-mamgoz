@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>5481</id>
+  		<year>86</year>
+  		<seconds72>67200</seconds72>
+  		<type>musical form created</type>
+  		<hist_figure_id>132</hist_figure_id>
+  		<form_id>13</form_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+</historical_events>

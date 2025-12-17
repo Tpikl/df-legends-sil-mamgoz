@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>12607</id>
+  		<year>160</year>
+  		<seconds72>109200</seconds72>
+  		<type>entity alliance formed</type>
+  		<initiating_enid>26</initiating_enid>
+  		<joining_enid>30</joining_enid>
+  		<joining_enid>32</joining_enid>
+  	</historical_event>
+	
+</historical_events>

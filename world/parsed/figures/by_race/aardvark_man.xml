@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>1000</id>
+  		<name>rab foldedpine</name>
+  		<race>AARDVARK_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>234</appeared>
+  		<birth_year>228</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>297</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1030</id>
+  		<name>liriva distanttrusted</name>
+  		<race>AARDVARK_MAN</race>
+  		<caste>MALE</caste>
+  		<appeared>343</appeared>
+  		<birth_year>331</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>402</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  	</historical_figure>
+	
+</historical_figures>

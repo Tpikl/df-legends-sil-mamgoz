@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>124</id>
+  		<year>1</year>
+  		<seconds72>92400</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>236</id>
+  		<year>3</year>
+  		<seconds72>16800</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>379</id>
+  		<year>7</year>
+  		<seconds72>201600</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>606</id>
+  		<year>13</year>
+  		<seconds72>84000</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>751</id>
+  		<year>16</year>
+  		<seconds72>16800</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>884</id>
+  		<year>18</year>
+  		<seconds72>42000</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1001</id>
+  		<year>20</year>
+  		<seconds72>210000</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1059</id>
+  		<year>21</year>
+  		<seconds72>268800</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>1639</id>
+  		<year>31</year>
+  		<seconds72>243600</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2125</id>
+  		<year>38</year>
+  		<seconds72>201600</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>5211</id>
+  		<year>82</year>
+  		<seconds72>193200</seconds72>
+  		<type>create entity position</type>
+  	</historical_event>
+	
+</historical_events>

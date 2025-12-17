@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>33</id>
+  		<name>pado strappeddune the lush flax of mists</name>
+  		<race>TITAN_2</race>
+  		<caste>DEFAULT</caste>
+  		<appeared>1</appeared>
+  		<birth_year>-187</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>23</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>29</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>28</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>31</entity_id>
+  		</entity_link>
+  		<entity_link>
+  			<link_type>enemy</link_type>
+  			<entity_id>30</entity_id>
+  		</entity_link>
+  		<sphere>rivers</sphere>
+  		<sphere>nature</sphere>
+  		<sphere>animals</sphere>
+  		<sphere>plants</sphere>
+  		<sphere>trees</sphere>
+  		<hf_skill>
+  			<skill>SITUATIONAL_AWARENESS</skill>
+  			<total_ip>18000</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>DODGING</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>MELEE_COMBAT</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>STANCE_STRIKE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>GRASP_STRIKE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>BITE</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  		<hf_skill>
+  			<skill>WRESTLING</skill>
+  			<total_ip>4500</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+</historical_figures>

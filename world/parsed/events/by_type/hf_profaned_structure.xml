@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>6529</id>
+  		<year>102</year>
+  		<seconds72>294000</seconds72>
+  		<type>hf profaned structure</type>
+  		<hist_fig_id>223</hist_fig_id>
+  		<site_id>8</site_id>
+  		<structure_id>4</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>7825</id>
+  		<year>120</year>
+  		<seconds72>142800</seconds72>
+  		<type>hf profaned structure</type>
+  		<hist_fig_id>640</hist_fig_id>
+  		<site_id>8</site_id>
+  		<structure_id>4</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>10034</id>
+  		<year>142</year>
+  		<seconds72>58800</seconds72>
+  		<type>hf profaned structure</type>
+  		<hist_fig_id>185</hist_fig_id>
+  		<site_id>8</site_id>
+  		<structure_id>4</structure_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12041</id>
+  		<year>155</year>
+  		<seconds72>378000</seconds72>
+  		<type>hf profaned structure</type>
+  		<hist_fig_id>208</hist_fig_id>
+  		<site_id>8</site_id>
+  		<structure_id>4</structure_id>
+  	</historical_event>
+	
+</historical_events>

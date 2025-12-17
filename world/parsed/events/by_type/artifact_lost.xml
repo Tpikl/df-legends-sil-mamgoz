@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>2053</id>
+  		<year>37</year>
+  		<seconds72>310800</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>8</artifact_id>
+  		<site_id>15</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4860</id>
+  		<year>78</year>
+  		<seconds72>134400</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>13</artifact_id>
+  		<site_id>17</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12536</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>4</artifact_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12542</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>6</artifact_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>12545</id>
+  		<year>159</year>
+  		<seconds72>319200</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>5</artifact_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>13971</id>
+  		<year>171</year>
+  		<seconds72>176400</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>8</artifact_id>
+  		<site_id>8</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>14420</id>
+  		<year>184</year>
+  		<seconds72>58800</seconds72>
+  		<type>artifact lost</type>
+  		<artifact_id>12</artifact_id>
+  		<site_id>16</site_id>
+  	</historical_event>
+	
+</historical_events>

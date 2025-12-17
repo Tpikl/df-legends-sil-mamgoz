@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>620</id>
+  		<year>13</year>
+  		<seconds72>352800</seconds72>
+  		<type>site dispute</type>
+  		<dispute>rights-of-way</dispute>
+  		<entity_id_1>38</entity_id_1>
+  		<entity_id_2>39</entity_id_2>
+  		<site_id_1>15</site_id_1>
+  		<site_id_2>12</site_id_2>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>2394</id>
+  		<year>42</year>
+  		<seconds72>226800</seconds72>
+  		<type>site dispute</type>
+  		<dispute>grazing rights</dispute>
+  		<entity_id_1>44</entity_id_1>
+  		<entity_id_2>36</entity_id_2>
+  		<site_id_1>18</site_id_1>
+  		<site_id_2>13</site_id_2>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4547</id>
+  		<year>74</year>
+  		<seconds72>285600</seconds72>
+  		<type>site dispute</type>
+  		<dispute>water rights</dispute>
+  		<entity_id_1>44</entity_id_1>
+  		<entity_id_2>36</entity_id_2>
+  		<site_id_1>18</site_id_1>
+  		<site_id_2>13</site_id_2>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4708</id>
+  		<year>76</year>
+  		<seconds72>159600</seconds72>
+  		<type>site dispute</type>
+  		<dispute>territory</dispute>
+  		<entity_id_1>44</entity_id_1>
+  		<entity_id_2>36</entity_id_2>
+  		<site_id_1>18</site_id_1>
+  		<site_id_2>13</site_id_2>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4740</id>
+  		<year>76</year>
+  		<seconds72>243600</seconds72>
+  		<type>site dispute</type>
+  		<dispute>rights-of-way</dispute>
+  		<entity_id_1>44</entity_id_1>
+  		<entity_id_2>36</entity_id_2>
+  		<site_id_1>18</site_id_1>
+  		<site_id_2>13</site_id_2>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>4788</id>
+  		<year>76</year>
+  		<seconds72>361200</seconds72>
+  		<type>site dispute</type>
+  		<dispute>grazing rights</dispute>
+  		<entity_id_1>44</entity_id_1>
+  		<entity_id_2>36</entity_id_2>
+  		<site_id_1>18</site_id_1>
+  		<site_id_2>13</site_id_2>
+  	</historical_event>
+	
+</historical_events>
