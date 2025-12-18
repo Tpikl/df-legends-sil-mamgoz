@@ -518,9 +518,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>6</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>CLIMBING</skill>
   			<total_ip>18000</total_ip>

@@ -191,4 +191,14 @@
   		<interaction>DEITY_CURSE_WEREBEAST_iguana_BITE</interaction>
   	</historical_event>
 	
+  <historical_event>
+  		<id>17895</id>
+  		<year>500</year>
+  		<seconds72>150004</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>1103</doer_hfid>
+  		<target_hfid>1073</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
 </historical_events>

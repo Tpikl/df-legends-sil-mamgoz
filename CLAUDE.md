@@ -8,8 +8,13 @@ This project extracts and transforms Dwarf Fortress legends data into readable n
 df-claude-legends/
 ├── world/                        # Dwarf Fortress world data
 │   ├── SilMamgoz/                # Raw DF save files (do not touch)
-│   ├── *-legends.xml             # Standard legends export from DF
-│   ├── *-legends_plus.xml        # Extended legends export from DFHack
+│   ├── legends/                  # Legends exports organized by year
+│   │   ├── 500/                  # Year 500 exports
+│   │   │   ├── *-legends.xml     # Standard legends export from DF
+│   │   │   └── *-legends_plus.xml # Extended export from DFHack
+│   │   └── 501/                  # Year 501 exports (latest)
+│   │       ├── *-legends.xml
+│   │       └── *-legends_plus.xml
 │   └── parsed/                   # Split XML files (see below)
 ├── stories/                      # Generated narratives and character studies
 │   └── {character}/              # Per-character story folders
@@ -23,8 +28,12 @@ df-claude-legends/
 ### `world/SilMamgoz/`
 Raw Dwarf Fortress save data. **Leave this alone.** Contains compressed game data.
 
-### `world/*.xml`
-The original monolithic legends XML files. Keep as source of truth but **prefer using parsed/ files** for lookups.
+### `world/legends/{year}/`
+Legends exports organized by in-game year. Each folder contains:
+- `*-legends.xml` - Standard legends export from DF
+- `*-legends_plus.xml` - Extended export from DFHack with additional data
+
+The latest year folder contains the most complete history. Keep these as source of truth but **prefer using parsed/ files** for lookups.
 
 ### `world/parsed/` (Preferred for lookups)
 Pre-split XML files organized by category. **Use these instead of the monolithic XMLs** to avoid loading unnecessary data.
@@ -73,9 +82,10 @@ Contains narrative documents crafted from the legends data. Organized by subject
 4. **Get civilization info**: Check `parsed/entities/entities_plus.xml`
 
 ### Regenerating Parsed Files
-If the source legends XMLs are updated, regenerate with:
+Parse the latest year's legends data into smaller files:
 ```bash
-python3 scripts/parse_legends.py
+python3 scripts/parse_legends.py          # Parses latest year (auto-detected)
+python3 scripts/parse_legends.py 501      # Parse specific year
 ```
 
 ### Creating Narratives

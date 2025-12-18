@@ -697,5 +697,33 @@
   		<coords>20,8</coords>
   		<rectangle>335,142:335,142</rectangle>
   	</site>
+	
+  <site>
+  		<id>76</id>
+  		<type>fortress</type>
+  		<name>swordreveres</name>
+  		<coords>12,24</coords>
+  		<rectangle>199,391:203,395</rectangle>
+  	</site>
+	
+  <site>
+  		<id>77</id>
+  		<type>fortress</type>
+  		<name>violentwhipped</name>
+  		<coords>23,10</coords>
+  		<rectangle>378,159:380,161</rectangle>
+  		<structures>
+  		<structure>
+  			<local_id>0</local_id>
+  			<type>temple</type>
+  			<name>the creed of splitting</name>
+  		</structure>
+  		<structure>
+  			<local_id>1</local_id>
+  			<type>inn tavern</type>
+  			<name>the plum of paddles</name>
+  		</structure>
+  		</structures>
+  	</site>
 
 </sites>

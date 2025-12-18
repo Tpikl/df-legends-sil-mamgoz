@@ -4,10 +4,15 @@ Parse Dwarf Fortress legends XML files into organized smaller files.
 
 This script splits the monolithic legends.xml and legends_plus.xml files
 into smaller, categorized XML files for easier consumption.
+
+Usage:
+    python3 parse_legends.py          # Parse latest year (auto-detected)
+    python3 parse_legends.py 501      # Parse specific year
 """
 
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
@@ -15,12 +20,45 @@ from pathlib import Path
 
 # Configuration
 WORLD_DIR = Path(__file__).parent.parent / "world"
-LEGENDS_FILE = WORLD_DIR / "SilMamgoz-00500-01-01-legends.xml"
-LEGENDS_PLUS_FILE = WORLD_DIR / "SilMamgoz-00500-01-01-legends_plus.xml"
+LEGENDS_DIR = WORLD_DIR / "legends"
 OUTPUT_DIR = WORLD_DIR / "parsed"
 
 # Year range size for event splitting
 YEAR_RANGE_SIZE = 50
+
+
+def find_legends_files(year: int = None) -> tuple[Path, Path, int]:
+    """Find legends XML files for a given year, or the latest available year."""
+    if not LEGENDS_DIR.exists():
+        raise FileNotFoundError(f"Legends directory not found: {LEGENDS_DIR}")
+
+    # Get all year folders (numeric names)
+    year_folders = sorted([
+        int(d.name) for d in LEGENDS_DIR.iterdir()
+        if d.is_dir() and d.name.isdigit()
+    ])
+
+    if not year_folders:
+        raise FileNotFoundError("No year folders found in legends directory")
+
+    # Use specified year or latest
+    target_year = year if year is not None else max(year_folders)
+
+    if target_year not in year_folders:
+        raise FileNotFoundError(f"Year {target_year} not found. Available: {year_folders}")
+
+    year_dir = LEGENDS_DIR / str(target_year)
+
+    # Find the XML files in the year folder
+    legends_files = list(year_dir.glob("*-legends.xml"))
+    legends_plus_files = list(year_dir.glob("*-legends_plus.xml"))
+
+    if not legends_files:
+        raise FileNotFoundError(f"No legends.xml found in {year_dir}")
+    if not legends_plus_files:
+        raise FileNotFoundError(f"No legends_plus.xml found in {year_dir}")
+
+    return legends_files[0], legends_plus_files[0], target_year
 
 
 def ensure_dir(path: Path):
@@ -332,12 +370,21 @@ def main():
     print("Dwarf Fortress Legends XML Parser")
     print("=" * 60)
 
-    # Check source files exist
-    if not LEGENDS_FILE.exists():
-        print(f"ERROR: {LEGENDS_FILE} not found")
-        return 1
-    if not LEGENDS_PLUS_FILE.exists():
-        print(f"ERROR: {LEGENDS_PLUS_FILE} not found")
+    # Parse command line argument for year
+    target_year = None
+    if len(sys.argv) > 1:
+        try:
+            target_year = int(sys.argv[1])
+        except ValueError:
+            print(f"ERROR: Invalid year '{sys.argv[1]}'. Must be a number.")
+            return 1
+
+    # Find source files
+    try:
+        legends_file, legends_plus_file, year = find_legends_files(target_year)
+        print(f"Using year {year} legends from: {legends_file.parent.relative_to(WORLD_DIR)}")
+    except FileNotFoundError as e:
+        print(f"ERROR: {e}")
         return 1
 
     # Clean output directory
@@ -347,8 +394,8 @@ def main():
     ensure_dir(OUTPUT_DIR)
 
     # Parse source files
-    legends_root = parse_legends_file(LEGENDS_FILE)
-    legends_plus_root = parse_legends_file(LEGENDS_PLUS_FILE)
+    legends_root = parse_legends_file(legends_file)
+    legends_plus_root = parse_legends_file(legends_plus_file)
 
     # Process each category
     process_world_info(legends_plus_root)
@@ -363,7 +410,7 @@ def main():
     create_index()
 
     print("\n" + "=" * 60)
-    print("Done! Parsed files written to: world/parsed/")
+    print(f"Done! Year {year} parsed files written to: world/parsed/")
     print("=" * 60)
 
     return 0

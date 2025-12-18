@@ -16754,5 +16754,226 @@
   		<feature_layer_id>-1</feature_layer_id>
   		<cause>old age</cause>
   	</historical_event>
-
+	
+  <historical_event>
+  		<id>17893</id>
+  		<year>500</year>
+  		<seconds72>148471</seconds72>
+  		<type>hf died</type>
+  		<hfid>1079</hfid>
+  		<slayer_hfid>1098</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2251</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17894</id>
+  		<year>500</year>
+  		<seconds72>149987</seconds72>
+  		<type>hf died</type>
+  		<hfid>1075</hfid>
+  		<slayer_hfid>1103</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2125</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17896</id>
+  		<year>500</year>
+  		<seconds72>150063</seconds72>
+  		<type>hf died</type>
+  		<hfid>1073</hfid>
+  		<slayer_hfid>1104</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2116</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17897</id>
+  		<year>500</year>
+  		<seconds72>150148</seconds72>
+  		<type>hf died</type>
+  		<hfid>1072</hfid>
+  		<slayer_hfid>1103</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2125</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17898</id>
+  		<year>500</year>
+  		<seconds72>150772</seconds72>
+  		<type>hf died</type>
+  		<hfid>1071</hfid>
+  		<slayer_hfid>1091</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2188</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17899</id>
+  		<year>500</year>
+  		<seconds72>150893</seconds72>
+  		<type>hf died</type>
+  		<hfid>1082</hfid>
+  		<slayer_hfid>1089</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2170</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17900</id>
+  		<year>500</year>
+  		<seconds72>150905</seconds72>
+  		<type>hf died</type>
+  		<hfid>1084</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17901</id>
+  		<year>500</year>
+  		<seconds72>150939</seconds72>
+  		<type>hf died</type>
+  		<hfid>1081</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17902</id>
+  		<year>500</year>
+  		<seconds72>150954</seconds72>
+  		<type>hf died</type>
+  		<hfid>1077</hfid>
+  		<slayer_hfid>1105</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2313</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17903</id>
+  		<year>500</year>
+  		<seconds72>151343</seconds72>
+  		<type>hf died</type>
+  		<hfid>1080</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>blood</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17904</id>
+  		<year>500</year>
+  		<seconds72>151370</seconds72>
+  		<type>hf died</type>
+  		<hfid>1083</hfid>
+  		<slayer_hfid>1087</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2152</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17908</id>
+  		<year>500</year>
+  		<seconds72>160215</seconds72>
+  		<type>hf died</type>
+  		<hfid>1074</hfid>
+  		<slayer_hfid>1106</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2585</slayer_item_id>
+  		<slayer_shooter_item_id>2302</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>shot</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17910</id>
+  		<year>500</year>
+  		<seconds72>163117</seconds72>
+  		<type>hf died</type>
+  		<hfid>1076</hfid>
+  		<slayer_hfid>1091</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2188</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
 </historical_events>

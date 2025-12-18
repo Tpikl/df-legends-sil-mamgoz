@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>1141</id>
+  		<race>CAT</race>
+  		<caste>FEMALE</caste>
+  		<appeared>501</appeared>
+  		<birth_year>499</birth_year>
+  		<birth_seconds72>155328</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>CLIMBING</skill>
+  			<total_ip>18000</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1142</id>
+  		<race>CAT</race>
+  		<caste>FEMALE</caste>
+  		<appeared>501</appeared>
+  		<birth_year>496</birth_year>
+  		<birth_seconds72>287841</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  		<hf_skill>
+  			<skill>CLIMBING</skill>
+  			<total_ip>18000</total_ip>
+  		</hf_skill>
+  	</historical_figure>
+	
+</historical_figures>

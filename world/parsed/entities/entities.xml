@@ -292,5 +292,15 @@
   		<id>62</id>
   		<name>the rough crazy bodices</name>
   	</entity>
+	
+  <entity>
+  		<id>63</id>
+  		<name>the gloved dyes</name>
+  	</entity>
+	
+  <entity>
+  		<id>64</id>
+  		<name>the fair inks</name>
+  	</entity>
 
 </entities>

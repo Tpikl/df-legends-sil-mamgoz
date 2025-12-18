@@ -64,6 +64,11 @@
   			<link_type>enemy</link_type>
   			<entity_id>62</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site underground</link_type>
+  			<site_id>8</site_id>
+  			<sub_id>18</sub_id>
+  		</site_link>
   		<sphere>light</sphere>
   		<sphere>lightning</sphere>
   		<sphere>longevity</sphere>

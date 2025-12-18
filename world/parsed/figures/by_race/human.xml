@@ -82,6 +82,11 @@
   			<link_type>member</link_type>
   			<entity_id>1</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>6</site_id>
+  			<sub_id>0</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>DODGING</skill>
   			<total_ip>500</total_ip>
@@ -4717,7 +4722,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>ADMINISTRATOR</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -4915,7 +4920,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>171</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>HERBALIST</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -11282,7 +11287,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>165</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>FISH_DISSECTOR</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -11506,7 +11511,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>BOWYER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>89</hfid>
@@ -11894,7 +11899,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>BEEKEEPER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>46</hfid>
@@ -12316,7 +12321,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>166</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>STONECRAFTER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -12975,7 +12980,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>CHEESE_MAKER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -13108,7 +13113,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>SHEARER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -13245,7 +13250,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>FISH_CLEANER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -13367,7 +13372,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>BEEKEEPER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>89</hfid>
@@ -13573,7 +13578,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>MECHANIC</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -14491,7 +14496,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>SURGEON</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -14897,7 +14902,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>ENGRAVER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -15788,7 +15793,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>JEWELER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>46</hfid>
@@ -15923,7 +15928,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>171</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>LEATHERWORKER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -16059,7 +16064,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>WAX_WORKER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -17124,7 +17129,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>166</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>WOODCUTTER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -20194,6 +20199,11 @@
   			<type>grow corruption network</type>
   			<on_hold />
   		</intrigue_plot>
+  		<intrigue_plot>
+  			<local_id>4</local_id>
+  			<type>acquire artifact</type>
+  			<artifact_id>24</artifact_id>
+  		</intrigue_plot>
   		<ent_pop_id>26</ent_pop_id>
   	</historical_figure>
 	
@@ -20487,7 +20497,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>166</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>ENGRAVER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -20674,7 +20684,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>171</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>WOOD_BURNER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -21221,7 +21231,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>171</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>GELDER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -21346,7 +21356,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>162</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>CHEESE_MAKER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -21528,7 +21538,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>168</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>WOOD_BURNER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -21853,6 +21863,11 @@
   			<local_id>2</local_id>
   			<type>grow corruption network</type>
   			<on_hold />
+  		</intrigue_plot>
+  		<intrigue_plot>
+  			<local_id>5</local_id>
+  			<type>acquire artifact</type>
+  			<artifact_id>16</artifact_id>
   		</intrigue_plot>
   		<ent_pop_id>26</ent_pop_id>
   	</historical_figure>
@@ -22539,7 +22554,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>165</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>FISH_DISSECTOR</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -22874,7 +22889,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>PAPERMAKER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -23012,7 +23027,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>163</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>FURNACE_OPERATOR</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>46</hfid>
@@ -23216,7 +23231,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>170</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>ANIMAL_TRAINER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -23502,7 +23517,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>163</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>METALSMITH</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -23902,7 +23917,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>171</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>TRAPPER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -24203,6 +24218,11 @@
   			<type>grow corruption network</type>
   			<on_hold />
   		</intrigue_plot>
+  		<intrigue_plot>
+  			<local_id>4</local_id>
+  			<type>acquire artifact</type>
+  			<artifact_id>3</artifact_id>
+  		</intrigue_plot>
   		<ent_pop_id>26</ent_pop_id>
   	</historical_figure>
 	
@@ -24280,7 +24300,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>MECHANIC</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -24471,7 +24491,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>170</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>ADMINISTRATOR</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>
@@ -24598,7 +24618,7 @@
   		<birth_seconds72>-1</birth_seconds72>
   		<death_year>167</death_year>
   		<death_seconds72>-1</death_seconds72>
-  		<associated_type>STANDARD</associated_type>
+  		<associated_type>FISH_CLEANER</associated_type>
   		<hf_link>
   			<link_type>deity</link_type>
   			<hfid>44</hfid>

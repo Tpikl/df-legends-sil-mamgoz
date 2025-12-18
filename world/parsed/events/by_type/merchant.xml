@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>17984</id>
+  		<year>500</year>
+  		<seconds72>252930</seconds72>
+  		<type>merchant</type>
+  		<trader_entity_id>26</trader_entity_id>
+  		<depot_entity_id>64</depot_entity_id>
+  		<site_id>77</site_id>
+  	</historical_event>
+	
+</historical_events>

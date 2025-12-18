@@ -54482,5 +54482,80 @@
   		<defending_enid>62</defending_enid>
   		<ordinal>1</ordinal>
   	</historical_event_collection>
+	
+  <historical_event_collection>
+  		<id>2643</id>
+  		<start_year>500</start_year>
+  		<start_seconds72>138330</start_seconds72>
+  		<end_year>-1</end_year>
+  		<end_seconds72>-1</end_seconds72>
+  		<eventcol>2644</eventcol>
+  		<type>war</type>
+  		<name>the crazy war</name>
+  		<aggressor_ent_id>52</aggressor_ent_id>
+  		<defender_ent_id>63</defender_ent_id>
+  	</historical_event_collection>
+	
+  <historical_event_collection>
+  		<id>2644</id>
+  		<start_year>500</start_year>
+  		<start_seconds72>138330</start_seconds72>
+  		<end_year>500</end_year>
+  		<end_seconds72>163120</end_seconds72>
+  		<event>17892</event>
+  		<event>17893</event>
+  		<event>17894</event>
+  		<event>17896</event>
+  		<event>17897</event>
+  		<event>17898</event>
+  		<event>17899</event>
+  		<event>17900</event>
+  		<event>17901</event>
+  		<event>17902</event>
+  		<event>17903</event>
+  		<event>17904</event>
+  		<event>17908</event>
+  		<event>17910</event>
+  		<event>17911</event>
+  		<type>battle</type>
+  		<name>the savage sieges</name>
+  		<war_eventcol>2643</war_eventcol>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<site_id>76</site_id>
+  		<coords>12,24</coords>
+  		<attacking_hfid>1085</attacking_hfid>
+  		<attacking_hfid>1086</attacking_hfid>
+  		<attacking_hfid>1087</attacking_hfid>
+  		<attacking_hfid>1088</attacking_hfid>
+  		<attacking_hfid>1089</attacking_hfid>
+  		<attacking_hfid>1090</attacking_hfid>
+  		<attacking_hfid>1091</attacking_hfid>
+  		<attacking_hfid>1092</attacking_hfid>
+  		<attacking_hfid>1093</attacking_hfid>
+  		<attacking_hfid>1094</attacking_hfid>
+  		<attacking_hfid>1095</attacking_hfid>
+  		<attacking_hfid>1096</attacking_hfid>
+  		<attacking_hfid>1097</attacking_hfid>
+  		<attacking_hfid>1098</attacking_hfid>
+  		<attacking_hfid>1099</attacking_hfid>
+  		<attacking_hfid>1100</attacking_hfid>
+  		<attacking_hfid>1101</attacking_hfid>
+  		<attacking_hfid>1102</attacking_hfid>
+  		<defending_hfid>1077</defending_hfid>
+  		<defending_hfid>1076</defending_hfid>
+  		<defending_hfid>1075</defending_hfid>
+  		<defending_hfid>1074</defending_hfid>
+  		<defending_hfid>1073</defending_hfid>
+  		<defending_hfid>1072</defending_hfid>
+  		<defending_hfid>1071</defending_hfid>
+  		<defending_hfid>1079</defending_hfid>
+  		<defending_hfid>1080</defending_hfid>
+  		<defending_hfid>1081</defending_hfid>
+  		<defending_hfid>1082</defending_hfid>
+  		<defending_hfid>1083</defending_hfid>
+  		<defending_hfid>1084</defending_hfid>
+  		<outcome>attacker won</outcome>
+  	</historical_event_collection>
 
 </historical_event_collections>
