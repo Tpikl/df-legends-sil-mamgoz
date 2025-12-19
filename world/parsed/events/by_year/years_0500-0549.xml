@@ -15,5 +15,2276 @@
   		<feature_layer_id>-1</feature_layer_id>
   		<cause>old age</cause>
   	</historical_event>
+	
+  <historical_event>
+  		<id>17818</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>64</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17819</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>211</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17820</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>63</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17821</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>68</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17822</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>996</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17823</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>70</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17824</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>65</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17825</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>67</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17826</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>69</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17827</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>72</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17828</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>66</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17829</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>859</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17830</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>191</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17831</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>712</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17832</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>387</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17833</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>784</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17834</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>824</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17835</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>192</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17836</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>658</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17837</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>739</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17838</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>147</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17839</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>59</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17840</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>62</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17841</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>50</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17842</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>58</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17843</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>53</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17844</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>123</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17845</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>244</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17846</id>
+  		<year>500</year>
+  		<seconds72>1851</seconds72>
+  		<type>change hf state</type>
+  		<hfid>116</hfid>
+  		<state>settled</state>
+  		<site_id>16</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17847</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1077</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17848</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1076</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17849</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1075</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17850</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1074</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17851</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1073</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17852</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1072</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17853</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1071</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17854</id>
+  		<year>500</year>
+  		<seconds72>0</seconds72>
+  		<type>created site</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>63</site_civ_id>
+  		<site_id>76</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17855</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1077</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17856</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1077</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17857</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1076</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17858</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1076</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17859</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1075</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17860</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1075</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17861</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1074</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17862</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1074</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17863</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1073</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17864</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1073</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17865</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1072</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17866</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1072</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17867</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1071</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17868</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1071</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17869</id>
+  		<year>500</year>
+  		<seconds72>16800</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1071</hfid>
+  		<position_id>8</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17870</id>
+  		<year>500</year>
+  		<seconds72>16801</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1071</hfid>
+  		<position_id>10</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17871</id>
+  		<year>500</year>
+  		<seconds72>16801</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1071</hfid>
+  		<position_id>12</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17872</id>
+  		<year>500</year>
+  		<seconds72>16801</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1071</hfid>
+  		<position_id>13</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17873</id>
+  		<year>500</year>
+  		<seconds72>25615</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1073</hfid>
+  		<hfid_target>1071</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17874</id>
+  		<year>500</year>
+  		<seconds72>38010</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>65</hfid>
+  		<hfid_target>63</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17875</id>
+  		<year>500</year>
+  		<seconds72>42817</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1078</hfid>
+  		<state>settled</state>
+  		<site_id>15</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17876</id>
+  		<year>500</year>
+  		<seconds72>51650</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1071</hfid>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17877</id>
+  		<year>500</year>
+  		<seconds72>76410</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>50</hfid>
+  		<hfid_target>859</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17878</id>
+  		<year>500</year>
+  		<seconds72>88435</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1072</hfid>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17879</id>
+  		<year>500</year>
+  		<seconds72>103114</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1075</hfid>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17880</id>
+  		<year>500</year>
+  		<seconds72>118410</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>116</hfid>
+  		<hfid_target>58</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17881</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1079</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17882</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1079</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17883</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1080</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17884</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1080</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17885</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1081</hfid>
+  		<hfid_target>1080</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17886</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1082</hfid>
+  		<hfid_target>1080</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17887</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1083</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17888</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1083</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17889</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1084</hfid>
+  		<state>settled</state>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17890</id>
+  		<year>500</year>
+  		<seconds72>125560</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>member</link>
+  		<hfid>1084</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17891</id>
+  		<year>500</year>
+  		<seconds72>128701</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1073</hfid>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17892</id>
+  		<year>500</year>
+  		<seconds72>138330</seconds72>
+  		<type>attacked site</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>63</site_civ_id>
+  		<site_id>76</site_id>
+  		<attacker_general_hfid>1085</attacker_general_hfid>
+  		<defender_general_hfid>-1</defender_general_hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17893</id>
+  		<year>500</year>
+  		<seconds72>148471</seconds72>
+  		<type>hf died</type>
+  		<hfid>1079</hfid>
+  		<slayer_hfid>1098</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2251</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17894</id>
+  		<year>500</year>
+  		<seconds72>149987</seconds72>
+  		<type>hf died</type>
+  		<hfid>1075</hfid>
+  		<slayer_hfid>1103</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2125</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17895</id>
+  		<year>500</year>
+  		<seconds72>150004</seconds72>
+  		<type>hf does interaction</type>
+  		<doer_hfid>1103</doer_hfid>
+  		<target_hfid>1073</target_hfid>
+  		<interaction>SECRET_GHOUL_17</interaction>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17896</id>
+  		<year>500</year>
+  		<seconds72>150063</seconds72>
+  		<type>hf died</type>
+  		<hfid>1073</hfid>
+  		<slayer_hfid>1104</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2116</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17897</id>
+  		<year>500</year>
+  		<seconds72>150148</seconds72>
+  		<type>hf died</type>
+  		<hfid>1072</hfid>
+  		<slayer_hfid>1103</slayer_hfid>
+  		<slayer_race>DWARF</slayer_race>
+  		<slayer_caste>FEMALE</slayer_caste>
+  		<slayer_item_id>2125</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17898</id>
+  		<year>500</year>
+  		<seconds72>150772</seconds72>
+  		<type>hf died</type>
+  		<hfid>1071</hfid>
+  		<slayer_hfid>1091</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2188</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17899</id>
+  		<year>500</year>
+  		<seconds72>150893</seconds72>
+  		<type>hf died</type>
+  		<hfid>1082</hfid>
+  		<slayer_hfid>1089</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2170</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17900</id>
+  		<year>500</year>
+  		<seconds72>150905</seconds72>
+  		<type>hf died</type>
+  		<hfid>1084</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17901</id>
+  		<year>500</year>
+  		<seconds72>150939</seconds72>
+  		<type>hf died</type>
+  		<hfid>1081</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17902</id>
+  		<year>500</year>
+  		<seconds72>150954</seconds72>
+  		<type>hf died</type>
+  		<hfid>1077</hfid>
+  		<slayer_hfid>1105</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2313</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17903</id>
+  		<year>500</year>
+  		<seconds72>151343</seconds72>
+  		<type>hf died</type>
+  		<hfid>1080</hfid>
+  		<slayer_hfid>1093</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2206</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>blood</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17904</id>
+  		<year>500</year>
+  		<seconds72>151370</seconds72>
+  		<type>hf died</type>
+  		<hfid>1083</hfid>
+  		<slayer_hfid>1087</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2152</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17905</id>
+  		<year>500</year>
+  		<seconds72>151710</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1074</hfid>
+  		<position_id>8</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17906</id>
+  		<year>500</year>
+  		<seconds72>152010</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>658</hfid>
+  		<hfid_target>784</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17907</id>
+  		<year>500</year>
+  		<seconds72>158179</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1074</hfid>
+  		<position_id>4</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17908</id>
+  		<year>500</year>
+  		<seconds72>160215</seconds72>
+  		<type>hf died</type>
+  		<hfid>1074</hfid>
+  		<slayer_hfid>1106</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2585</slayer_item_id>
+  		<slayer_shooter_item_id>2302</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>shot</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17909</id>
+  		<year>500</year>
+  		<seconds72>161310</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>63</civ_id>
+  		<link>position</link>
+  		<hfid>1076</hfid>
+  		<position_id>8</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17910</id>
+  		<year>500</year>
+  		<seconds72>163117</seconds72>
+  		<type>hf died</type>
+  		<hfid>1076</hfid>
+  		<slayer_hfid>1091</slayer_hfid>
+  		<slayer_race>HFEXP762 E_HUM1</slayer_race>
+  		<slayer_caste>DEFAULT</slayer_caste>
+  		<slayer_item_id>2188</slayer_item_id>
+  		<slayer_shooter_item_id>-1</slayer_shooter_item_id>
+  		<site_id>76</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<cause>struck</cause>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17911</id>
+  		<year>500</year>
+  		<seconds72>163120</seconds72>
+  		<type>destroyed site</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>63</site_civ_id>
+  		<site_id>76</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17912</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>51</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17913</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>52</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17914</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>165</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17915</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>213</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17916</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>214</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17917</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>214</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17918</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>232</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17919</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>233</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17920</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>236</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17921</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>236</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17922</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>375</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17923</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>396</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17924</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>411</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17925</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>414</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17926</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>414</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17927</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>483</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17928</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>563</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>16</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17929</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>661</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17930</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>661</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17931</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>661</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17932</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>709</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17933</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>709</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17934</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>720</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17935</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>869</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17936</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>870</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17937</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>871</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17938</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>882</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17939</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>892</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17940</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>894</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17941</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>951</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17942</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>952</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17943</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>953</hfid>
+  		<site_id>8</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17944</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1113</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17945</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1112</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17946</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1111</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17947</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1110</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17948</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1109</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17949</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1108</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17950</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1107</hfid>
+  		<site_id>-1</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17951</id>
+  		<year>500</year>
+  		<seconds72>0</seconds72>
+  		<type>created site</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>64</site_civ_id>
+  		<site_id>77</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17952</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1113</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17953</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1113</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17954</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1112</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17955</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1112</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17956</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1111</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17957</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1111</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17958</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1110</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17959</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1110</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17960</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1109</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17961</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1109</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17962</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1108</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17963</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1108</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17964</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1107</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17965</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1107</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17966</id>
+  		<year>500</year>
+  		<seconds72>179920</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>position</link>
+  		<hfid>1107</hfid>
+  		<position_id>8</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17967</id>
+  		<year>500</year>
+  		<seconds72>179921</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>position</link>
+  		<hfid>1107</hfid>
+  		<position_id>10</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17968</id>
+  		<year>500</year>
+  		<seconds72>179921</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>position</link>
+  		<hfid>1107</hfid>
+  		<position_id>12</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17969</id>
+  		<year>500</year>
+  		<seconds72>179921</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>position</link>
+  		<hfid>1107</hfid>
+  		<position_id>13</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17970</id>
+  		<year>500</year>
+  		<seconds72>198336</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1107</hfid>
+  		<hfid_target>1111</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17971</id>
+  		<year>500</year>
+  		<seconds72>230532</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1107</hfid>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17972</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1119</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17973</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1119</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17974</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1120</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17975</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1120</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17976</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1121</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17977</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1121</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17978</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1122</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17979</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1122</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17980</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1123</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17981</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1123</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17982</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1115</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17983</id>
+  		<year>500</year>
+  		<seconds72>251680</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1115</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17984</id>
+  		<year>500</year>
+  		<seconds72>252930</seconds72>
+  		<type>merchant</type>
+  		<trader_entity_id>26</trader_entity_id>
+  		<depot_entity_id>64</depot_entity_id>
+  		<site_id>77</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17985</id>
+  		<year>500</year>
+  		<seconds72>269474</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1110</hfid>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17986</id>
+  		<year>500</year>
+  		<seconds72>275159</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1108</hfid>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17987</id>
+  		<year>500</year>
+  		<seconds72>286410</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>244</hfid>
+  		<hfid_target>62</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17988</id>
+  		<year>500</year>
+  		<seconds72>294810</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>123</hfid>
+  		<hfid_target>739</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17989</id>
+  		<year>500</year>
+  		<seconds72>304410</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>387</hfid>
+  		<hfid_target>824</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17990</id>
+  		<year>500</year>
+  		<seconds72>306332</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1109</hfid>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17991</id>
+  		<year>500</year>
+  		<seconds72>327377</seconds72>
+  		<type>change hf job</type>
+  		<hfid>1111</hfid>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17992</id>
+  		<year>501</year>
+  		<seconds72>10</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>26</civ_id>
+  		<link>position</link>
+  		<hfid>1117</hfid>
+  		<position_id>15</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17993</id>
+  		<year>501</year>
+  		<seconds72>10</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>26</civ_id>
+  		<link>position</link>
+  		<hfid>1117</hfid>
+  		<position_id>1</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17994</id>
+  		<year>501</year>
+  		<seconds72>10</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>26</civ_id>
+  		<link>position</link>
+  		<hfid>1117</hfid>
+  		<position_id>18</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17995</id>
+  		<year>501</year>
+  		<seconds72>10</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>26</civ_id>
+  		<link>position</link>
+  		<hfid>1114</hfid>
+  		<position_id>18</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17996</id>
+  		<year>501</year>
+  		<seconds72>510</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>26</civ_id>
+  		<link>position</link>
+  		<hfid>1112</hfid>
+  		<position_id>0</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17997</id>
+  		<year>501</year>
+  		<seconds72>58404</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>position</link>
+  		<hfid>1122</hfid>
+  		<position_id>4</position_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17998</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1124</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17999</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1124</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18000</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1125</hfid>
+  		<hfid_target>1124</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18001</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1126</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18002</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1126</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18003</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1127</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18004</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1127</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18005</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1128</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18006</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1128</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18007</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>change hf state</type>
+  		<hfid>1129</hfid>
+  		<state>settled</state>
+  		<site_id>77</site_id>
+  		<subregion_id>-1</subregion_id>
+  		<feature_layer_id>-1</feature_layer_id>
+  		<coords>-1,-1</coords>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18008</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf entity link</type>
+  		<civ_id>64</civ_id>
+  		<link>member</link>
+  		<hfid>1129</hfid>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18009</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1130</hfid>
+  		<hfid_target>1128</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18010</id>
+  		<year>501</year>
+  		<seconds72>166960</seconds72>
+  		<type>add hf hf link</type>
+  		<hfid>1131</hfid>
+  		<hfid_target>1128</hfid_target>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>18011</id>
+  		<year>501</year>
+  		<seconds72>201600</seconds72>
+  		<type>site retired</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>64</site_civ_id>
+  		<site_id>77</site_id>
+  		<first />
+  	</historical_event>
 
 </historical_events>

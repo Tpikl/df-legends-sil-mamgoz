@@ -4,7 +4,7 @@ A Dwarf Fortress world history project.
 
 ## Overview
 
-This repository contains exported legends data from a Dwarf Fortress world (Sil Mamgoz, year 500) and narrative documents derived from that data.
+This repository contains exported legends data from a Dwarf Fortress world (Sil Mamgoz) and narrative documents derived from that data. Legends are exported periodically as the world advances, currently through year 501.
 
 The goal is to break down the raw XML legends exports into readable documents and craft narratives from the historical events, figures, and artifacts contained within.
 

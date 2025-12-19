@@ -51,6 +51,10 @@
   			<hfid>86</hfid>
   			<link_strength>5</link_strength>
   		</hf_link>
+  		<hf_link>
+  			<link_type>spouse</link_type>
+  			<hfid>65</hfid>
+  		</hf_link>
   		<entity_link>
   			<link_type>former member</link_type>
   			<entity_id>28</entity_id>
@@ -62,9 +66,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>6</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>DISSECT_VERMIN</skill>
   			<total_ip>3000</total_ip>
@@ -180,9 +189,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>3</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>STONECRAFT</skill>
   			<total_ip>9000</total_ip>
@@ -329,6 +343,10 @@
   			<hfid>0</hfid>
   			<link_strength>27</link_strength>
   		</hf_link>
+  		<hf_link>
+  			<link_type>spouse</link_type>
+  			<hfid>63</hfid>
+  		</hf_link>
   		<entity_link>
   			<link_type>former member</link_type>
   			<entity_id>28</entity_id>
@@ -340,9 +358,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>6</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>MINING</skill>
   			<total_ip>9000</total_ip>
@@ -480,9 +503,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>7</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>SNEAK</skill>
   			<total_ip>10179</total_ip>
@@ -617,9 +645,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>6</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>STONECRAFT</skill>
   			<total_ip>9000</total_ip>
@@ -738,9 +771,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>4</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>STONECRAFT</skill>
   			<total_ip>9000</total_ip>
@@ -889,9 +927,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>4</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>MINING</skill>
   			<total_ip>9000</total_ip>
@@ -1026,9 +1069,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>3</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>SNEAK</skill>
   			<total_ip>9000</total_ip>
@@ -1209,9 +1257,14 @@
   			<link_strength>1</link_strength>
   		</entity_link>
   		<entity_link>
-  			<link_type>member</link_type>
+  			<link_type>former member</link_type>
   			<entity_id>52</entity_id>
   		</entity_link>
+  		<site_link>
+  			<link_type>home site building</link_type>
+  			<site_id>16</site_id>
+  			<sub_id>4</sub_id>
+  		</site_link>
   		<hf_skill>
   			<skill>BONECARVE</skill>
   			<total_ip>9000</total_ip>

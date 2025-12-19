@@ -131,4 +131,24 @@
   		<site_id>20</site_id>
   	</historical_event>
 	
+  <historical_event>
+  		<id>17854</id>
+  		<year>500</year>
+  		<seconds72>0</seconds72>
+  		<type>created site</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>63</site_civ_id>
+  		<site_id>76</site_id>
+  	</historical_event>
+	
+  <historical_event>
+  		<id>17951</id>
+  		<year>500</year>
+  		<seconds72>0</seconds72>
+  		<type>created site</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>64</site_civ_id>
+  		<site_id>77</site_id>
+  	</historical_event>
+	
 </historical_events>

@@ -436,5 +436,28 @@
   <site>
   		<id>75</id>
   	</site>
+	
+  <site>
+  		<id>76</id>
+  	</site>
+	
+  <site>
+  		<id>77</id>
+  		<structures>
+  			<structure>
+  				<id>0</id>
+  				<type>temple</type>
+  				<name>The Creed of Splitting</name>
+  				<name2>Farash Ziksis</name2>
+  				<deity_type>-1</deity_type>
+  			</structure>
+  			<structure>
+  				<id>1</id>
+  				<type>inn_tavern</type>
+  				<name>The Plum of Paddles</name>
+  				<name2>Kagmel Iden</name2>
+  			</structure>
+  		</structures>
+  	</site>
 
 </sites>

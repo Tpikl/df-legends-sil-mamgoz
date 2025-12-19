@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>1131</id>
+  		<name>catten galleysmith</name>
+  		<race>SHEEP</race>
+  		<caste>MALE</caste>
+  		<appeared>501</appeared>
+  		<birth_year>-1</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>CHILD</associated_type>
+  		<hf_link>
+  			<link_type>pet owner</link_type>
+  			<hfid>1128</hfid>
+  		</hf_link>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>

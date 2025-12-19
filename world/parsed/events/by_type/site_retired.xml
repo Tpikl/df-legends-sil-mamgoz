@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>18011</id>
+  		<year>501</year>
+  		<seconds72>201600</seconds72>
+  		<type>site retired</type>
+  		<civ_id>26</civ_id>
+  		<site_civ_id>64</site_civ_id>
+  		<site_id>77</site_id>
+  		<first />
+  	</historical_event>
+
+</historical_events>

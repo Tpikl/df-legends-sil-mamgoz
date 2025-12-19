@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_events>
+  <historical_event>
+  		<id>17911</id>
+  		<year>500</year>
+  		<seconds72>163120</seconds72>
+  		<type>destroyed site</type>
+  		<attacker_civ_id>52</attacker_civ_id>
+  		<defender_civ_id>26</defender_civ_id>
+  		<site_civ_id>63</site_civ_id>
+  		<site_id>76</site_id>
+  	</historical_event>
+	
+</historical_events>

@@ -240,6 +240,16 @@
   			<target>57</target>
   			<strength>100</strength>
   		</entity_link>
+  		<entity_link>
+  			<type>CHILD</type>
+  			<target>63</target>
+  			<strength>100</strength>
+  		</entity_link>
+  		<entity_link>
+  			<type>CHILD</type>
+  			<target>64</target>
+  			<strength>100</strength>
+  		</entity_link>
   		<entity_position>
   			<id>0</id>
   			<name>monarch</name>
@@ -310,14 +320,17 @@
   		</entity_position_assignment>
   		<entity_position_assignment>
   			<id>3</id>
+  			<histfig>1112</histfig>
   			<position_id>0</position_id>
   		</entity_position_assignment>
   		<entity_position_assignment>
   			<id>4</id>
+  			<histfig>1117</histfig>
   			<position_id>18</position_id>
   		</entity_position_assignment>
   		<entity_position_assignment>
   			<id>5</id>
+  			<histfig>1114</histfig>
   			<position_id>18</position_id>
   		</entity_position_assignment>
   		<entity_position_assignment>
@@ -709,6 +722,57 @@
   		<histfig_id>966</histfig_id>
   		<histfig_id>967</histfig_id>
   		<histfig_id>968</histfig_id>
+  		<histfig_id>1071</histfig_id>
+  		<histfig_id>1072</histfig_id>
+  		<histfig_id>1073</histfig_id>
+  		<histfig_id>1074</histfig_id>
+  		<histfig_id>1075</histfig_id>
+  		<histfig_id>1076</histfig_id>
+  		<histfig_id>1077</histfig_id>
+  		<histfig_id>1079</histfig_id>
+  		<histfig_id>1080</histfig_id>
+  		<histfig_id>1081</histfig_id>
+  		<histfig_id>1082</histfig_id>
+  		<histfig_id>1083</histfig_id>
+  		<histfig_id>1084</histfig_id>
+  		<histfig_id>1107</histfig_id>
+  		<histfig_id>1108</histfig_id>
+  		<histfig_id>1109</histfig_id>
+  		<histfig_id>1110</histfig_id>
+  		<histfig_id>1111</histfig_id>
+  		<histfig_id>1112</histfig_id>
+  		<histfig_id>1113</histfig_id>
+  		<histfig_id>1114</histfig_id>
+  		<histfig_id>1115</histfig_id>
+  		<histfig_id>1116</histfig_id>
+  		<histfig_id>1117</histfig_id>
+  		<histfig_id>1118</histfig_id>
+  		<histfig_id>1119</histfig_id>
+  		<histfig_id>1120</histfig_id>
+  		<histfig_id>1121</histfig_id>
+  		<histfig_id>1122</histfig_id>
+  		<histfig_id>1123</histfig_id>
+  		<histfig_id>1124</histfig_id>
+  		<histfig_id>1125</histfig_id>
+  		<histfig_id>1126</histfig_id>
+  		<histfig_id>1127</histfig_id>
+  		<histfig_id>1128</histfig_id>
+  		<histfig_id>1129</histfig_id>
+  		<histfig_id>1130</histfig_id>
+  		<histfig_id>1131</histfig_id>
+  		<histfig_id>1132</histfig_id>
+  		<histfig_id>1133</histfig_id>
+  		<histfig_id>1134</histfig_id>
+  		<histfig_id>1135</histfig_id>
+  		<histfig_id>1136</histfig_id>
+  		<histfig_id>1137</histfig_id>
+  		<histfig_id>1138</histfig_id>
+  		<histfig_id>1139</histfig_id>
+  		<histfig_id>1140</histfig_id>
+  		<histfig_id>1141</histfig_id>
+  		<histfig_id>1142</histfig_id>
+  		<histfig_id>1143</histfig_id>
+  		<histfig_id>1144</histfig_id>
   		<child>26</child>
   		<child>27</child>
   		<child>35</child>
@@ -720,6 +784,8 @@
   		<child>49</child>
   		<child>55</child>
   		<child>57</child>
+  		<child>63</child>
+  		<child>64</child>
   		<occasion>
   			<id>0</id>
   			<name>The Festival of Cudgels</name>
@@ -2736,35 +2802,15 @@
   			<id>0</id>
   			<histfig>219</histfig>
   			<position_id>0</position_id>
+  			<squad_id>0</squad_id>
   		</entity_position_assignment>
-  		<histfig_id>50</histfig_id>
-  		<histfig_id>53</histfig_id>
   		<histfig_id>55</histfig_id>
-  		<histfig_id>58</histfig_id>
-  		<histfig_id>59</histfig_id>
-  		<histfig_id>62</histfig_id>
-  		<histfig_id>63</histfig_id>
-  		<histfig_id>64</histfig_id>
-  		<histfig_id>65</histfig_id>
-  		<histfig_id>66</histfig_id>
-  		<histfig_id>67</histfig_id>
-  		<histfig_id>68</histfig_id>
-  		<histfig_id>69</histfig_id>
-  		<histfig_id>70</histfig_id>
-  		<histfig_id>72</histfig_id>
-  		<histfig_id>116</histfig_id>
-  		<histfig_id>123</histfig_id>
-  		<histfig_id>147</histfig_id>
   		<histfig_id>173</histfig_id>
   		<histfig_id>174</histfig_id>
   		<histfig_id>183</histfig_id>
-  		<histfig_id>191</histfig_id>
-  		<histfig_id>192</histfig_id>
   		<histfig_id>194</histfig_id>
-  		<histfig_id>211</histfig_id>
   		<histfig_id>219</histfig_id>
   		<histfig_id>243</histfig_id>
-  		<histfig_id>244</histfig_id>
   		<histfig_id>250</histfig_id>
   		<histfig_id>254</histfig_id>
   		<histfig_id>257</histfig_id>
@@ -2777,7 +2823,6 @@
   		<histfig_id>359</histfig_id>
   		<histfig_id>368</histfig_id>
   		<histfig_id>377</histfig_id>
-  		<histfig_id>387</histfig_id>
   		<histfig_id>395</histfig_id>
   		<histfig_id>421</histfig_id>
   		<histfig_id>452</histfig_id>
@@ -2797,25 +2842,19 @@
   		<histfig_id>624</histfig_id>
   		<histfig_id>631</histfig_id>
   		<histfig_id>632</histfig_id>
-  		<histfig_id>658</histfig_id>
   		<histfig_id>659</histfig_id>
   		<histfig_id>664</histfig_id>
   		<histfig_id>665</histfig_id>
   		<histfig_id>695</histfig_id>
   		<histfig_id>696</histfig_id>
   		<histfig_id>703</histfig_id>
-  		<histfig_id>712</histfig_id>
   		<histfig_id>724</histfig_id>
-  		<histfig_id>739</histfig_id>
   		<histfig_id>762</histfig_id>
-  		<histfig_id>784</histfig_id>
   		<histfig_id>799</histfig_id>
-  		<histfig_id>824</histfig_id>
   		<histfig_id>843</histfig_id>
   		<histfig_id>846</histfig_id>
   		<histfig_id>847</histfig_id>
   		<histfig_id>853</histfig_id>
-  		<histfig_id>859</histfig_id>
   		<histfig_id>862</histfig_id>
   		<histfig_id>863</histfig_id>
   		<histfig_id>873</histfig_id>
@@ -2831,7 +2870,28 @@
   		<histfig_id>939</histfig_id>
   		<histfig_id>940</histfig_id>
   		<histfig_id>978</histfig_id>
-  		<histfig_id>996</histfig_id>
+  		<histfig_id>1085</histfig_id>
+  		<histfig_id>1086</histfig_id>
+  		<histfig_id>1087</histfig_id>
+  		<histfig_id>1088</histfig_id>
+  		<histfig_id>1089</histfig_id>
+  		<histfig_id>1090</histfig_id>
+  		<histfig_id>1091</histfig_id>
+  		<histfig_id>1092</histfig_id>
+  		<histfig_id>1093</histfig_id>
+  		<histfig_id>1094</histfig_id>
+  		<histfig_id>1095</histfig_id>
+  		<histfig_id>1096</histfig_id>
+  		<histfig_id>1097</histfig_id>
+  		<histfig_id>1098</histfig_id>
+  		<histfig_id>1099</histfig_id>
+  		<histfig_id>1100</histfig_id>
+  		<histfig_id>1101</histfig_id>
+  		<histfig_id>1102</histfig_id>
+  		<histfig_id>1103</histfig_id>
+  		<histfig_id>1104</histfig_id>
+  		<histfig_id>1105</histfig_id>
+  		<histfig_id>1106</histfig_id>
   		<child>52</child>
   		<child>54</child>
   		<child>56</child>
@@ -3043,6 +3103,273 @@
   			<position_id>0</position_id>
   		</entity_position_assignment>
   		<child>62</child>
+  	</entity>
+	
+  <entity>
+  		<id>63</id>
+  		<race>dwarf</race>
+  		<type>sitegovernment</type>
+  		<entity_link>
+  			<type>PARENT</type>
+  			<target>26</target>
+  			<strength>100</strength>
+  		</entity_link>
+  		<entity_position>
+  			<id>4</id>
+  			<name>militia commander</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>5</id>
+  			<name>militia captain</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>6</id>
+  			<name>sheriff</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>7</id>
+  			<name>captain of the guard</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>8</id>
+  			<name>expedition leader</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>9</id>
+  			<name>mayor</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>10</id>
+  			<name>manager</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>11</id>
+  			<name>chief medical dwarf</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>12</id>
+  			<name>broker</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>13</id>
+  			<name>bookkeeper</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>19</id>
+  			<name>champion</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>20</id>
+  			<name>hammerer</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>21</id>
+  			<name>dungeon master</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>23</id>
+  			<name>messenger</name>
+  		</entity_position>
+  		<entity_position_assignment>
+  			<id>0</id>
+  			<position_id>21</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>1</id>
+  			<position_id>20</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>2</id>
+  			<position_id>19</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>3</id>
+  			<position_id>13</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>4</id>
+  			<position_id>12</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>5</id>
+  			<position_id>11</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>6</id>
+  			<position_id>10</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>7</id>
+  			<position_id>9</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>8</id>
+  			<position_id>8</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>9</id>
+  			<position_id>7</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>10</id>
+  			<position_id>6</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>11</id>
+  			<position_id>4</position_id>
+  		</entity_position_assignment>
+  		<histfig_id>1071</histfig_id>
+  		<histfig_id>1072</histfig_id>
+  		<histfig_id>1073</histfig_id>
+  		<histfig_id>1074</histfig_id>
+  		<histfig_id>1075</histfig_id>
+  		<histfig_id>1076</histfig_id>
+  		<histfig_id>1077</histfig_id>
+  		<histfig_id>1079</histfig_id>
+  		<histfig_id>1080</histfig_id>
+  		<histfig_id>1083</histfig_id>
+  		<histfig_id>1084</histfig_id>
+  		<child>63</child>
+  	</entity>
+	
+  <entity>
+  		<id>64</id>
+  		<race>dwarf</race>
+  		<type>sitegovernment</type>
+  		<entity_link>
+  			<type>PARENT</type>
+  			<target>26</target>
+  			<strength>100</strength>
+  		</entity_link>
+  		<entity_position>
+  			<id>4</id>
+  			<name>militia commander</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>5</id>
+  			<name>militia captain</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>6</id>
+  			<name>sheriff</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>7</id>
+  			<name>captain of the guard</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>8</id>
+  			<name>expedition leader</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>9</id>
+  			<name>mayor</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>10</id>
+  			<name>manager</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>11</id>
+  			<name>chief medical dwarf</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>12</id>
+  			<name>broker</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>13</id>
+  			<name>bookkeeper</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>19</id>
+  			<name>champion</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>20</id>
+  			<name>hammerer</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>21</id>
+  			<name>dungeon master</name>
+  		</entity_position>
+  		<entity_position>
+  			<id>23</id>
+  			<name>messenger</name>
+  		</entity_position>
+  		<entity_position_assignment>
+  			<id>0</id>
+  			<position_id>21</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>1</id>
+  			<position_id>20</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>2</id>
+  			<position_id>19</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>3</id>
+  			<histfig>1107</histfig>
+  			<position_id>13</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>4</id>
+  			<histfig>1107</histfig>
+  			<position_id>12</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>5</id>
+  			<position_id>11</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>6</id>
+  			<histfig>1107</histfig>
+  			<position_id>10</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>7</id>
+  			<position_id>9</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>8</id>
+  			<histfig>1107</histfig>
+  			<position_id>8</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>9</id>
+  			<position_id>7</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>10</id>
+  			<position_id>6</position_id>
+  		</entity_position_assignment>
+  		<entity_position_assignment>
+  			<id>11</id>
+  			<histfig>1122</histfig>
+  			<position_id>4</position_id>
+  			<squad_id>2</squad_id>
+  		</entity_position_assignment>
+  		<histfig_id>1107</histfig_id>
+  		<histfig_id>1108</histfig_id>
+  		<histfig_id>1109</histfig_id>
+  		<histfig_id>1110</histfig_id>
+  		<histfig_id>1111</histfig_id>
+  		<histfig_id>1112</histfig_id>
+  		<histfig_id>1113</histfig_id>
+  		<histfig_id>1115</histfig_id>
+  		<histfig_id>1119</histfig_id>
+  		<histfig_id>1120</histfig_id>
+  		<histfig_id>1121</histfig_id>
+  		<histfig_id>1122</histfig_id>
+  		<histfig_id>1123</histfig_id>
+  		<histfig_id>1124</histfig_id>
+  		<histfig_id>1126</histfig_id>
+  		<histfig_id>1127</histfig_id>
+  		<histfig_id>1128</histfig_id>
+  		<histfig_id>1129</histfig_id>
+  		<child>64</child>
   	</entity>
 
 </entities>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extracted from legends.xml -->
+<historical_figures>
+  <historical_figure>
+  		<id>1082</id>
+  		<name>monom ringspirals</name>
+  		<race>BIRD_TURKEY</race>
+  		<caste>FEMALE</caste>
+  		<appeared>500</appeared>
+  		<birth_year>-1</birth_year>
+  		<birth_seconds72>-1</birth_seconds72>
+  		<death_year>500</death_year>
+  		<death_seconds72>150893</death_seconds72>
+  		<associated_type>CHILD</associated_type>
+  		<hf_link>
+  			<link_type>pet owner</link_type>
+  			<hfid>1080</hfid>
+  		</hf_link>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+  <historical_figure>
+  		<id>1136</id>
+  		<race>BIRD_TURKEY</race>
+  		<caste>MALE</caste>
+  		<appeared>501</appeared>
+  		<birth_year>496</birth_year>
+  		<birth_seconds72>185020</birth_seconds72>
+  		<death_year>-1</death_year>
+  		<death_seconds72>-1</death_seconds72>
+  		<associated_type>STANDARD</associated_type>
+  		<entity_link>
+  			<link_type>member</link_type>
+  			<entity_id>26</entity_id>
+  		</entity_link>
+  	</historical_figure>
+	
+</historical_figures>
