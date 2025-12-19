@@ -19,7 +19,15 @@ df-claude-legends/
 ├── stories/                      # Generated narratives and character studies
 │   └── {character}/              # Per-character story folders
 ├── scripts/                      # Utility scripts
-│   └── parse_legends.py          # XML splitter script
+│   ├── parse_legends.py          # XML splitter script
+│   ├── lookup_figure.py          # Find figures by ID, name, or race
+│   ├── lookup_site.py            # Find sites by ID, name, or type
+│   ├── lookup_entity.py          # Find entities/civilizations
+│   ├── lookup_events.py          # Find events by figure, site, type, year
+│   ├── lookup_creature.py        # Translate creature IDs to names
+│   └── figure_history.py         # Generate full timeline for a figure
+├── .claude/                      # Claude Code configuration
+│   └── settings.json             # Permissions for auto-approved scripts
 └── README.md
 ```
 
@@ -75,7 +83,42 @@ Contains narrative documents crafted from the legends data. Organized by subject
 
 ## Working with This Project
 
-### Quick Lookups (use parsed/ files)
+### Lookup Scripts (Preferred Method)
+Use these scripts for fast, formatted lookups. They read from `world/parsed/` and resolve IDs to names automatically.
+
+```bash
+# Find a figure by ID or name
+python3 scripts/lookup_figure.py 123
+python3 scripts/lookup_figure.py "sodel"
+python3 scripts/lookup_figure.py --race dwarf --brief
+
+# Find a site by ID or name
+python3 scripts/lookup_site.py 8
+python3 scripts/lookup_site.py "longpaints"
+python3 scripts/lookup_site.py --type fortress
+
+# Find entities/civilizations
+python3 scripts/lookup_entity.py 26
+python3 scripts/lookup_entity.py --list
+
+# Find events (combinable filters)
+python3 scripts/lookup_events.py --figure 123
+python3 scripts/lookup_events.py --site 8 --year 50-100
+python3 scripts/lookup_events.py --type hf_died --limit 50
+python3 scripts/lookup_events.py --list-types
+
+# Translate creature IDs to names
+python3 scripts/lookup_creature.py NIGHT_CREATURE_3
+python3 scripts/lookup_creature.py --list-special
+
+# Get complete timeline for a figure
+python3 scripts/figure_history.py 107
+python3 scripts/figure_history.py "fimshel"
+python3 scripts/figure_history.py 45 --brief
+```
+
+### Manual Lookups (parsed/ files)
+For direct XML access when scripts don't cover a use case:
 1. **Find a figure by race**: Check `parsed/figures/by_race/{race}.xml`
 2. **Find death events**: Check `parsed/events/by_type/hf_died.xml`
 3. **Find events in a time period**: Check `parsed/events/by_year/years_XXXX-XXXX.xml`
@@ -103,10 +146,14 @@ Each story folder should contain two files:
 ### Lessons Learned
 
 #### Creature Name Lookups
-Generated creatures (night creatures, forgotten beasts, titans) have IDs like `NIGHT_CREATURE_3`. Look up their actual names in `parsed/reference/creature_raw.xml`:
-- `NIGHT_CREATURE_3` → "monster of shadow"
-- `NIGHT_CREATURE_4` → "hag of shadow"
-- Search for `<creature_id>NIGHT_CREATURE_X</creature_id>` to find `<name_singular>`
+Generated creatures (night creatures, forgotten beasts, titans) have IDs like `NIGHT_CREATURE_3`. Use the lookup script:
+```bash
+python3 scripts/lookup_creature.py NIGHT_CREATURE_3
+# Output: NIGHT_CREATURE_3: monster of shadow
+
+python3 scripts/lookup_creature.py --list-special
+# Lists all night creatures, forgotten beasts, and titans with their names
+```
 
 #### Transformation Events
 For vampire/werewolf/curse stories, `parsed/events/by_type/changed_creature_type.xml` is essential. It shows:

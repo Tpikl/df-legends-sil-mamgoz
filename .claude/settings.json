@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/lookup_figure.py:*)",
+      "Bash(python3 scripts/lookup_site.py:*)",
+      "Bash(python3 scripts/lookup_entity.py:*)",
+      "Bash(python3 scripts/lookup_events.py:*)",
+      "Bash(python3 scripts/lookup_creature.py:*)",
+      "Bash(python3 scripts/figure_history.py:*)",
+      "Bash(python3 scripts/parse_legends.py:*)"
+    ]
+  }
+}
