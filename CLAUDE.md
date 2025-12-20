@@ -97,9 +97,13 @@ python3 scripts/lookup_site.py 8
 python3 scripts/lookup_site.py "longpaints"
 python3 scripts/lookup_site.py --type fortress
 
-# Find entities/civilizations
+# Find entities/civilizations (includes population counts)
 python3 scripts/lookup_entity.py 26
 python3 scripts/lookup_entity.py --list
+# Output: ENTITY #30: The Unswerving Fells
+#         Race: Elf
+#         Type: Civilization
+#         Population: 20 elf
 
 # Find events (combinable filters)
 python3 scripts/lookup_events.py --figure 123
@@ -191,3 +195,14 @@ When writing stories, translate raw IDs to narrative-friendly text:
 
 #### Lair and Site Lookups
 Figures often have `<site_link><link_type>lair</link_type>` pointing to their home. Cross-reference with `parsed/entities/sites.xml` to get the lair's name and type.
+
+#### Historical Figures vs Population
+**Critical distinction:**
+- `parsed/figures/by_race/*.xml` = **Historical Figures** (notable named individuals)
+- `parsed/entities/entity_populations_plus.xml` = **General Population** (unnamed members)
+
+A civilization can have all historical figures dead but still have living population. Example:
+- The Unswerving Fells has 19 dead historical figures (elf.xml)
+- But still has 20 living elves (entity_populations_plus.xml: `<race>elf:20</race>`)
+
+**Always check population before declaring a civilization extinct.**

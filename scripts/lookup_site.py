@@ -26,19 +26,57 @@ def get_child_text(elem, tag, default=""):
 
 
 def parse_structures(elem):
-    """Extract structures from a site."""
+    """Extract structures from a site (from plus data)."""
     structures = []
     struct_section = elem.find('structures')
     if struct_section is not None:
         for struct in struct_section.findall('structure'):
-            local_id = get_child_text(struct, 'local_id')
+            struct_id = get_child_text(struct, 'id')
             struct_type = get_child_text(struct, 'type')
             name = get_child_text(struct, 'name', '(unnamed)')
-            structures.append({'id': local_id, 'type': struct_type, 'name': name})
+            name2 = get_child_text(struct, 'name2', '')
+            structures.append({'id': struct_id, 'type': struct_type, 'name': name, 'name2': name2})
     return structures
 
 
-def format_site(site):
+def load_sites_plus():
+    """Load sites_plus data (has ownership and structure info)."""
+    plus_file = ENTITIES_DIR / "sites_plus.xml"
+    if not plus_file.exists():
+        return {}
+
+    tree = ET.parse(plus_file)
+    root = tree.getroot()
+
+    plus_data = {}
+    for site in root.findall('.//site'):
+        site_id = get_child_text(site, 'id')
+        if site_id:
+            plus_data[site_id] = site
+
+    return plus_data
+
+
+def load_entity_names():
+    """Load entity ID to name mapping for display."""
+    entities_file = ENTITIES_DIR / "entities.xml"
+    if not entities_file.exists():
+        return {}
+
+    tree = ET.parse(entities_file)
+    root = tree.getroot()
+
+    names = {}
+    for entity in root.findall('.//entity'):
+        entity_id = get_child_text(entity, 'id')
+        name = get_child_text(entity, 'name', '')
+        if entity_id and name:
+            names[entity_id] = name.title()
+
+    return names
+
+
+def format_site(site, plus_data=None, entity_names=None):
     """Format a site for display."""
     site_id = get_child_text(site, 'id')
     name = get_child_text(site, 'name', '(unnamed)')
@@ -57,14 +95,57 @@ def format_site(site):
     if rectangle:
         lines.append(f"Rectangle: {rectangle}")
 
-    # Structures
-    structures = parse_structures(site)
-    if structures:
-        lines.append(f"\nStructures ({len(structures)}):")
-        for struct in structures[:20]:  # Limit display
-            lines.append(f"  [{struct['id']}] {struct['type']}: {struct['name'].title()}")
-        if len(structures) > 20:
-            lines.append(f"  ... and {len(structures) - 20} more")
+    # Ownership info from plus data
+    if plus_data is not None:
+        civ_id = get_child_text(plus_data, 'civ_id', '')
+        cur_owner_id = get_child_text(plus_data, 'cur_owner_id', '')
+
+        if entity_names is None:
+            entity_names = {}
+
+        if civ_id:
+            civ_name = entity_names.get(civ_id, f"entity #{civ_id}")
+            lines.append(f"Built By: {civ_name} (entity #{civ_id})")
+
+        if cur_owner_id:
+            owner_name = entity_names.get(cur_owner_id, f"entity #{cur_owner_id}")
+            lines.append(f"Current Owner: {owner_name} (entity #{cur_owner_id})")
+            lines.append(f"Status: ACTIVE")
+        elif civ_id:
+            # Has civ_id but no cur_owner_id = abandoned/ruined
+            lines.append(f"Current Owner: NONE")
+            lines.append(f"Status: ABANDONED/RUINED")
+        else:
+            # No civ_id = lair or natural site
+            lines.append(f"Status: Unowned (lair/natural)")
+
+        # Structures from plus data (more detailed)
+        structures = parse_structures(plus_data)
+        if structures:
+            lines.append(f"\nStructures ({len(structures)}):")
+            for struct in structures[:20]:
+                struct_line = f"  [{struct['id']}] {struct['type']}: {struct['name'].title()}"
+                if struct['name2']:
+                    struct_line += f" ({struct['name2']})"
+                lines.append(struct_line)
+            if len(structures) > 20:
+                lines.append(f"  ... and {len(structures) - 20} more")
+    else:
+        # Fallback to base structures
+        struct_section = site.find('structures')
+        if struct_section is not None:
+            structures = []
+            for struct in struct_section.findall('structure'):
+                struct_id = get_child_text(struct, 'local_id')
+                struct_type = get_child_text(struct, 'type')
+                struct_name = get_child_text(struct, 'name', '(unnamed)')
+                structures.append({'id': struct_id, 'type': struct_type, 'name': struct_name})
+            if structures:
+                lines.append(f"\nStructures ({len(structures)}):")
+                for struct in structures[:20]:
+                    lines.append(f"  [{struct['id']}] {struct['type']}: {struct['name'].title()}")
+                if len(structures) > 20:
+                    lines.append(f"  ... and {len(structures) - 20} more")
 
     return '\n'.join(lines)
 
@@ -168,14 +249,33 @@ def main():
         print(f"No sites found matching: {args.query or args.type}")
         return 1
 
+    # Load plus data for ownership info
+    plus_data = load_sites_plus()
+    entity_names = load_entity_names()
+
     for site in results:
+        site_id = get_child_text(site, 'id')
+        site_plus = plus_data.get(site_id)
+
         if args.brief:
-            site_id = get_child_text(site, 'id')
             name = get_child_text(site, 'name', '(unnamed)')
             site_type = get_child_text(site, 'type', 'unknown')
-            print(f"#{site_id}: {name.title()} ({site_type})")
+
+            # Add ownership status to brief output
+            status = ""
+            if site_plus is not None:
+                civ_id = get_child_text(site_plus, 'civ_id', '')
+                cur_owner_id = get_child_text(site_plus, 'cur_owner_id', '')
+                if cur_owner_id:
+                    status = " [ACTIVE]"
+                elif civ_id:
+                    status = " [ABANDONED]"
+                else:
+                    status = " [unowned]"
+
+            print(f"#{site_id}: {name.title()} ({site_type}){status}")
         else:
-            print(format_site(site))
+            print(format_site(site, site_plus, entity_names))
             print()
 
     if len(results) == args.limit:

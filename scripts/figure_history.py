@@ -56,11 +56,12 @@ def load_all_figures():
 
 
 def load_all_sites():
-    """Load all sites into cache."""
+    """Load all sites into cache (merging base and plus data)."""
     global _site_cache
     if _site_cache:
         return _site_cache
 
+    # Load base site data
     site_file = PARSED_DIR / "entities" / "sites.xml"
     if site_file.exists():
         tree = ET.parse(site_file)
@@ -68,17 +69,31 @@ def load_all_sites():
         for site in root.findall('.//site'):
             sid = get_child_text(site, 'id')
             if sid:
-                _site_cache[sid] = site
+                _site_cache[sid] = {'base': site, 'plus': None}
+
+    # Load plus data (has ownership info)
+    plus_file = PARSED_DIR / "entities" / "sites_plus.xml"
+    if plus_file.exists():
+        tree = ET.parse(plus_file)
+        root = tree.getroot()
+        for site in root.findall('.//site'):
+            sid = get_child_text(site, 'id')
+            if sid:
+                if sid in _site_cache:
+                    _site_cache[sid]['plus'] = site
+                else:
+                    _site_cache[sid] = {'base': None, 'plus': site}
 
     return _site_cache
 
 
 def load_all_entities():
-    """Load all entities into cache."""
+    """Load all entities into cache (merging base and plus data)."""
     global _entity_cache
     if _entity_cache:
         return _entity_cache
 
+    # Load base entity data
     ent_file = PARSED_DIR / "entities" / "entities.xml"
     if ent_file.exists():
         tree = ET.parse(ent_file)
@@ -86,7 +101,20 @@ def load_all_entities():
         for ent in root.findall('.//entity'):
             eid = get_child_text(ent, 'id')
             if eid:
-                _entity_cache[eid] = ent
+                _entity_cache[eid] = {'base': ent, 'plus': None}
+
+    # Load plus data (has race/type info)
+    plus_file = PARSED_DIR / "entities" / "entities_plus.xml"
+    if plus_file.exists():
+        tree = ET.parse(plus_file)
+        root = tree.getroot()
+        for ent in root.findall('.//entity'):
+            eid = get_child_text(ent, 'id')
+            if eid:
+                if eid in _entity_cache:
+                    _entity_cache[eid]['plus'] = ent
+                else:
+                    _entity_cache[eid] = {'base': None, 'plus': ent}
 
     return _entity_cache
 
@@ -121,22 +149,56 @@ def get_figure_name(figure_id):
 
 
 def get_site_name(site_id):
-    """Get a site's name by ID."""
+    """Get a site's name by ID with ownership status."""
     sites = load_all_sites()
-    site = sites.get(str(site_id))
-    if site is not None:
-        name = get_child_text(site, 'name', '(unnamed)')
-        site_type = get_child_text(site, 'type', '')
-        return f"{name.title()} ({site_type})"
+    site_data = sites.get(str(site_id))
+    if site_data is not None:
+        base = site_data.get('base')
+        plus = site_data.get('plus')
+
+        name = "(unnamed)"
+        site_type = ""
+        status = ""
+
+        if base is not None:
+            name = get_child_text(base, 'name', '(unnamed)')
+            site_type = get_child_text(base, 'type', '')
+
+        # Check ownership status from plus data
+        if plus is not None:
+            civ_id = get_child_text(plus, 'civ_id', '')
+            cur_owner = get_child_text(plus, 'cur_owner_id', '')
+            if cur_owner:
+                status = ""  # Active, no special marker needed
+            elif civ_id:
+                status = " [ABANDONED]"
+
+        return f"{name.title()} ({site_type}){status}"
     return f"site #{site_id}"
 
 
 def get_entity_name(entity_id):
-    """Get an entity's name by ID."""
+    """Get an entity's name by ID with type info."""
     entities = load_all_entities()
-    ent = entities.get(str(entity_id))
-    if ent is not None:
-        return get_child_text(ent, 'name', '(unnamed)').title()
+    ent_data = entities.get(str(entity_id))
+    if ent_data is not None:
+        base = ent_data.get('base')
+        plus = ent_data.get('plus')
+
+        name = "(unnamed)"
+        extra = ""
+
+        if base is not None:
+            name = get_child_text(base, 'name', '(unnamed)')
+
+        # Add race/type from plus data
+        if plus is not None:
+            race = get_child_text(plus, 'race', '')
+            ent_type = get_child_text(plus, 'type', '')
+            if race and ent_type:
+                extra = f" [{race} {ent_type}]"
+
+        return f"{name.title()}{extra}"
     return f"entity #{entity_id}"
 
 

@@ -29,7 +29,7 @@ def get_all_child_texts(elem, tag):
     return [child.text for child in elem.findall(tag) if child.text]
 
 
-def format_entity(entity, plus_data=None):
+def format_entity(entity, plus_data=None, pop_data=None):
     """Format an entity for display."""
     entity_id = get_child_text(entity, 'id')
     name = get_child_text(entity, 'name', '(unnamed)')
@@ -48,6 +48,17 @@ def format_entity(entity, plus_data=None):
             lines.append(f"Race: {race.replace('_', ' ').title()}")
         if entity_type:
             lines.append(f"Type: {entity_type.replace('_', ' ').title()}")
+
+    # Population data
+    if pop_data:
+        total = sum(pop_data.values())
+        if len(pop_data) == 1:
+            race, count = list(pop_data.items())[0]
+            lines.append(f"Population: {count} {race.replace('_', ' ')}")
+        else:
+            lines.append(f"Population: {total} total")
+            for race, count in sorted(pop_data.items(), key=lambda x: -x[1]):
+                lines.append(f"  - {race.replace('_', ' ')}: {count}")
 
     # Worship
     worship = get_all_child_texts(entity, 'worship_id')
@@ -101,6 +112,35 @@ def load_entities_plus():
     return plus_data
 
 
+def load_entity_populations():
+    """Load entity population data (race counts per civilization)."""
+    pop_file = ENTITIES_DIR / "entity_populations_plus.xml"
+    if not pop_file.exists():
+        return {}
+
+    tree = ET.parse(pop_file)
+    root = tree.getroot()
+
+    # Map civ_id -> {race: count, ...}
+    populations = {}
+    for pop in root.findall('.//entity_population'):
+        civ_id = get_child_text(pop, 'civ_id')
+        race_data = get_child_text(pop, 'race', '')
+
+        if civ_id and race_data and ':' in race_data:
+            race, count = race_data.rsplit(':', 1)
+            try:
+                count = int(count)
+            except ValueError:
+                continue
+
+            if civ_id not in populations:
+                populations[civ_id] = {}
+            populations[civ_id][race] = count
+
+    return populations
+
+
 def find_by_id(entity_id):
     """Find an entity by exact ID."""
     for entity in load_entities():
@@ -128,6 +168,7 @@ def list_all_entities():
     """List all entities with their types."""
     entities = load_entities()
     plus_data = load_entities_plus()
+    pop_data = load_entity_populations()
 
     print(f"All entities ({len(entities)}):\n")
 
@@ -136,10 +177,15 @@ def list_all_entities():
         name = get_child_text(entity, 'name', '(unnamed)')
 
         plus = plus_data.get(entity_id)
-        if plus:
+        if plus is not None:
             race = get_child_text(plus, 'race', '?')
             entity_type = get_child_text(plus, 'type', '?')
-            print(f"#{entity_id}: {name.title()} ({race} {entity_type})")
+            pop_info = ""
+            entity_pop = pop_data.get(entity_id)
+            if entity_pop:
+                total = sum(entity_pop.values())
+                pop_info = f" [pop: {total}]"
+            print(f"#{entity_id}: {name.title()} ({race} {entity_type}){pop_info}")
         else:
             print(f"#{entity_id}: {name.title()}")
 
@@ -178,6 +224,7 @@ def main():
         return 1
 
     plus_data = load_entities_plus()
+    pop_data = load_entity_populations()
 
     for entity in results:
         entity_id = get_child_text(entity, 'id')
@@ -185,13 +232,18 @@ def main():
             name = get_child_text(entity, 'name', '(unnamed)')
             plus = plus_data.get(entity_id)
             extra = ""
-            if plus:
+            if plus is not None:
                 race = get_child_text(plus, 'race', '')
                 entity_type = get_child_text(plus, 'type', '')
                 extra = f" ({race} {entity_type})" if race else ""
+            # Add population to brief output
+            entity_pop = pop_data.get(entity_id)
+            if entity_pop:
+                total = sum(entity_pop.values())
+                extra += f" [pop: {total}]"
             print(f"#{entity_id}: {name.title()}{extra}")
         else:
-            print(format_entity(entity, plus_data.get(entity_id)))
+            print(format_entity(entity, plus_data.get(entity_id), pop_data.get(entity_id)))
             print()
 
     if len(results) == args.limit:
